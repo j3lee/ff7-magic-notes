@@ -56,10 +56,10 @@ canvas { display: block; width: 100%; touch-action: manipulation; cursor: crossh
   <div class="facts" id="facts"></div>
   <div class="bar">
     <div class="seg" role="group" aria-label="View">
-      <button id="v-files" aria-pressed="true">Files</button>
-      <button id="v-roll" aria-pressed="false">Contents</button>
-      <button id="v-code" aria-pressed="false">Code by spell</button>
+      <button id="v-roll" aria-pressed="true">Contents</button>
       <button id="v-fam" aria-pressed="false">Code by family</button>
+      <button id="v-files" aria-pressed="false">Files</button>
+      <button id="v-code" aria-pressed="false">Code by spell</button>
     </div>
     <div class="legend" id="legend"></div>
   </div>
@@ -73,7 +73,7 @@ const D = {"ov":[["aeroga",105036,2660,0,102308,0,0,0,0,68],["alex",254332,27564
 const KIND_LABEL = {code:'Code', img:'Images (TIM)', buf:'Empty draw buffers', zero:'Other zero fill', model:'3D models', anim:'Animation', sprite:'Sprite tables', other:'Other / not placed'};
 const BINS = [[1,'c-1','In one spell only'],[2,'c-2','Copied in 2 to 4 spells'],[5,'c-5','5 to 19 spells'],[20,'c-20','20 to 49 spells'],[50,'c-50','50 or more spells']];
 const cv = document.getElementById('cv'), ctx = cv.getContext('2d');
-let view = 'files', tiles = [], groups = [], sel = null, hover = null, col = {};
+let view = 'roll', tiles = [], groups = [], sel = null, hover = null, col = {};
 
 const fmt = n => n >= 1e6 ? (n/1e6).toFixed(n >= 1e7 ? 1 : 2) + ' MB' : n >= 1000 ? (n/1000).toFixed(n >= 1e5 ? 0 : 1) + ' kB' : n + ' B';
 const pct = (a, b) => (100*a/b).toFixed(a/b < 0.1 ? 1 : 0) + '%';
@@ -228,7 +228,7 @@ let rz; window.addEventListener('resize', () => { clearTimeout(rz); rz = setTime
 const retheme = () => { readColors(); draw(); };
 window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', retheme);
 new MutationObserver(retheme).observe(document.documentElement, {attributes: true, attributeFilter: ['data-theme']});
-readColors(); facts(); setView('files');
+readColors(); facts(); setView('roll');
 if (document.fonts && document.fonts.ready) document.fonts.ready.then(draw);
 </script>
 </body>

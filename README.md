@@ -4,8 +4,8 @@ Notes and measurements on the 287 `MAGIC/*.BIN` overlays of Final Fantasy VII (U
 working on [ff7-decomp](https://github.com/Xeeynamo/ff7-decomp). Everything here was measured from the original
 files, not from decompiled C. No game data is in this repository: file names, sizes, hashes and counts only.
 
-- **[Treemap](https://j3lee.github.io/ff7-magic-notes/)**: every overlay drawn by size. Four views: each file by
-  content, all files rolled up by content, code by spell, and code grouped into families of identical functions.
+- **[Treemap](https://j3lee.github.io/ff7-magic-notes/)**: every overlay drawn by size. Four views: all files rolled up by
+  content, code grouped into families of identical functions, each file by content, and code by spell.
 - **[MAGIC-OVERLAYS-SHARED.md](MAGIC-OVERLAYS-SHARED.md)**: the write-up. Scale, shared code, the common skeleton
   of an overlay, data and assets, the same data in the PC release, and what was not measured.
 - `MAGIC-OVERLAYS-FAMILIES.tsv`: one row per family of instruction-identical functions (311 families).
