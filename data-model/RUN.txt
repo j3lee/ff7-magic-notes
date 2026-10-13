@@ -1,0 +1,59 @@
+overlays 287  bytes 45515711
+
+by kind (blocks, bytes, share of all bytes)
+  tim                       283   19678032   43.23 %
+  zero.buffers              175   17706368   38.90 %
+  zero                      412    2044586    4.49 %
+  model                    1009    2024004    4.45 %
+  code                      287    1772452    3.89 %
+  container.mesh            579    1109380    2.44 %
+  svec                      107     328968    0.72 %
+  animpack.anim             198     299488    0.66 %
+  container.anim             54     174208    0.38 %
+  sprite                    784     169068    0.37 %
+  unplaced                  318     119046    0.26 %
+  private                   627      55279    0.12 %
+  container.bones            23       6804    0.01 %
+  desc.model                369       5904    0.01 %
+  desc.sprite               486       5832    0.01 %
+  pointers                  198       4948    0.01 %
+  anim                        1       3112    0.01 %
+  animpack.header            43       2932    0.01 %
+  animpack.placeholder      492       1968    0.00 %
+  container.script           23       1520    0.00 %
+  container.tim0             13        832    0.00 %
+  container.header           23        584    0.00 %
+  pad                        65        396    0.00 %
+
+coverage
+  code (from the overlay table)                                                     1772452    3.89 % of all,   0.00 % of data
+  data walked by a format of the model                                             23488616   51.61 % of all,  53.70 % of data
+  zero fill                                                                        19751350   43.39 % of all,  45.15 % of data
+  typed by shape only (vector arrays)                                                328968    0.72 % of all,   0.75 % of data
+  not placed, but code addresses it (the overlay's own variables and tables)          55279    0.12 % of all,   0.13 % of data
+  not placed, nothing addresses it                                                   119046    0.26 % of all,   0.27 % of data
+  data bytes 43743259; non-zero-fill data 23991909; of that walked by a format: 97.90 %; with shape-only: 99.27 %
+  all bytes placed (code + format + zero): 98.89 %
+
+consistency between formats
+  container scripts                                                                      23
+  scripts made only of animation indices and C9 / C1 / F1                                15
+  ... whose every index is below the container's animation count                         15
+  sprite tables                                                                          784
+  sprite tables whose every clut lies in a clut rectangle of a TIM of the same overlay   693
+  sprite tables whose every tpage overlaps a pixel rectangle of a TIM of the same overlay 727
+
+PC archive against the claimed blocks
+  aNN files                            79
+  aNN records identical                249
+  aNN records                          266
+  b files                              23
+  d files                              36
+  p files                              2065
+  s files                              806
+  matched: aNN                         64
+  matched: b                           23
+  matched: d                           22
+  matched: p                           823
+  matched: pNN                         526
+  matched: s                           764

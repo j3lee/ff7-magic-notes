@@ -13,6 +13,22 @@ files, not from decompiled C. No game data is in this repository: file names, si
 - `MAGIC-OVERLAYS-NUMBERS.json`: every figure quoted in the write-up.
 - `magic_shared.py`: the script that produces the tables from the overlay files (standard library only).
 
+## More detail, by folder
+
+- `data-model/`: a model of every data block in the overlays. `MAGIC-DATA-MODEL.md` describes each format,
+  `magic_data.h` declares them, `magic_data.py` walks all 287 files with them (98.9% of bytes placed; `RUN.txt` is
+  its output), `BLOCKS.tsv` lists every block found, `COVERAGE.tsv` is the per-overlay total, `UNPLACED.tsv` is
+  what no format claimed, `OVERLAY-ASSETS.tsv` maps overlays to their assets, and `OPEN-QUESTIONS.md` lists what
+  is not settled.
+- `deathlv5/`: the one N-World (Lisp) source asset left in the PC release, matched to the skull model in
+  `SENNKOKU.BIN` (`DEATHLV5-FINDINGS.md`, checked by `sennkoku_geo_check.py`), with a static reading of what that
+  overlay's code does (`SENNKOKU-CALLS.md`, `SENNKOKU-MAP.tsv`).
+- `pc-archive/`: the PC release's `magic.lgp` measured against the PS1 overlays (`PC-MAGIC-LGP.md`), the list of
+  its entries by name and kind (`PC-ASSETS.tsv`) and the unpacker used (`lgp_unpack.py`).
+
+Each document says what was measured, what is inferred and what was not checked. Where two documents count the
+same thing differently, the difference is the definition, as in the note at the end of this page.
+
 ## The short version
 
 - All 287 overlays load at `0x801B0000` and are entered through one table in the battle executable.

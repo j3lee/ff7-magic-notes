@@ -1,0 +1,2024 @@
+overlay	offset	kind	bytes	pc_names
+alex	0x2D6B0	model	436	ff7/data/battle/summon/vahamut2/rock_1.p
+alex	0x2DBCC	model	1468	ff7/data/battle/summon/alexand/flash_1.p
+alex	0x2E188	model	2228	ff7/data/battle/summon/alexand/exp_1.p
+alex	0x2EA3C	sprite	392	ff7/data/battle/summon/alexand/smoke_1.s ff7/data/battle/summon/odin1/smoke_x.s
+alex	0x2EBC4	sprite	32	exp_1a.s
+alex	0x2EBE4	sprite	32	ff7/data/battle/summon/alexand/exp_2.s
+alex	0x2EC04	sprite	32	ff7/data/battle/summon/alexand/exp_3.s
+alex	0x2EC24	sprite	32	exp_4.s
+alex	0x2EC44	sprite	32	exp_5.s
+alex	0x2EC64	sprite	32	exp_6.s
+alex	0x2EC84	sprite	32	exp_7.s
+alex	0x2ECA4	sprite	32	exp_8.s
+alex	0x2ECC4	sprite	32	exp_9.s
+alex	0x2ECE4	sprite	32	exp_10.s
+alex	0x2ED04	sprite	32	exp_11.s
+alex	0x2ED24	sprite	32	exp_12.s
+alex	0x2ED5C	container.bones	332	alexdat.d
+alex	0x2EEA8	container.mesh	4156	alexdat.p00
+alex	0x2FEE4	container.mesh	1124	alexdat.p01
+alex	0x30348	container.mesh	884	alexdat.p02
+alex	0x306BC	container.mesh	836	alexdat.p03
+alex	0x30A00	container.mesh	980	alexdat.p04
+alex	0x30DD4	container.mesh	1916	alexdat.p05
+alex	0x31550	container.mesh	10236	alexdat.p06
+alex	0x33D4C	container.mesh	2712	alexdat.p07
+alex	0x347E4	container.mesh	988	alexdat.p08
+alex	0x34BC0	container.mesh	712	alexdat.p10
+alex	0x34E88	container.mesh	1204	alexdat.p12
+alex	0x3533C	container.mesh	1992	alexdat.p14
+alex	0x35B04	container.mesh	868	alexdat.p16
+alex	0x35E68	container.mesh	692	alexdat.p18
+alex	0x3611C	container.mesh	1204	alexdat.p20
+alex	0x365D0	container.mesh	1204	alexdat.p22
+alex	0x36A84	container.mesh	988	alexdat.p24
+alex	0x36E60	container.mesh	1048	alexdat.p26
+alex	0x37278	container.mesh	1988	alexdat.p28
+alex	0x37A3C	container.mesh	1988	alexdat.p30
+alex	0x38200	container.mesh	788	alexdat.p32 k01.p
+alex	0x38514	container.mesh	3188	alexdat.p34
+alex	0x39188	container.mesh	5284	alexdat.p35
+alex	0x3A62C	container.mesh	3188	alexdat.p37
+alex	0x3B2A0	container.mesh	5284	alexdat.p38
+alex	0x3C744	container.mesh	2356	alexdat.p39
+alex	0x3D078	container.script	80	alexdat.b
+alex	0x3D0C8	container.anim	272	alexdat.a00
+alex	0x3D1D8	container.anim	2328	alexdat.a00
+alex	0x3E00C	model	148	k01.p
+altema	0x11074	model	1948	altema_1.p
+angermax	0xCCC0	model	1508	a_max.p k01.p
+angermax	0xD2A4	model	500	k01.p oita.p
+angermax	0xD498	sprite	200	a_max.s
+angermax	0xD560	model	340	ff7/data/battle/limit/a_max/jo_fir.p ff7/data/battle/magic/mgun/jo_fir.p
+aqua	0x10840	sprite	332	aqua.s dragon.s ff7/data/battle/blue/magikal/magikal.s ff7/data/battle/special/heatbu/magikal.s
+atomic	0x21B94	model	716	k01.p zimen.p
+atomic	0x21E60	model	1476	ff7/data/battle/special/atmic/kueisa.p ff7/data/battle/special/club2/kueisa.p ff7/data/battle/special/kueisa/kueisa.p nozan.p sazan.p
+atomic	0x22424	model	1636	ff7/data/battle/special/atmic/soto1.p ff7/data/battle/special/atmic/soto2.p ff7/data/battle/special/atmic/soto3.p ff7/data/battle/special/atmic/soto4.p ff7/data/battle/special/atmic/soto5.p
+atomic	0x22A88	model	1636	ff7/data/battle/special/atmic/soto1.p ff7/data/battle/special/atmic/soto2.p ff7/data/battle/special/atmic/soto3.p ff7/data/battle/special/atmic/soto4.p ff7/data/battle/special/atmic/soto5.p
+atomic	0x230EC	model	1636	ff7/data/battle/special/atmic/soto1.p ff7/data/battle/special/atmic/soto2.p ff7/data/battle/special/atmic/soto3.p ff7/data/battle/special/atmic/soto4.p ff7/data/battle/special/atmic/soto5.p
+atomic	0x23750	model	1636	ff7/data/battle/special/atmic/soto1.p ff7/data/battle/special/atmic/soto2.p ff7/data/battle/special/atmic/soto3.p ff7/data/battle/special/atmic/soto4.p ff7/data/battle/special/atmic/soto5.p
+atomic	0x23DB4	model	1636	ff7/data/battle/special/atmic/soto1.p ff7/data/battle/special/atmic/soto2.p ff7/data/battle/special/atmic/soto3.p ff7/data/battle/special/atmic/soto4.p ff7/data/battle/special/atmic/soto5.p
+atomic	0x24418	model	676	ff7/data/battle/special/atmic/domu.p ff7/data/battle/special/s_bless/domu.p k01.p
+atomic	0x246BC	model	468	ff7/data/battle/special/atmic/dosoto.p ff7/data/battle/special/s_bless/dosoto.p
+atomic	0x24890	model	580	ff7/data/battle/special/atmic/soko.p
+atomic	0x24AD4	model	1956	uchia.p
+atomic	0x25278	model	1956	uchib.p
+atomic	0x25A1C	model	596	ff7/data/battle/special/atmic/kemu.p
+atomic	0x25C70	sprite	200	a.s
+atomic	0x25D38	sprite	392	ff7/data/battle/special/atmic/elec1.s
+atomic	0x25EC0	sprite	392	ff7/data/battle/special/atmic/elec2.s
+atomic	0x26048	sprite	92	hikari11.s
+atomic	0x260A4	sprite	172	hikari12.s
+atomic	0x26150	sprite	52	ff7/data/battle/special/atmic/hikari2.s
+atomic	0x26184	sprite	152	elecbi.s
+atomic	0x2621C	sprite	52	ff7/data/battle/special/atmic/maru.s
+atomic	0x26250	sprite	296	ff7/data/battle/special/atmic/hit1.s ff7/data/battle/special/frog/baku11.s ff7/data/battle/special/gesui1/baku1.s ff7/data/battle/special/kona/baku1.s ff7/data/battle/special/mizu/baku1.s ff7/data/battle/special/nozan/elehit1.s ff7/data/battle/special/pink/baku1.s ff7/data/battle/special/sazan/elehit1.s
+atomic	0x26378	sprite	296	ff7/data/battle/special/atmic/hit2.s ff7/data/battle/special/nozan/elehit2.s ff7/data/battle/special/sazan/elehit2.s ff7/data/battle/special/smog/elehit2.s ff7/data/battle/special/triangle/hit2.s
+atomic	0x264A0	sprite	296	ff7/data/battle/special/atmic/hit3.s ff7/data/battle/special/nozan/elehit3.s ff7/data/battle/special/sazan/elehit3.s ff7/data/battle/special/smog/elehit3.s ff7/data/battle/special/triangle/hit3.s
+atomic	0x265C8	sprite	296	ff7/data/battle/special/atmic/hit4.s ff7/data/battle/special/nozan/elehit4.s ff7/data/battle/special/sazan/elehit4.s ff7/data/battle/special/smog/elehit4.s ff7/data/battle/special/triangle/hit4.s
+atomic	0x266F0	sprite	392	ff7/data/battle/special/atmic/baku1.s
+awa	0x11DC	model	1092	ff7/data/battle/special/awa2/suna2.p ff7/data/battle/special/cold1/hubuki1.p ff7/data/battle/special/hubuki/hubuki1.p ff7/data/battle/special/kahun/suna2.p ff7/data/battle/special/pink/suna2.p ff7/data/battle/special/suna/suna2.p
+awa	0x196E0	sprite	32	ff7/data/battle/special/awa2/maru.s
+awa	0x19700	sprite	296	ff7/data/battle/special/awa2/baku1.s
+ayasii	0x65C4	sprite	956	ayasii.s ff7/data/battle/blue/hatena/hatena1.s ff7/data/battle/limit2/toybox/hatena1.s goblinp1.s kaeru.s lv4jiba.s matra.s todo_3.s
+bacume	0x5B80	model	4876	bakyuu1.p
+bacume	0x6E8C	sprite	56	ff7/data/battle/special/bakyu/tama.s
+beam	0x157D0	sprite	32	ff7/data/battle/weapon/beam1/awa_1.s
+beam	0x15978	model	2668	beam1.p
+beam	0x163E4	model	2668	beam2.p
+beam	0x16E50	model	1468	energy1.p energy2.p
+beam	0x1740C	model	1468	energy1.p energy2.p
+beast	0x12ECC	model	1468	ff7/data/battle/limit2/beast/exp_2.p
+beat	0xB010	model	1028	gl_light.p
+beat	0xB414	sprite	248	daichi.s kodou.s
+beat	0xB50C	sprite	104	hl_light.s
+beat	0xB574	sprite	248	stardust.s
+beat	0xB66C	sprite	248	stardst2.s
+beata	0x1133C	model	3572	beata_1.p
+beata	0x12130	model	2812	beata_2.p
+berserk	0x208D8	model	1940	barsac_1.p
+berserk	0x2106C	sprite	344	ff7/data/battle/magic/barsac/elec_1.s
+berserk	0x211C4	sprite	344	ff7/data/battle/magic/barsac/smoke_1.s
+bio	0x7728	sprite	176	ff7/data/battle/magic/bio/bio_a.s
+bio	0x77D8	sprite	152	bubble_a.s
+bioga1	0x20E84	model	11268	00.p
+bioga1	0x31BB0	sprite	176	ff7/data/battle/magic/bio2/bio_a.s ff7/data/battle/magic/bio3/bio_a.s
+bioga2	0x17CD0	model	23452	ff7/data/battle/magic/bio4/01.p
+bioga2	0x33658	sprite	176	ff7/data/battle/magic/bio4/bio_a.s
+bioga2	0x33708	sprite	152	bubble_c.s
+biora	0x1CAC8	sprite	152	bubble_b.s
+biora	0x1CB60	sprite	176	ff7/data/battle/magic/bio2/bio_a.s ff7/data/battle/magic/bio3/bio_a.s
+blaster	0x21B38	model	452	ff7/data/battle/special/b_2/wa.p
+blaster	0x21CFC	model	884	ff7/data/battle/special/b_2/senkou1.p ff7/data/battle/special/naparm/senkou1.p ff7/data/battle/special/re_do/senkou1.p ff7/data/battle/special/tyokyu/senkou1.p
+blaster	0x22814	model	1956	ene.p enesoto.p
+blaster	0x22FB8	model	4004	ff7/data/battle/special/b_2/tama1.p ff7/data/battle/special/energy/tama1.p ff7/data/battle/special/hado/tama1.p ff7/data/battle/special/hadoho/tama1.p ff7/data/battle/special/ho_den/tama1.p ff7/data/battle/special/re_do/tama1.p ff7/data/battle/special/syaku/tama1.p ff7/data/battle/special/tyokyu/tama1.p
+blaster	0x23F5C	model	4004	ff7/data/battle/special/b_2/tama2.p ff7/data/battle/special/energy/tama2.p ff7/data/battle/special/hado/tama2.p ff7/data/battle/special/hadoho/tama2.p ff7/data/battle/special/ho_den/tama2.p ff7/data/battle/special/re_do/tama2.p ff7/data/battle/special/syaku/tama2.p ff7/data/battle/special/tyokyu/tama2.p
+blaster	0x24F00	model	324	ff7/data/battle/special/b_2/moto.p ff7/data/battle/special/energy/moto.p ff7/data/battle/special/hado/moto.p ff7/data/battle/special/hadoho/moto.p ff7/data/battle/special/ho_den/moto.p ff7/data/battle/special/re_do/moto.p ff7/data/battle/special/syaku/moto.p ff7/data/battle/special/tyokyu/moto.p
+blaster	0x25044	model	612	ff7/data/battle/special/b_2/soto.p ff7/data/battle/special/hadoho/soto.p ff7/data/battle/special/re_do/soto.p ff7/data/battle/special/syaku/soto.p ff7/data/battle/special/tyokyu/soto.p ff7/data/battle/weapon/dia_u/soto.p
+blaster	0x252A8	model	1956	ff7/data/battle/special/b_2/netu1.p ff7/data/battle/special/netu/netu1.p ff7/data/battle/special/reiki/netu1.p ff7/data/battle/special/s_bless/netu1.p ff7/data/battle/special/saikyo/netu1.p
+blaster	0x25A4C	model	372	honou1.p
+blaster	0x25BC0	model	1700	ff7/data/battle/special/b_2/uchi1.p ff7/data/battle/special/b_2/uchi2.p ff7/data/battle/special/b_2/uchi3.p ff7/data/battle/special/b_2/uchi4.p ff7/data/battle/special/b_2/uchi5.p ff7/data/battle/special/b_2/uchi6.p ff7/data/battle/special/b_2/uchi7.p ff7/data/battle/special/b_2/uchi8.p
+blaster	0x26264	model	1700	ff7/data/battle/special/b_2/uchi1.p ff7/data/battle/special/b_2/uchi2.p ff7/data/battle/special/b_2/uchi3.p ff7/data/battle/special/b_2/uchi4.p ff7/data/battle/special/b_2/uchi5.p ff7/data/battle/special/b_2/uchi6.p ff7/data/battle/special/b_2/uchi7.p ff7/data/battle/special/b_2/uchi8.p
+blaster	0x26908	model	1700	ff7/data/battle/special/b_2/uchi1.p ff7/data/battle/special/b_2/uchi2.p ff7/data/battle/special/b_2/uchi3.p ff7/data/battle/special/b_2/uchi4.p ff7/data/battle/special/b_2/uchi5.p ff7/data/battle/special/b_2/uchi6.p ff7/data/battle/special/b_2/uchi7.p ff7/data/battle/special/b_2/uchi8.p
+blaster	0x26FAC	model	1700	ff7/data/battle/special/b_2/uchi1.p ff7/data/battle/special/b_2/uchi2.p ff7/data/battle/special/b_2/uchi3.p ff7/data/battle/special/b_2/uchi4.p ff7/data/battle/special/b_2/uchi5.p ff7/data/battle/special/b_2/uchi6.p ff7/data/battle/special/b_2/uchi7.p ff7/data/battle/special/b_2/uchi8.p
+blaster	0x27650	model	1700	ff7/data/battle/special/b_2/uchi1.p ff7/data/battle/special/b_2/uchi2.p ff7/data/battle/special/b_2/uchi3.p ff7/data/battle/special/b_2/uchi4.p ff7/data/battle/special/b_2/uchi5.p ff7/data/battle/special/b_2/uchi6.p ff7/data/battle/special/b_2/uchi7.p ff7/data/battle/special/b_2/uchi8.p
+blaster	0x27CF4	model	1700	ff7/data/battle/special/b_2/uchi1.p ff7/data/battle/special/b_2/uchi2.p ff7/data/battle/special/b_2/uchi3.p ff7/data/battle/special/b_2/uchi4.p ff7/data/battle/special/b_2/uchi5.p ff7/data/battle/special/b_2/uchi6.p ff7/data/battle/special/b_2/uchi7.p ff7/data/battle/special/b_2/uchi8.p
+blaster	0x290E0	model	580	ff7/data/battle/special/b_2/hikari1.p
+blaster	0x29324	model	756	hikari2.p
+blaster	0x29618	sprite	56	ff7/data/battle/special/b_2/kou.s
+blaster	0x29650	sprite	200	ff7/data/battle/special/b_2/baku2.s
+blaster	0x29718	sprite	392	ff7/data/battle/special/b_2/baku1.s
+blaver	0xE628	sprite	668	shining.s
+blaver	0xE8C4	sprite	176	blaver.s
+boost	0x852C	sprite	200	ff7/data/battle/limit2/hitumetu/chi_1.s ff7/data/battle/limit2/matsuri/chi_1.s ff7/data/battle/limit3/b_jump/h_jump.s ff7/data/battle/limit3/h_jump/h_jump.s ff7/data/battle/special/frog/hit11.s ff7/data/battle/special/scorp/hit11.s ff7/data/battle/special/sekika/hit11.s
+boost	0x85F4	sprite	152	ff7/data/battle/limit3/b_jump/hj_hit.s ff7/data/battle/limit3/h_jump/hj_hit.s
+brand	0x4930	model	660	ikari1.p
+brand	0x4BC4	model	916	ikari2.p
+brand	0x4F58	sprite	96	thunder.s
+brand	0x4FB8	sprite	200	dengeki1.s
+brand	0x5080	sprite	200	dengeki2.s
+break	0x1895C	model	10012	ff7/data/battle/magic/break/wind_1.p
+break	0x1C99C	model	2324	ff7/data/battle/magic/break/wind_2.p
+brizad	0x3F0	model	3092	brizad.p
+brizag	0xF4CC	model	5668	brizag_2.p
+brizag2	0x25B38	sprite	600	ff7/data/battle/magic/brizag2/smoke1.s
+brizag2	0x25D90	sprite	200	ff7/data/battle/magic/brizag2/smoke2.s
+brizara	0x8844	model	1844	brizar.p
+bushin2	0x2386C	model	3348	ff7/data/battle/limit/busin/ring_1.p
+bushin2	0x24580	model	3348	ff7/data/battle/limit/busin/ring_2.p
+bushin2	0x25294	model	2324	ring_3.p
+bushin2	0x25BA8	model	508	ff7/data/battle/limit/busin/line_1.p ff7/data/battle/summon/vahamut3/line_1.p
+bushin2	0x25DA4	model	1316	ff7/data/battle/limit/busin/flash_1.p
+bushin2	0x262C8	model	2068	ff7/data/battle/limit/busin/air_1.p
+bushin2	0x26ADC	model	1948	ff7/data/battle/limit/busin/flash_2.p
+bushin2	0x27278	model	308	ff7/data/battle/limit/busin/line_2.p
+bushin2	0x273AC	model	2068	air_2.p ff7/data/battle/limit/busin/sonic_1.p
+bushin2	0x283D4	model	308	line_3.p
+bushin2	0x28724	sprite	200	ff7/data/battle/limit/busin/hit_1.s
+bushin2	0x287EC	sprite	200	ff7/data/battle/limit/busin/smoke_1.s
+bushin2	0x288B4	sprite	332	light_1.s
+catastro	0x14D54	model	4684	ff7/data/battle/limit/catastro/beam_1.p
+catastro	0x15FA0	model	1468	beam_2.p
+catastro	0x1655C	model	916	beam_3a.p
+catastro	0x168F0	sprite	296	ff7/data/battle/limit/catastro/smoke_1.s
+catastro	0x16A18	sprite	200	ff7/data/battle/limit/catastro/hit_1.s
+catastro	0x16AE0	sprite	296	ff7/data/battle/limit/catastro/smoke_2.s
+cbreath	0xFC8	model	324	ff7/data/battle/special/cold1/hubuki1.p ff7/data/battle/special/hubuki/hubuki1.p
+cbreath	0x110C	model	1956	kouri.p
+cbreath	0x11910	sprite	392	ff7/data/battle/special/cold1/baku1.s ff7/data/battle/special/hubuki/baku1.s ff7/data/battle/special/reito/baku1.s ff7/data/battle/special/turara/baku1.s
+chi	0x4718	sprite	200	ff7/data/battle/limit2/hitumetu/chi_1.s ff7/data/battle/limit2/matsuri/chi_1.s ff7/data/battle/limit3/b_jump/h_jump.s ff7/data/battle/limit3/h_jump/h_jump.s ff7/data/battle/special/frog/hit11.s ff7/data/battle/special/scorp/hit11.s ff7/data/battle/special/sekika/hit11.s
+chikasui	0xC94	sprite	32	ff7/data/battle/special/chikasui/mizu.s ff7/data/battle/special/magma/magma.s ff7/data/battle/special/magma2/magma.s ff7/data/battle/special/pink/tama.s onsen.s shisui.s
+choco0	0x22354	sprite	32	ff7/data/battle/summon/choco/smoke_x1.s ff7/data/battle/summon/choco2/smoke_x1.s
+choco0	0x22374	sprite	32	ff7/data/battle/summon/choco/smoke_x2.s ff7/data/battle/summon/choco2/smoke_x2.s
+choco0	0x22394	sprite	32	ff7/data/battle/summon/choco/smoke_x3.s ff7/data/battle/summon/choco2/smoke_x3.s
+choco0	0x223B4	sprite	32	ff7/data/battle/summon/choco/smoke_x4.s ff7/data/battle/summon/choco2/smoke_x4.s
+choco0	0x223D4	sprite	32	ff7/data/battle/summon/choco/smoke_x5.s ff7/data/battle/summon/choco2/smoke_x5.s
+choco0	0x223F4	sprite	32	ff7/data/battle/summon/choco/smoke_x6.s ff7/data/battle/summon/choco2/smoke_x6.s
+choco0	0x22414	sprite	32	ff7/data/battle/summon/choco/smoke_x7.s ff7/data/battle/summon/choco2/smoke_x7.s
+choco0	0x22434	sprite	32	ff7/data/battle/summon/choco/smoke_x8.s ff7/data/battle/summon/choco2/smoke_x8.s
+choco0	0x22454	sprite	32	ff7/data/battle/summon/choco/smoke_x9.s ff7/data/battle/summon/choco2/smoke_x9.s
+choco0	0x22474	sprite	32	ff7/data/battle/summon/choco/smoke_10.s ff7/data/battle/summon/choco2/smoke_10.s
+choco0	0x22494	sprite	32	ff7/data/battle/summon/choco/smoke_11.s ff7/data/battle/summon/choco2/smoke_11.s
+choco0	0x224B4	sprite	32	ff7/data/battle/summon/choco/smoke_12.s ff7/data/battle/summon/choco2/smoke_12.s
+choco0	0x224D4	sprite	32	ff7/data/battle/summon/choco/smoke_13.s
+choco0	0x224F4	sprite	32	ff7/data/battle/summon/choco/smoke_14.s
+choco0	0x22514	sprite	32	ff7/data/battle/summon/choco/smoke_15.s
+choco0	0x22534	sprite	32	ff7/data/battle/summon/choco/smoke_16.s
+choco0	0x22554	sprite	32	ff7/data/battle/summon/choco/stars.s
+choco0	0x225B4	sprite	200	eye_1.s
+choco0	0x22694	container.bones	388	mogurida.d
+choco0	0x22818	container.mesh	3076	mogurida.p00
+choco0	0x2341C	container.mesh	2112	mogurida.p01
+choco0	0x23C5C	container.mesh	932	mogurida.p02
+choco0	0x24000	container.mesh	8772	mogurida.p03
+choco0	0x262C8	container.mesh	1988	mogurida.p06
+choco0	0x26A8C	container.mesh	1988	mogurida.p08
+choco0	0x27250	container.mesh	4180	mogurida.p11
+choco0	0x282A4	container.mesh	6272	mogurida.p12
+choco0	0x29C8C	container.mesh	724	mogurida.p18
+choco0	0x29F60	container.mesh	724	mogurida.p20
+choco0	0x2A234	container.mesh	532	mogurida.p22
+choco0	0x2A448	container.mesh	532	mogurida.p23
+choco0	0x2A65C	container.mesh	1156	mogurida.p25
+choco0	0x2AAE0	container.mesh	1156	mogurida.p27
+choco0	0x2AF64	container.mesh	532	mogurida.p29
+choco0	0x2B178	container.mesh	532	mogurida.p30
+choco0	0x2B38C	container.mesh	1492	mogurida.p32
+choco0	0x2B960	container.mesh	1492	mogurida.p34
+choco0	0x2BF34	container.mesh	1428	mogurida.p36
+choco0	0x2C4C8	container.mesh	1012	mogurida.p37
+choco0	0x2C8BC	container.mesh	1872	mogurida.p38
+choco0	0x2D00C	container.mesh	1444	mogurida.p39
+choco0	0x2D5B0	container.mesh	3204	mogurida.p40
+choco0	0x2E234	container.mesh	1428	mogurida.p42
+choco0	0x2E7C8	container.mesh	1012	mogurida.p43
+choco0	0x2EBBC	container.mesh	1872	mogurida.p44
+choco0	0x2F30C	container.mesh	1444	mogurida.p45
+choco0	0x2F8B0	container.mesh	3204	mogurida.p46
+choco0	0x30534	container.script	68	mogurida.b
+choco0	0x30578	container.anim	1232	mogurida.a00
+choco0	0x30A48	container.anim	3180	mogurida.a00
+cho_kyu	0x22430	model	1540	ff7/data/battle/limit3/c_m/hado.p ff7/data/battle/special/hadoho/hado.p ff7/data/battle/special/re_do/hado.p ff7/data/battle/special/syaku/hado.p ff7/data/battle/special/tyokyu/hado.p
+cho_kyu	0x23038	model	4004	ff7/data/battle/special/b_2/tama1.p ff7/data/battle/special/energy/tama1.p ff7/data/battle/special/hado/tama1.p ff7/data/battle/special/hadoho/tama1.p ff7/data/battle/special/ho_den/tama1.p ff7/data/battle/special/re_do/tama1.p ff7/data/battle/special/syaku/tama1.p ff7/data/battle/special/tyokyu/tama1.p
+cho_kyu	0x23FDC	model	4004	ff7/data/battle/special/b_2/tama2.p ff7/data/battle/special/energy/tama2.p ff7/data/battle/special/hado/tama2.p ff7/data/battle/special/hadoho/tama2.p ff7/data/battle/special/ho_den/tama2.p ff7/data/battle/special/re_do/tama2.p ff7/data/battle/special/syaku/tama2.p ff7/data/battle/special/tyokyu/tama2.p
+cho_kyu	0x250C4	model	612	ff7/data/battle/special/b_2/soto.p ff7/data/battle/special/hadoho/soto.p ff7/data/battle/special/re_do/soto.p ff7/data/battle/special/syaku/soto.p ff7/data/battle/special/tyokyu/soto.p ff7/data/battle/weapon/dia_u/soto.p
+cho_kyu	0x25328	model	884	ff7/data/battle/special/b_2/senkou1.p ff7/data/battle/special/naparm/senkou1.p ff7/data/battle/special/re_do/senkou1.p ff7/data/battle/special/tyokyu/senkou1.p
+cho_kyu	0x2569C	model	468	ff7/data/battle/limit3/c_m/hikari.p ff7/data/battle/limit3/d_m/hikari.p ff7/data/battle/limit3/h_jump/hikari.p ff7/data/battle/special/daionpa/hikari.p ff7/data/battle/special/energy/hikari.p ff7/data/battle/special/frog/hikari.p ff7/data/battle/special/hado/hikari.p ff7/data/battle/special/jammer/hikari.p
+cho_kyu	0x25FD0	model	276	ff7/data/battle/special/s_bless/iwa3.p ff7/data/battle/special/saikyo/iwa3.p ff7/data/battle/special/tyokyu/iwa3.p
+cho_kyu	0x2684C	model	1700	ff7/data/battle/special/tyokyu/uchi2.p
+cho_kyu	0x26EF0	sprite	56	ff7/data/battle/special/energy/kou.s ff7/data/battle/special/hado/kou.s ff7/data/battle/special/hadoho/kou.s ff7/data/battle/special/re_do/kou.s ff7/data/battle/special/syaku/kou.s ff7/data/battle/special/tyokyu/kou.s
+cho_kyu	0x26F28	sprite	392	ff7/data/battle/special/hadoho/kemu11.s ff7/data/battle/special/re_do/kemu11.s ff7/data/battle/special/syaku/kemu11.s ff7/data/battle/special/tyokyu/kemu11.s
+cho_kyu	0x270B0	sprite	176	ff7/data/battle/special/energy/hahen1.s ff7/data/battle/special/hado/hahen1.s ff7/data/battle/special/hadoho/hahen1.s ff7/data/battle/special/re_do/hahen1.s ff7/data/battle/special/renmisa/hahen1.s ff7/data/battle/special/syaku/hahen1.s ff7/data/battle/special/tyokyu/hahen1.s
+cho_kyu	0x27160	sprite	392	ff7/data/battle/special/energy/baku1.s ff7/data/battle/special/hado/baku1.s ff7/data/battle/special/hadoho/baku1.s ff7/data/battle/special/re_do/baku1.s ff7/data/battle/special/syaku/baku1.s ff7/data/battle/special/tyokyu/baku1.s
+cho_kyu	0x272E8	sprite	56	kyu.s
+climb	0x4BFC	sprite	512	hazard.s
+club1	0x1CFC0	model	1756	ff7/data/battle/magic/queik/queik.p ff7/data/battle/special/club1/queik.p
+club2	0x22C3C	sprite	392	ff7/data/battle/special/club2/bimu1.s
+club2	0x22DC4	sprite	200	ff7/data/battle/special/club2/bimu2.s
+club2	0x22FD0	model	1636	ff7/data/battle/special/club2/elec1.p ff7/data/battle/special/energy/elec1.p ff7/data/battle/special/hado/elec1.p ff7/data/battle/special/ho_den/elec1.p ff7/data/battle/special/kueisa/elec1.p
+club2	0x236F8	model	280	ff7/data/battle/special/club2/isi2.p ff7/data/battle/special/kueisa/isi2.p
+club2	0x23810	model	436	ff7/data/battle/special/club2/isi3.p ff7/data/battle/special/kueisa/isi3.p
+club2	0x239C4	model	276	ff7/data/battle/special/club2/isi4.p ff7/data/battle/special/kueisa/isi4.p
+club2	0x23AD8	model	316	ff7/data/battle/special/club2/isi5.p ff7/data/battle/special/kueisa/isi5.p
+club2	0x23CD8	model	1476	ff7/data/battle/special/atmic/kueisa.p ff7/data/battle/special/club2/kueisa.p ff7/data/battle/special/kueisa/kueisa.p nozan.p sazan.p
+club2	0x2429C	model	1700	ff7/data/battle/special/club2/soto1.p ff7/data/battle/special/club2/soto10.p ff7/data/battle/special/club2/soto2.p ff7/data/battle/special/club2/soto3.p ff7/data/battle/special/club2/soto4.p ff7/data/battle/special/club2/soto5.p ff7/data/battle/special/club2/soto6.p ff7/data/battle/special/club2/soto7.p
+club2	0x24940	model	1700	ff7/data/battle/special/club2/soto1.p ff7/data/battle/special/club2/soto10.p ff7/data/battle/special/club2/soto2.p ff7/data/battle/special/club2/soto3.p ff7/data/battle/special/club2/soto4.p ff7/data/battle/special/club2/soto5.p ff7/data/battle/special/club2/soto6.p ff7/data/battle/special/club2/soto7.p
+club2	0x24FE4	model	1700	ff7/data/battle/special/club2/soto1.p ff7/data/battle/special/club2/soto10.p ff7/data/battle/special/club2/soto2.p ff7/data/battle/special/club2/soto3.p ff7/data/battle/special/club2/soto4.p ff7/data/battle/special/club2/soto5.p ff7/data/battle/special/club2/soto6.p ff7/data/battle/special/club2/soto7.p
+club2	0x25688	model	1700	ff7/data/battle/special/club2/soto1.p ff7/data/battle/special/club2/soto10.p ff7/data/battle/special/club2/soto2.p ff7/data/battle/special/club2/soto3.p ff7/data/battle/special/club2/soto4.p ff7/data/battle/special/club2/soto5.p ff7/data/battle/special/club2/soto6.p ff7/data/battle/special/club2/soto7.p
+club2	0x25D2C	model	1700	ff7/data/battle/special/club2/soto1.p ff7/data/battle/special/club2/soto10.p ff7/data/battle/special/club2/soto2.p ff7/data/battle/special/club2/soto3.p ff7/data/battle/special/club2/soto4.p ff7/data/battle/special/club2/soto5.p ff7/data/battle/special/club2/soto6.p ff7/data/battle/special/club2/soto7.p
+club2	0x263D0	model	1700	ff7/data/battle/special/club2/soto1.p ff7/data/battle/special/club2/soto10.p ff7/data/battle/special/club2/soto2.p ff7/data/battle/special/club2/soto3.p ff7/data/battle/special/club2/soto4.p ff7/data/battle/special/club2/soto5.p ff7/data/battle/special/club2/soto6.p ff7/data/battle/special/club2/soto7.p
+club2	0x28504	sprite	612	ff7/data/battle/special/club2/jo_c04.s
+comet	0x214C8	model	1636	ff7/data/battle/magic/comet/comet_1.p ff7/data/battle/magic/cometeo/comet_1.p
+comet	0x21B2C	model	1884	ff7/data/battle/magic/comet/comet_2.p ff7/data/battle/magic/cometeo/comet_2.p
+comet	0x22288	model	2668	ff7/data/battle/magic/comet/exp_1.p ff7/data/battle/magic/cometeo/exp_1.p
+comet	0x22CF4	model	692	ff7/data/battle/magic/comet/sonic_1.p ff7/data/battle/magic/cometeo/sonic_1.p
+comet	0x22FA8	model	436	ff7/data/battle/magic/comet/stone_1.p ff7/data/battle/magic/cometeo/stone_1.p
+comet	0x2315C	model	436	ff7/data/battle/magic/comet/stone_2.p ff7/data/battle/magic/cometeo/stone_2.p
+comet	0x23310	sprite	200	ff7/data/battle/limit2/meteo_r/bomb_a.s ff7/data/battle/magic/comet/bomb_a.s ff7/data/battle/magic/cometeo/bomb_a.s
+cometeo	0x2162C	model	1636	ff7/data/battle/magic/comet/comet_1.p ff7/data/battle/magic/cometeo/comet_1.p
+cometeo	0x21C90	model	1884	ff7/data/battle/magic/comet/comet_2.p ff7/data/battle/magic/cometeo/comet_2.p
+cometeo	0x23D3C	model	436	ff7/data/battle/magic/comet/stone_1.p ff7/data/battle/magic/cometeo/stone_1.p
+cometeo	0x23EF0	model	436	ff7/data/battle/magic/comet/stone_2.p ff7/data/battle/magic/cometeo/stone_2.p
+cometeo	0x240A4	sprite	200	ff7/data/battle/limit2/meteo_r/bomb_a.s ff7/data/battle/magic/comet/bomb_a.s ff7/data/battle/magic/cometeo/bomb_a.s
+conf	0xB720	sprite	92	confu_1.s
+conf	0xBB60	container.bones	52	confdat.d
+conf	0xBB94	container.mesh	11372	confdat.p00
+conf	0xE800	container.mesh	1460	confdat.p02
+conf	0xEDB4	container.mesh	1460	confdat.p04
+conf	0xF368	container.script	68	5dethdat.b angeldat.b confdat.b deathdat.b mogdat.b toydat.b
+conf	0xF3AC	container.anim	72	confdat.a00
+cosmo	0x21E68	model	1332	ff7/data/battle/limit3/c_m/ster.p
+cosmo	0x2239C	model	4260	p_n1.p
+cosmo	0x23440	model	4260	p_n2.p
+cosmo	0x244E4	model	336	ff7/data/battle/limit3/c_m/kou1.p
+cosmo	0x24634	model	884	ff7/data/battle/limit3/c_m/senkou1.p ff7/data/battle/special/hadoho/senkou1.p ff7/data/battle/special/syaku/senkou1.p
+cosmo	0x249A8	model	1540	ff7/data/battle/limit3/c_m/hado.p ff7/data/battle/special/hadoho/hado.p ff7/data/battle/special/re_do/hado.p ff7/data/battle/special/syaku/hado.p ff7/data/battle/special/tyokyu/hado.p
+cosmo	0x275CC	model	660	ff7/data/battle/limit3/c_m/wa.p
+cosmo	0x28148	model	1764	baku2.p baku3.p baku4.p baku5.p baku6.p baku7.p baku8.p ff7/data/battle/limit3/c_m/baku1.p
+cosmo	0x2882C	model	1764	baku2.p baku3.p baku4.p baku5.p baku6.p baku7.p baku8.p ff7/data/battle/limit3/c_m/baku1.p
+cosmo	0x28F10	model	1764	baku2.p baku3.p baku4.p baku5.p baku6.p baku7.p baku8.p ff7/data/battle/limit3/c_m/baku1.p
+cosmo	0x295F4	model	1764	baku2.p baku3.p baku4.p baku5.p baku6.p baku7.p baku8.p ff7/data/battle/limit3/c_m/baku1.p
+cosmo	0x29CD8	model	1764	baku2.p baku3.p baku4.p baku5.p baku6.p baku7.p baku8.p ff7/data/battle/limit3/c_m/baku1.p
+cosmo	0x2A3BC	model	1764	baku2.p baku3.p baku4.p baku5.p baku6.p baku7.p baku8.p ff7/data/battle/limit3/c_m/baku1.p
+cosmo	0x2BA3C	sprite	32	ff7/data/battle/limit3/c_m/tama.s
+cosmo	0x2BA5C	sprite	56	ff7/data/battle/limit3/c_m/jo_a.s
+cosmo	0x2BA94	sprite	96	ff7/data/battle/limit3/c_m/kou.s
+cosmo	0x2BAF4	sprite	200	ff7/data/battle/limit3/c_m/kemu.s
+daichi	0x6C10	sprite	248	daichi.s kodou.s
+daionpa	0x21078	model	468	ff7/data/battle/limit3/c_m/hikari.p ff7/data/battle/limit3/d_m/hikari.p ff7/data/battle/limit3/h_jump/hikari.p ff7/data/battle/special/daionpa/hikari.p ff7/data/battle/special/energy/hikari.p ff7/data/battle/special/frog/hikari.p ff7/data/battle/special/hado/hikari.p ff7/data/battle/special/jammer/hikari.p
+daionpa	0x2124C	model	10884	ff7/data/battle/special/daionpa/nizi.p
+daionpa	0x23CD0	sprite	32	ff7/data/battle/special/daionpa/onpa1.s ff7/data/battle/special/jammer/onpa1.s ff7/data/battle/special/jammer2/onpa1.s
+daionpa	0x23CF0	sprite	32	ff7/data/battle/special/daionpa/onpa2.s ff7/data/battle/special/jammer/onpa2.s ff7/data/battle/special/jammer2/onpa2.s
+daionpa	0x23D10	sprite	32	ff7/data/battle/special/daionpa/onpa3.s
+daionpa	0x23D30	sprite	32	ff7/data/battle/special/daionpa/onpa4.s ff7/data/battle/special/jammer/onpa4.s ff7/data/battle/special/jammer2/onpa4.s
+daionpa	0x23D50	sprite	32	ff7/data/battle/special/daionpa/onpa5.s ff7/data/battle/special/jammer/onpa5.s ff7/data/battle/special/jammer2/onpa5.s
+daionpa	0x23D70	sprite	32	ff7/data/battle/special/daionpa/onpa6.s ff7/data/battle/special/jammer/onpa6.s ff7/data/battle/special/jammer2/onpa6.s
+daionpa	0x23D90	sprite	32	ff7/data/battle/special/daionpa/onpa7.s ff7/data/battle/special/jammer/onpa7.s ff7/data/battle/special/jammer2/onpa7.s
+daionpa	0x23DB0	sprite	152	ff7/data/battle/special/daionpa/hikari1.s
+daionpa	0x23E48	sprite	152	ff7/data/battle/special/daionpa/hikari2.s
+daionpa	0x23EE0	sprite	152	ff7/data/battle/special/daionpa/hikari3.s
+daionpa	0x23F78	sprite	392	ff7/data/battle/special/daionpa/baku1.s
+daionpa	0x24100	sprite	392	ff7/data/battle/special/daionpa/baku2.s
+daionpa	0x24288	sprite	392	ff7/data/battle/special/daionpa/baku3.s
+daisenp	0x6F18	sprite	956	daisenp.s kusai.s
+deadsef	0x3958	model	1948	circle1.p
+deadsef	0x40F4	model	452	ff7/data/battle/summon/lastboss/line.p
+death	0x966C	container.bones	172	deathdat.d
+death	0x9718	container.mesh	680	deathdat.p00
+death	0x99C0	container.mesh	2724	deathdat.p01
+death	0xA464	container.mesh	772	deathdat.p03
+death	0xA768	container.mesh	596	deathdat.p04
+death	0xA9BC	container.mesh	1700	deathdat.p05
+death	0xB060	container.mesh	2612	deathdat.p06
+death	0xBA94	container.mesh	740	deathdat.p08
+death	0xBD78	container.mesh	740	deathdat.p09
+death	0xC05C	container.mesh	776	deathdat.p10
+death	0xC364	container.mesh	1364	deathdat.p11
+death	0xCAC8	container.script	68	5dethdat.b angeldat.b confdat.b deathdat.b mogdat.b toydat.b
+death	0xCB0C	container.anim	2256	deathdat.a00
+debaria	0x19C8	model	2340	ff7/data/battle/blue/lv5deth/light_1.p ff7/data/battle/magic/altema/light_1.p ff7/data/battle/magic/debaria/light_1.p ff7/data/battle/magic/dethper/light_1.p ff7/data/battle/magic/faiga3/light_1.p ff7/data/battle/magic/freeze/light_1.p ff7/data/battle/summon/vahamut/light_1.p
+debucho	0xA020	model	2612	ff7/data/battle/summon/choco2/ring_1.p
+debucho	0xAA54	sprite	32	ff7/data/battle/summon/choco/smoke_x1.s ff7/data/battle/summon/choco2/smoke_x1.s
+debucho	0xAA74	sprite	32	ff7/data/battle/summon/choco/smoke_x2.s ff7/data/battle/summon/choco2/smoke_x2.s
+debucho	0xAA94	sprite	32	ff7/data/battle/summon/choco/smoke_x3.s ff7/data/battle/summon/choco2/smoke_x3.s
+debucho	0xAAB4	sprite	32	ff7/data/battle/summon/choco/smoke_x4.s ff7/data/battle/summon/choco2/smoke_x4.s
+debucho	0xAAD4	sprite	32	ff7/data/battle/summon/choco/smoke_x5.s ff7/data/battle/summon/choco2/smoke_x5.s
+debucho	0xAAF4	sprite	32	ff7/data/battle/summon/choco/smoke_x6.s ff7/data/battle/summon/choco2/smoke_x6.s
+debucho	0xAB14	sprite	32	ff7/data/battle/summon/choco/smoke_x7.s ff7/data/battle/summon/choco2/smoke_x7.s
+debucho	0xAB34	sprite	32	ff7/data/battle/summon/choco/smoke_x8.s ff7/data/battle/summon/choco2/smoke_x8.s
+debucho	0xAB54	sprite	32	ff7/data/battle/summon/choco/smoke_x9.s ff7/data/battle/summon/choco2/smoke_x9.s
+debucho	0xAB74	sprite	32	ff7/data/battle/summon/choco/smoke_10.s ff7/data/battle/summon/choco2/smoke_10.s
+debucho	0xAB94	sprite	32	ff7/data/battle/summon/choco/smoke_11.s ff7/data/battle/summon/choco2/smoke_11.s
+debucho	0xABB4	sprite	32	ff7/data/battle/summon/choco/smoke_12.s ff7/data/battle/summon/choco2/smoke_12.s
+debucho	0xABD4	sprite	32	ff7/data/battle/summon/choco2/smoke_13.s
+debucho	0xABF4	sprite	32	ff7/data/battle/summon/choco2/smoke_14.s
+debucho	0xAC14	sprite	32	ff7/data/battle/summon/choco2/smoke_15.s
+debucho	0xAC34	sprite	32	ff7/data/battle/summon/choco2/smoke_16.s
+debucho	0xAC6C	container.bones	244	debcyoda.d
+debucho	0xAD60	container.mesh	7508	debcyoda.p00
+debucho	0xCAB4	container.mesh	11892	debcyoda.p01
+debucho	0xF928	container.mesh	1396	debcyoda.p02
+debucho	0xFE9C	container.mesh	324	debcyoda.p04
+debucho	0xFFE0	container.mesh	1828	debcyoda.p06
+debucho	0x10704	container.mesh	1780	debcyoda.p08
+debucho	0x10DF8	container.mesh	916	debcyoda.p10
+debucho	0x1118C	container.mesh	1956	debcyoda.p12
+debucho	0x11930	container.mesh	1812	debcyoda.p13
+debucho	0x12044	container.mesh	596	debcyoda.p15
+debucho	0x12298	container.mesh	596	debcyoda.p17
+debucho	0x124EC	container.mesh	596	debcyoda.p19
+debucho	0x12740	container.mesh	1956	debcyoda.p21
+debucho	0x12EE4	container.mesh	1812	debcyoda.p22
+debucho	0x135F8	container.mesh	596	debcyoda.p24
+debucho	0x1384C	container.mesh	596	debcyoda.p26
+debucho	0x13AA0	container.mesh	596	debcyoda.p28
+debucho	0x13CF4	container.script	64	debcyoda.b
+debucho	0x13D34	container.anim	204	debcyoda.a00
+debucho	0x13E00	container.anim	496	debcyoda.a00
+dejon	0x14EC4	sprite	92	ff7/data/battle/magic/dejon/dejon_2.s
+dejon	0x14F20	sprite	92	ff7/data/battle/magic/dejon/dejon_1.s
+dejon	0x14F7C	model	7220	ff7/data/battle/magic/dejon/dejon_2.p ff7/data/battle/special/heart2/dejon_2.p
+dethper	0x60C8	model	516	dethp_2.p
+dethper	0x62CC	model	1500	ff7/data/battle/blue/lv5deth/light_1.p ff7/data/battle/magic/altema/light_1.p ff7/data/battle/magic/dethper/light_1.p ff7/data/battle/magic/faiga3/light_1.p ff7/data/battle/magic/freeze/light_1.p ff7/data/battle/summon/vahamut/light_1.p
+dia	0x2251C	model	884	senkou2.p
+dia	0x22890	model	468	ff7/data/battle/limit3/c_m/hikari.p ff7/data/battle/limit3/d_m/hikari.p ff7/data/battle/limit3/h_jump/hikari.p ff7/data/battle/special/daionpa/hikari.p ff7/data/battle/special/energy/hikari.p ff7/data/battle/special/frog/hikari.p ff7/data/battle/special/hado/hikari.p ff7/data/battle/special/jammer/hikari.p
+dia	0x22A64	model	1316	ff7/data/battle/weapon/dia_u/hikari1.p
+dia	0x22F88	model	540	ff7/data/battle/weapon/dia_u/line.p line_4.p
+dia	0x235DC	model	4004	ff7/data/battle/special/b_2/tama1.p ff7/data/battle/special/energy/tama1.p ff7/data/battle/special/hado/tama1.p ff7/data/battle/special/hadoho/tama1.p ff7/data/battle/special/ho_den/tama1.p ff7/data/battle/special/re_do/tama1.p ff7/data/battle/special/syaku/tama1.p ff7/data/battle/special/tyokyu/tama1.p
+dia	0x24580	model	4004	ff7/data/battle/special/b_2/tama2.p ff7/data/battle/special/energy/tama2.p ff7/data/battle/special/hado/tama2.p ff7/data/battle/special/hadoho/tama2.p ff7/data/battle/special/ho_den/tama2.p ff7/data/battle/special/re_do/tama2.p ff7/data/battle/special/syaku/tama2.p ff7/data/battle/special/tyokyu/tama2.p
+dia	0x25C6C	model	1540	ff7/data/battle/weapon/dia_u/hado.p
+dia	0x26270	model	612	ff7/data/battle/special/b_2/soto.p ff7/data/battle/special/hadoho/soto.p ff7/data/battle/special/re_do/soto.p ff7/data/battle/special/syaku/soto.p ff7/data/battle/special/tyokyu/soto.p ff7/data/battle/weapon/dia_u/soto.p
+dia	0x264D4	sprite	248	ff7/data/battle/weapon/dia_u/kemu1.s
+dia	0x265CC	sprite	392	ff7/data/battle/special/kahun/baku1.s ff7/data/battle/weapon/dia_u/kemu2.s
+dia	0x26754	sprite	392	ff7/data/battle/weapon/dia_u/baku1.s
+dia	0x269D4	sprite	56	ff7/data/battle/weapon/dia_u/kou.s
+dia1	0x16C00	sprite	80	ff7/data/battle/special/dia1/hikari1.s
+dia1	0x16C50	sprite	200	ff7/data/battle/special/dia1/hit1.s
+dia1	0x16D18	model	580	koin.p
+dia2	0x1D28C	model	2468	ff7/data/battle/magic/sailess/sailess.p ff7/data/battle/special/dia2/sailess.p
+dise	0x5760	model	516	dise.p
+dive	0x8C64	model	5508	ff7/data/battle/limit3/d_dive/explo_1.p ff7/data/battle/limit3/sinra/explo_1.p
+dive	0xA988	sprite	200	ff7/data/battle/limit3/d_dive/jo_a.s
+dokueki	0x1093C	sprite	392	ff7/data/battle/special/dokueki/doku1.s ff7/data/battle/special/harrier/baku1.s ff7/data/battle/special/jibaku2/baku1.s ff7/data/battle/special/kona/doku1.s ff7/data/battle/special/nozan/baku1.s ff7/data/battle/special/sazan/baku1.s ff7/data/battle/special/shower/doku1.s
+dokueki	0x10AC4	sprite	392	ff7/data/battle/special/dokueki/baku1.s ff7/data/battle/weapon/weapon4/smoke_1.s
+dokueki	0x10C4C	sprite	200	ff7/data/battle/special/dokueki/jo_c03.s ff7/data/battle/special/gesui1/jo_c03.s ff7/data/battle/special/ito/jo_c03.s ff7/data/battle/special/nozan/jo_c03.s ff7/data/battle/special/tunami/jo_c03.s
+dokufuki	0x18AA0	sprite	392	ff7/data/battle/special/dokufuki/doku1.s
+dokufuki	0x18C28	sprite	392	ff7/data/battle/special/dokufuki/baku1.s
+dokufuki	0x18DB0	sprite	200	ff7/data/battle/special/dokufuki/hit1.s pink.s
+dragonn	0x10D8C	model	1628	dragon_1.p
+dragonn	0x113E8	model	1628	dragon_2.p
+dragonn	0x11A44	model	1628	dragon_3.p dragon_4.p
+dragonn	0x120A0	model	1628	dragon_3.p dragon_4.p
+dragonn	0x126FC	model	540	ff7/data/battle/blue/dragonn/light.p
+dynamite	0x11424	model	2224	kayaku.p
+dynamite	0x11CD4	model	2340	dynamite.p
+dynamite	0x125F8	sprite	80	b_piece.s
+echoes	0x64B4	sprite	956	ff7/data/battle/item/kemuri/kemuri.s ff7/data/battle/item/yamabiko/kemuri.s
+elecball	0x20FF8	sprite	128	ff7/data/battle/special/dengeki/grav_2.s
+elecball	0x21078	sprite	296	ff7/data/battle/magic/grav5/elec_4.s ff7/data/battle/special/dengeki/elec_4.s
+elevator	0x1024	sprite	200	ff7/data/battle/effect/hitmark/jo_c01.s ff7/data/battle/magic/hitmark/jo_c01.s ff7/data/battle/summon/kjata/jo_c01.s
+energy	0x21AFC	model	1636	ff7/data/battle/special/club2/elec1.p ff7/data/battle/special/energy/elec1.p ff7/data/battle/special/hado/elec1.p ff7/data/battle/special/ho_den/elec1.p ff7/data/battle/special/kueisa/elec1.p
+energy	0x22C28	model	4004	ff7/data/battle/special/b_2/tama1.p ff7/data/battle/special/energy/tama1.p ff7/data/battle/special/hado/tama1.p ff7/data/battle/special/hadoho/tama1.p ff7/data/battle/special/ho_den/tama1.p ff7/data/battle/special/re_do/tama1.p ff7/data/battle/special/syaku/tama1.p ff7/data/battle/special/tyokyu/tama1.p
+energy	0x23BCC	model	4004	ff7/data/battle/special/b_2/tama2.p ff7/data/battle/special/energy/tama2.p ff7/data/battle/special/hado/tama2.p ff7/data/battle/special/hadoho/tama2.p ff7/data/battle/special/ho_den/tama2.p ff7/data/battle/special/re_do/tama2.p ff7/data/battle/special/syaku/tama2.p ff7/data/battle/special/tyokyu/tama2.p
+energy	0x24CB4	model	500	ff7/data/battle/special/energy/wa.p
+energy	0x26C4C	model	468	ff7/data/battle/limit3/c_m/hikari.p ff7/data/battle/limit3/d_m/hikari.p ff7/data/battle/limit3/h_jump/hikari.p ff7/data/battle/special/daionpa/hikari.p ff7/data/battle/special/energy/hikari.p ff7/data/battle/special/frog/hikari.p ff7/data/battle/special/hado/hikari.p ff7/data/battle/special/jammer/hikari.p
+energy	0x26E20	sprite	56	ff7/data/battle/special/energy/kou.s ff7/data/battle/special/hado/kou.s ff7/data/battle/special/hadoho/kou.s ff7/data/battle/special/re_do/kou.s ff7/data/battle/special/syaku/kou.s ff7/data/battle/special/tyokyu/kou.s
+energy	0x26E58	sprite	200	ff7/data/battle/special/energy/jo_a.s ff7/data/battle/special/hado/jo_a.s ff7/data/battle/special/netu/kemu1.s ff7/data/battle/special/reiki/kemu1.s ff7/data/battle/special/renmisa/jo_a.s ff7/data/battle/special/tele/kemu1.s
+energy	0x26F20	sprite	176	ff7/data/battle/special/energy/hahen1.s ff7/data/battle/special/hado/hahen1.s ff7/data/battle/special/hadoho/hahen1.s ff7/data/battle/special/re_do/hahen1.s ff7/data/battle/special/renmisa/hahen1.s ff7/data/battle/special/syaku/hahen1.s ff7/data/battle/special/tyokyu/hahen1.s
+energy	0x26FD0	sprite	392	ff7/data/battle/special/energy/baku1.s ff7/data/battle/special/hado/baku1.s ff7/data/battle/special/hadoho/baku1.s ff7/data/battle/special/re_do/baku1.s ff7/data/battle/special/syaku/baku1.s ff7/data/battle/special/tyokyu/baku1.s
+erave	0x1A3B8	sprite	392	ff7/data/battle/limit3/e_r/kemu1.s
+erave	0x1A540	sprite	32	maguma.s
+erave	0x1ACD0	model	4260	yougan1.p
+faiga	0x19060	sprite	92	faiga_3.s
+faiga	0x190BC	sprite	680	faiga_1.s
+faiga	0x19364	model	2596	faiga_1.p faiga_2.p ff7/data/battle/blue/nanntoka/ster.p ff7/data/battle/blue/sflea/flea_1.p ff7/data/battle/magic/flea/flea_1.p ff7/data/battle/summon/vahamut3/ster.p
+faiga	0x19D88	model	4644	faiga_1.p faiga_2.p ff7/data/battle/blue/nanntoka/ster.p ff7/data/battle/blue/sflea/flea_1.p ff7/data/battle/magic/flea/flea_1.p ff7/data/battle/summon/vahamut3/ster.p
+faiga2	0x12D04	model	1500	ff7/data/battle/blue/lv5deth/light_1.p ff7/data/battle/magic/altema/light_1.p ff7/data/battle/magic/dethper/light_1.p ff7/data/battle/magic/faiga3/light_1.p ff7/data/battle/magic/freeze/light_1.p ff7/data/battle/summon/vahamut/light_1.p
+faira	0xD3E4	model	980	ff7/data/battle/magic/faira/1.p ff7/data/battle/magic/faira/2.p ff7/data/battle/magic/faira/3.p ff7/data/battle/magic/faira/4.p ff7/data/battle/magic/faira/5.p ff7/data/battle/magic/faira/6.p ff7/data/battle/magic/faira/7.p ff7/data/battle/magic/faira/8.p
+fire	0x1043C	sprite	444	fi_a01.s
+flame	0xD3AC	sprite	1168	kaenn.s
+flea	0x21758	sprite	680	ff7/data/battle/magic/flea/exp_1.s
+flea	0x21A00	sprite	1292	ff7/data/battle/magic/flea/exp_2.s
+flea	0x21F0C	sprite	332	ff7/data/battle/magic/flea/exp_3.s
+flea	0x22058	model	4644	faiga_1.p faiga_2.p ff7/data/battle/blue/nanntoka/ster.p ff7/data/battle/blue/sflea/flea_1.p ff7/data/battle/magic/flea/flea_1.p ff7/data/battle/summon/vahamut3/ster.p
+flea	0x2327C	model	596	ff7/data/battle/blue/sflea/flea_2.p ff7/data/battle/magic/flea/flea_2.p
+freeze	0x21900	sprite	32	ff7/data/battle/magic/freeze/snow_1.s
+freeze	0x21920	model	6436	ff7/data/battle/magic/freeze/ice_1.p
+freeze	0x23244	model	6968	icebase.p
+freeze	0x24D7C	model	916	breeze_1.p
+freeze	0x25110	sprite	296	ff7/data/battle/magic/freeze/smoke_1.s
+frog	0x19F8C	model	756	ff7/data/battle/special/frog/sarchi.p
+frog	0x1A280	model	756	ff7/data/battle/special/frog/sarchi1.p ff7/data/battle/special/sarchi/sarchi.p
+frog	0x1A574	model	468	ff7/data/battle/limit3/c_m/hikari.p ff7/data/battle/limit3/d_m/hikari.p ff7/data/battle/limit3/h_jump/hikari.p ff7/data/battle/special/daionpa/hikari.p ff7/data/battle/special/energy/hikari.p ff7/data/battle/special/frog/hikari.p ff7/data/battle/special/hado/hikari.p ff7/data/battle/special/jammer/hikari.p
+frog	0x1A748	sprite	200	ff7/data/battle/limit2/hitumetu/chi_1.s ff7/data/battle/limit2/matsuri/chi_1.s ff7/data/battle/limit3/b_jump/h_jump.s ff7/data/battle/limit3/h_jump/h_jump.s ff7/data/battle/special/frog/hit11.s ff7/data/battle/special/scorp/hit11.s ff7/data/battle/special/sekika/hit11.s
+frog	0x1A810	sprite	296	ff7/data/battle/special/atmic/hit1.s ff7/data/battle/special/frog/baku11.s ff7/data/battle/special/gesui1/baku1.s ff7/data/battle/special/kona/baku1.s ff7/data/battle/special/mizu/baku1.s ff7/data/battle/special/nozan/elehit1.s ff7/data/battle/special/pink/baku1.s ff7/data/battle/special/sazan/elehit1.s
+frog	0x1A938	sprite	296	todo_1.s
+fubuki	0xFB0	model	324	ff7/data/battle/special/cold1/hubuki1.p ff7/data/battle/special/hubuki/hubuki1.p
+fubuki	0x10F4	model	1956	kouri.p
+fubuki	0x21938	sprite	52	ff7/data/battle/special/hubuki/kemu1.s
+fubuki	0x2196C	sprite	392	ff7/data/battle/special/cold1/baku1.s ff7/data/battle/special/hubuki/baku1.s ff7/data/battle/special/reito/baku1.s ff7/data/battle/special/turara/baku1.s
+fullcare	0x13A70	model	3724	full_1.p leazer.p
+gaisei	0xABEC	model	1508	bakuha.p
+gaisei	0xD1D8	sprite	128	b_expld.s
+gaisei	0xD258	sprite	200	ff7/data/battle/limit2/gaisei/smoke_1.s
+gaisei	0xD320	sprite	80	iwa.s
+gaishu	0x1320	model	2996	isshoku.p
+garyu	0x2387C	sprite	392	ff7/data/battle/limit2/garyoten/smoke_1.s
+garyu	0x23A04	model	988	ff7/data/battle/limit2/garyoten/flash_1.p
+garyu	0x23DE0	model	1500	ff7/data/battle/limit2/garyoten/kira_1.p
+gas	0x210D0	model	1332	ff7/data/battle/special/gas/soto1.p ff7/data/battle/special/gas/soto2.p ff7/data/battle/special/gas/soto3.p ff7/data/battle/special/gas/soto4.p ff7/data/battle/special/gas/soto5.p ff7/data/battle/special/gas/soto6.p ff7/data/battle/special/gas/soto7.p ff7/data/battle/special/gas/soto8.p
+gas	0x21604	model	1332	ff7/data/battle/special/gas/soto1.p ff7/data/battle/special/gas/soto2.p ff7/data/battle/special/gas/soto3.p ff7/data/battle/special/gas/soto4.p ff7/data/battle/special/gas/soto5.p ff7/data/battle/special/gas/soto6.p ff7/data/battle/special/gas/soto7.p ff7/data/battle/special/gas/soto8.p
+gas	0x21B38	model	1332	ff7/data/battle/special/gas/soto1.p ff7/data/battle/special/gas/soto2.p ff7/data/battle/special/gas/soto3.p ff7/data/battle/special/gas/soto4.p ff7/data/battle/special/gas/soto5.p ff7/data/battle/special/gas/soto6.p ff7/data/battle/special/gas/soto7.p ff7/data/battle/special/gas/soto8.p
+gas	0x2206C	model	1332	ff7/data/battle/special/gas/soto1.p ff7/data/battle/special/gas/soto2.p ff7/data/battle/special/gas/soto3.p ff7/data/battle/special/gas/soto4.p ff7/data/battle/special/gas/soto5.p ff7/data/battle/special/gas/soto6.p ff7/data/battle/special/gas/soto7.p ff7/data/battle/special/gas/soto8.p
+gas	0x225A0	model	1332	ff7/data/battle/special/gas/soto1.p ff7/data/battle/special/gas/soto2.p ff7/data/battle/special/gas/soto3.p ff7/data/battle/special/gas/soto4.p ff7/data/battle/special/gas/soto5.p ff7/data/battle/special/gas/soto6.p ff7/data/battle/special/gas/soto7.p ff7/data/battle/special/gas/soto8.p
+gas	0x22AD4	model	1332	ff7/data/battle/special/gas/soto1.p ff7/data/battle/special/gas/soto2.p ff7/data/battle/special/gas/soto3.p ff7/data/battle/special/gas/soto4.p ff7/data/battle/special/gas/soto5.p ff7/data/battle/special/gas/soto6.p ff7/data/battle/special/gas/soto7.p ff7/data/battle/special/gas/soto8.p
+gas	0x23A70	sprite	32	ff7/data/battle/special/gas/hikari1.s ff7/data/battle/special/kaen/hikari1.s ff7/data/battle/special/kaen2/hikari1.s
+gas	0x23A90	sprite	200	ff7/data/battle/special/gas/jo_c05.s
+gas	0x23B58	sprite	392	ff7/data/battle/special/gas/baku1.s ff7/data/battle/special/kaen2/baku1.s ff7/data/battle/special/naparm/kemu11.s ff7/data/battle/special/roket/kemu11.s
+gas	0x23CE0	sprite	200	ff7/data/battle/special/gas/hassya1.s ff7/data/battle/special/kaen/hassya1.s ff7/data/battle/special/kaen2/hassya1.s ff7/data/battle/special/naparm/kemu3.s ff7/data/battle/special/roket/kemu3.s
+gas	0x23DA8	sprite	488	ff7/data/battle/special/gas/hahen.s ff7/data/battle/special/kaen/hahen.s ff7/data/battle/special/kaen2/hahen.s
+geki1	0xCFE8	sprite	296	ff7/data/battle/special/geki1/baku1.s ff7/data/battle/special/jibasiri/baku1.s
+geki1	0xD110	sprite	200	ff7/data/battle/special/geki1/jo_c01.s ff7/data/battle/special/geki2/jo_c01.s ff7/data/battle/special/harrier/jo_c01.s ff7/data/battle/special/kueisa/jo_c01.s ff7/data/battle/special/osen/jo_c01.s ff7/data/battle/special/sander/jo_c01.s ff7/data/battle/special/sazan/jo_c01.s ff7/data/battle/special/smog/jo_c01.s
+geki1	0xD1D8	sprite	488	ff7/data/battle/special/geki1/hahen1.s ff7/data/battle/special/jibasiri/hahen1.s
+geki1	0xD3C0	sprite	200	ff7/data/battle/special/geki1/kemu1.s ff7/data/battle/special/geki2/kemu1.s ff7/data/battle/special/jibasiri/kemu1.s
+geki2	0x21B38	model	452	ff7/data/battle/special/geki2/geki2.p
+geki2	0x21CFC	model	996	domu2.p domu4.p ff7/data/battle/special/geki2/domu1.p ff7/data/battle/special/geki2/domu3.p
+geki2	0x220E0	model	996	domu2.p domu4.p ff7/data/battle/special/geki2/domu1.p ff7/data/battle/special/geki2/domu3.p
+geki2	0x224C4	model	996	domu2.p domu4.p ff7/data/battle/special/geki2/domu1.p ff7/data/battle/special/geki2/domu3.p
+geki2	0x228A8	model	996	domu2.p domu4.p ff7/data/battle/special/geki2/domu1.p ff7/data/battle/special/geki2/domu3.p
+geki2	0x22C8C	model	468	ff7/data/battle/special/geki2/okuri2.p okuri3.p okuri5.p okuri6.p
+geki2	0x22E60	model	468	ff7/data/battle/special/geki2/okuri2.p okuri3.p okuri5.p okuri6.p
+geki2	0x23034	model	468	ff7/data/battle/special/geki2/okuri2.p okuri3.p okuri5.p okuri6.p
+geki2	0x23208	model	468	ff7/data/battle/special/geki2/okuri2.p okuri3.p okuri5.p okuri6.p
+geki2	0x235B0	model	500	ff7/data/battle/special/geki2/wa.p wa1.p
+geki2	0x237A4	sprite	152	ff7/data/battle/special/geki2/hahen1.s
+geki2	0x23904	sprite	200	ff7/data/battle/special/geki1/jo_c01.s ff7/data/battle/special/geki2/jo_c01.s ff7/data/battle/special/harrier/jo_c01.s ff7/data/battle/special/kueisa/jo_c01.s ff7/data/battle/special/osen/jo_c01.s ff7/data/battle/special/sander/jo_c01.s ff7/data/battle/special/sazan/jo_c01.s ff7/data/battle/special/smog/jo_c01.s
+gesui	0x10EFC	sprite	296	ff7/data/battle/special/atmic/hit1.s ff7/data/battle/special/frog/baku11.s ff7/data/battle/special/gesui1/baku1.s ff7/data/battle/special/kona/baku1.s ff7/data/battle/special/mizu/baku1.s ff7/data/battle/special/nozan/elehit1.s ff7/data/battle/special/pink/baku1.s ff7/data/battle/special/sazan/elehit1.s
+gesui	0x11024	sprite	200	ff7/data/battle/special/dokueki/jo_c03.s ff7/data/battle/special/gesui1/jo_c03.s ff7/data/battle/special/ito/jo_c03.s ff7/data/battle/special/nozan/jo_c03.s ff7/data/battle/special/tunami/jo_c03.s
+goblinp	0x9F98	sprite	956	ayasii.s ff7/data/battle/blue/hatena/hatena1.s ff7/data/battle/limit2/toybox/hatena1.s goblinp1.s kaeru.s lv4jiba.s matra.s todo_3.s
+goblinp	0xA354	sprite	92	goblinp2.s
+gospel	0x23AE4	model	8544	ff7/data/battle/limit/eva/01.p
+gospel	0x25C44	model	468	ff7/data/battle/limit/eva/line_1.p
+gospel	0x268FC	model	7132	ff7/data/battle/limit/eva/sky_a.p
+gospel	0x284D8	model	1468	sunshine.p
+gospel	0x2DB84	sprite	200	ff7/data/battle/limit/eva/kira_1.s
+gospel	0x2DC4C	sprite	152	ff7/data/battle/limit/eva/ripple_1.s
+gravide	0x20860	sprite	128	ff7/data/battle/magic/grav2/grav_2.s grav_1.s
+gravide	0x208E0	sprite	56	grav_a.s
+gravide	0x20918	sprite	296	ff7/data/battle/magic/grav1/elec_3.s ff7/data/battle/magic/grav2/elec_4.s ff7/data/battle/magic/grav3_1/elec_4.s
+graviga1	0x215D4	sprite	128	ff7/data/battle/magic/grav3_1/grav_2.s
+graviga1	0x21654	sprite	296	ff7/data/battle/magic/grav1/elec_3.s ff7/data/battle/magic/grav2/elec_4.s ff7/data/battle/magic/grav3_1/elec_4.s
+graviga2	0x21EB0	model	1468	grav_1.p
+graviga2	0x2246C	sprite	296	ff7/data/battle/magic/grav5/elec_4.s ff7/data/battle/special/dengeki/elec_4.s
+graviga2	0x22594	model	1556	ff7/data/battle/magic/grav5/ring_1.p
+gravira	0x20D60	sprite	128	ff7/data/battle/magic/grav2/grav_2.s grav_1.s
+gravira	0x20DE0	sprite	296	ff7/data/battle/magic/grav1/elec_3.s ff7/data/battle/magic/grav2/elec_4.s ff7/data/battle/magic/grav3_1/elec_4.s
+grenade	0x21EC4	model	2476	glenade.p
+grenade	0x22870	model	2836	cbomber.p
+grenade	0x23384	model	3764	impulse.p
+grenade	0x24238	sprite	120	ff7/data/battle/limit/glenade/hahen.s
+grenade	0x242B0	sprite	200	smog.s
+grenade	0x24378	model	660	ring.p shougeki.p
+grenade	0x2460C	model	2020	netsu.p
+hades	0x2AB1C	sprite	200	fire_1.s
+hades	0x2ABE4	sprite	32	fire_2.s
+hades	0x2AC04	sprite	392	ff7/data/battle/summon/hardeath/smoke_1.s
+hades	0x2AD8C	model	2420	erupt_2.p
+hades	0x2B700	model	2896	ff7/data/battle/summon/hardeath/light_1.p
+hades	0x2C250	model	988	eye_1.p ff7/data/battle/summon/hardeath/light_2.p
+hades	0x2D3B4	model	252	rope_1.p
+hades	0x2DE54	container.bones	380	hadesdat.d
+hades	0x2DFD0	container.mesh	4980	hadesdat.p02
+hades	0x2F344	container.mesh	8180	hadesdat.p03
+hades	0x31338	container.mesh	6024	hadesdat.p04
+hades	0x32AC0	container.mesh	6028	hadesdat.p06
+hades	0x3424C	container.mesh	2312	hadesdat.p07
+hades	0x34B54	container.mesh	3524	hadesdat.p08
+hades	0x35918	container.mesh	964	hadesdat.p10
+hades	0x35CDC	container.mesh	1476	hadesdat.p11
+hades	0x362A0	container.mesh	3076	hadesdat.p12
+hades	0x36EA4	container.mesh	1364	hadesdat.p13
+hades	0x373F8	container.mesh	644	hadesdat.p15
+hades	0x3767C	container.mesh	628	hadesdat.p17
+hades	0x378F0	container.mesh	356	hadesdat.p19
+hades	0x37A54	container.mesh	644	hadesdat.p21
+hades	0x37CD8	container.mesh	628	hadesdat.p23
+hades	0x37F4C	container.mesh	948	hadesdat.p25
+hades	0x383E4	container.mesh	964	hadesdat.p28
+hades	0x387A8	container.mesh	1476	hadesdat.p29
+hades	0x38D6C	container.mesh	3076	hadesdat.p30
+hades	0x39970	container.mesh	948	hadesdat.p32
+hades	0x39E08	container.mesh	1364	hadesdat.p34
+hades	0x3A35C	container.mesh	356	hadesdat.p36
+hades	0x3A4C0	container.mesh	644	hadesdat.p38
+hades	0x3A744	container.mesh	644	hadesdat.p40
+hades	0x3A9C8	container.mesh	628	hadesdat.p42
+hades	0x3AC3C	container.mesh	628	hadesdat.p44
+hades	0x3AEB0	container.mesh	10640	hadesdat.p45
+hades	0x3D840	container.script	64	hadesdat.b
+hades	0x3D880	container.anim	308	hadesdat.a00
+hades	0x3D9B4	container.anim	2616	hadesdat.a00
+hades	0x3E3EC	container.anim	7336	hadesdat.a00
+hades	0x40094	container.anim	908	hadesdat.a00
+hado	0x21AFC	model	1636	ff7/data/battle/special/club2/elec1.p ff7/data/battle/special/energy/elec1.p ff7/data/battle/special/hado/elec1.p ff7/data/battle/special/ho_den/elec1.p ff7/data/battle/special/kueisa/elec1.p
+hado	0x22C28	model	4004	ff7/data/battle/special/b_2/tama1.p ff7/data/battle/special/energy/tama1.p ff7/data/battle/special/hado/tama1.p ff7/data/battle/special/hadoho/tama1.p ff7/data/battle/special/ho_den/tama1.p ff7/data/battle/special/re_do/tama1.p ff7/data/battle/special/syaku/tama1.p ff7/data/battle/special/tyokyu/tama1.p
+hado	0x23BCC	model	4004	ff7/data/battle/special/b_2/tama2.p ff7/data/battle/special/energy/tama2.p ff7/data/battle/special/hado/tama2.p ff7/data/battle/special/hadoho/tama2.p ff7/data/battle/special/ho_den/tama2.p ff7/data/battle/special/re_do/tama2.p ff7/data/battle/special/syaku/tama2.p ff7/data/battle/special/tyokyu/tama2.p
+hado	0x24CB4	model	500	ff7/data/battle/special/hado/wa.p ff7/data/battle/special/naparm/wa.p ff7/data/battle/special/netu/wa.p ff7/data/battle/special/reiki/wa.p ff7/data/battle/special/renmisa/wa.p ff7/data/battle/special/roket/wa.p ff7/data/battle/special/s_bless/kage.p ff7/data/battle/special/s_bless/wa.p
+hado	0x26C4C	model	468	ff7/data/battle/limit3/c_m/hikari.p ff7/data/battle/limit3/d_m/hikari.p ff7/data/battle/limit3/h_jump/hikari.p ff7/data/battle/special/daionpa/hikari.p ff7/data/battle/special/energy/hikari.p ff7/data/battle/special/frog/hikari.p ff7/data/battle/special/hado/hikari.p ff7/data/battle/special/jammer/hikari.p
+hado	0x26E20	sprite	56	ff7/data/battle/special/energy/kou.s ff7/data/battle/special/hado/kou.s ff7/data/battle/special/hadoho/kou.s ff7/data/battle/special/re_do/kou.s ff7/data/battle/special/syaku/kou.s ff7/data/battle/special/tyokyu/kou.s
+hado	0x26E58	sprite	200	ff7/data/battle/special/energy/jo_a.s ff7/data/battle/special/hado/jo_a.s ff7/data/battle/special/netu/kemu1.s ff7/data/battle/special/reiki/kemu1.s ff7/data/battle/special/renmisa/jo_a.s ff7/data/battle/special/tele/kemu1.s
+hado	0x26F20	sprite	176	ff7/data/battle/special/energy/hahen1.s ff7/data/battle/special/hado/hahen1.s ff7/data/battle/special/hadoho/hahen1.s ff7/data/battle/special/re_do/hahen1.s ff7/data/battle/special/renmisa/hahen1.s ff7/data/battle/special/syaku/hahen1.s ff7/data/battle/special/tyokyu/hahen1.s
+hado	0x26FD0	sprite	392	ff7/data/battle/special/energy/baku1.s ff7/data/battle/special/hado/baku1.s ff7/data/battle/special/hadoho/baku1.s ff7/data/battle/special/re_do/baku1.s ff7/data/battle/special/syaku/baku1.s ff7/data/battle/special/tyokyu/baku1.s
+hadoho	0x21C40	model	1540	ff7/data/battle/limit3/c_m/hado.p ff7/data/battle/special/hadoho/hado.p ff7/data/battle/special/re_do/hado.p ff7/data/battle/special/syaku/hado.p ff7/data/battle/special/tyokyu/hado.p
+hadoho	0x22848	model	4004	ff7/data/battle/special/b_2/tama1.p ff7/data/battle/special/energy/tama1.p ff7/data/battle/special/hado/tama1.p ff7/data/battle/special/hadoho/tama1.p ff7/data/battle/special/ho_den/tama1.p ff7/data/battle/special/re_do/tama1.p ff7/data/battle/special/syaku/tama1.p ff7/data/battle/special/tyokyu/tama1.p
+hadoho	0x237EC	model	4004	ff7/data/battle/special/b_2/tama2.p ff7/data/battle/special/energy/tama2.p ff7/data/battle/special/hado/tama2.p ff7/data/battle/special/hadoho/tama2.p ff7/data/battle/special/ho_den/tama2.p ff7/data/battle/special/re_do/tama2.p ff7/data/battle/special/syaku/tama2.p ff7/data/battle/special/tyokyu/tama2.p
+hadoho	0x248D4	model	612	ff7/data/battle/special/b_2/soto.p ff7/data/battle/special/hadoho/soto.p ff7/data/battle/special/re_do/soto.p ff7/data/battle/special/syaku/soto.p ff7/data/battle/special/tyokyu/soto.p ff7/data/battle/weapon/dia_u/soto.p
+hadoho	0x24B38	model	884	ff7/data/battle/limit3/c_m/senkou1.p ff7/data/battle/special/hadoho/senkou1.p ff7/data/battle/special/syaku/senkou1.p
+hadoho	0x24EAC	model	204	ff7/data/battle/special/hadoho/isi1.p
+hadoho	0x25138	sprite	56	ff7/data/battle/special/energy/kou.s ff7/data/battle/special/hado/kou.s ff7/data/battle/special/hadoho/kou.s ff7/data/battle/special/re_do/kou.s ff7/data/battle/special/syaku/kou.s ff7/data/battle/special/tyokyu/kou.s
+hadoho	0x25170	sprite	392	ff7/data/battle/special/hadoho/kemu11.s ff7/data/battle/special/re_do/kemu11.s ff7/data/battle/special/syaku/kemu11.s ff7/data/battle/special/tyokyu/kemu11.s
+hadoho	0x252F8	sprite	176	ff7/data/battle/special/energy/hahen1.s ff7/data/battle/special/hado/hahen1.s ff7/data/battle/special/hadoho/hahen1.s ff7/data/battle/special/re_do/hahen1.s ff7/data/battle/special/renmisa/hahen1.s ff7/data/battle/special/syaku/hahen1.s ff7/data/battle/special/tyokyu/hahen1.s
+hadoho	0x253A8	sprite	392	ff7/data/battle/special/energy/baku1.s ff7/data/battle/special/hado/baku1.s ff7/data/battle/special/hadoho/baku1.s ff7/data/battle/special/re_do/baku1.s ff7/data/battle/special/syaku/baku1.s ff7/data/battle/special/tyokyu/baku1.s
+hakai	0x6504	sprite	296	biribiri.s
+hakai	0x662C	sprite	296	b_flip.s
+hakou	0x4D18	sprite	80	ff7/data/battle/blue/howin/line.s ff7/data/battle/limit/hakou/line.s ff7/data/battle/limit/hvshot/line.s ff7/data/battle/magic/esna/line.s ff7/data/battle/magic/rezist/line.s ff7/data/battle/magic/tornado/line.s ff7/data/battle/special/uzumaki/line.s
+hakou	0x4D68	sprite	228	expld.s
+hakou	0x4E4C	sprite	104	hitmark.s
+hakugek1	0x2139C	model	876	ff7/data/battle/special/hakugek1/bom.p ff7/data/battle/special/hakugek2/bom.p s_beam.p
+hakugek1	0x21708	model	1036	ff7/data/battle/special/hakugek1/cover.p ff7/data/battle/special/hakugek2/cover.p
+hakugek1	0x21B14	model	804	ff7/data/battle/special/hakugek1/wakka.p ff7/data/battle/special/hakugek2/wakka.p impulse1.p impulse2.p isshoku2.p
+hakugek1	0x21E38	model	684	ff7/data/battle/special/hakugek1/imp.p ff7/data/battle/special/hakugek2/imp.p
+hakugek1	0x220E4	model	2020	ff7/data/battle/special/hakugek1/impact.p ff7/data/battle/special/hakugek2/impact.p
+hakugek1	0x228C8	sprite	80	ff7/data/battle/special/hakugek1/kakera.s ff7/data/battle/special/hakugek2/kakera.s
+hakugek1	0x22918	sprite	80	ff7/data/battle/special/hakugek1/ball.s ff7/data/battle/special/hakugek2/ball.s
+hakugek1	0x22968	sprite	200	ff7/data/battle/special/hakugek1/dokkan.s ff7/data/battle/special/hakugek2/dokkan.s
+hakugek2	0x21288	model	876	ff7/data/battle/special/hakugek1/bom.p ff7/data/battle/special/hakugek2/bom.p s_beam.p
+hakugek2	0x215F4	model	1036	ff7/data/battle/special/hakugek1/cover.p ff7/data/battle/special/hakugek2/cover.p
+hakugek2	0x21A00	model	804	ff7/data/battle/special/hakugek1/wakka.p ff7/data/battle/special/hakugek2/wakka.p impulse1.p impulse2.p isshoku2.p
+hakugek2	0x21D24	model	684	ff7/data/battle/special/hakugek1/imp.p ff7/data/battle/special/hakugek2/imp.p
+hakugek2	0x21FD0	model	2020	ff7/data/battle/special/hakugek1/impact.p ff7/data/battle/special/hakugek2/impact.p
+hakugek2	0x227B4	sprite	80	ff7/data/battle/special/hakugek1/kakera.s ff7/data/battle/special/hakugek2/kakera.s
+hakugek2	0x22804	sprite	80	ff7/data/battle/special/hakugek1/ball.s ff7/data/battle/special/hakugek2/ball.s
+hakugek2	0x22854	sprite	200	ff7/data/battle/special/hakugek1/dokkan.s ff7/data/battle/special/hakugek2/dokkan.s
+hari1000	0x1070	model	300	hari1.p
+hari1000	0x425C	sprite	488	ff7/data/battle/special/hari/hahen.s
+hari1000	0x4444	sprite	200	iro.s
+harrier	0x1901C	sprite	392	ff7/data/battle/special/dokueki/doku1.s ff7/data/battle/special/harrier/baku1.s ff7/data/battle/special/jibaku2/baku1.s ff7/data/battle/special/kona/doku1.s ff7/data/battle/special/nozan/baku1.s ff7/data/battle/special/sazan/baku1.s ff7/data/battle/special/shower/doku1.s
+harrier	0x191A4	sprite	200	ff7/data/battle/special/harrier/elec1.s ff7/data/battle/special/hikari2/hit1.s ff7/data/battle/special/hikari3/hit1.s ff7/data/battle/special/toseki/hit1.s
+harrier	0x1926C	sprite	200	ff7/data/battle/special/geki1/jo_c01.s ff7/data/battle/special/geki2/jo_c01.s ff7/data/battle/special/harrier/jo_c01.s ff7/data/battle/special/kueisa/jo_c01.s ff7/data/battle/special/osen/jo_c01.s ff7/data/battle/special/sander/jo_c01.s ff7/data/battle/special/sazan/jo_c01.s ff7/data/battle/special/smog/jo_c01.s
+harrier	0x19334	sprite	104	ff7/data/battle/special/harrier/hassya.s
+hatena	0xA188	sprite	956	ayasii.s ff7/data/battle/blue/hatena/hatena1.s ff7/data/battle/limit2/toybox/hatena1.s goblinp1.s kaeru.s lv4jiba.s matra.s todo_3.s
+hatena	0xA544	model	3252	hatena_2.p
+heart2	0x1DE1C	sprite	92	ff7/data/battle/special/heart2/dejon_2.s
+heart2	0x1DE78	sprite	92	ff7/data/battle/special/heart2/dejon_1.s
+heart2	0x1DED4	model	7220	ff7/data/battle/magic/dejon/dejon_2.p ff7/data/battle/special/heart2/dejon_2.p
+heatbu	0x10894	sprite	332	aqua.s dragon.s ff7/data/battle/blue/magikal/magikal.s ff7/data/battle/special/heatbu/magikal.s
+heist	0x92D4	model	4260	heist_1.p
+hikari	0x476C	sprite	152	ff7/data/battle/special/hikari/hikari1.s ff7/data/battle/special/kama/hit11.s ff7/data/battle/special/kama2/hit11.s ff7/data/battle/special/kiengiri/hit11.s
+hikari	0x8844	sprite	200	ff7/data/battle/special/hikari/hit1.s
+hikari2	0x4928	sprite	152	ff7/data/battle/special/hikari2/hikari1.s ff7/data/battle/special/hikari3/hikari1.s
+hikari2	0x8A00	sprite	200	ff7/data/battle/special/harrier/elec1.s ff7/data/battle/special/hikari2/hit1.s ff7/data/battle/special/hikari3/hit1.s ff7/data/battle/special/toseki/hit1.s
+hikari3	0x48E8	sprite	152	ff7/data/battle/special/hikari2/hikari1.s ff7/data/battle/special/hikari3/hikari1.s
+hikari3	0x89C0	sprite	200	ff7/data/battle/special/harrier/elec1.s ff7/data/battle/special/hikari2/hit1.s ff7/data/battle/special/hikari3/hit1.s ff7/data/battle/special/toseki/hit1.s
+hiwind	0x20FEC	model	1188	misso.p
+hiwind	0x221C4	sprite	680	fir_1.s
+hiwind	0x2246C	sprite	620	fir_2.s
+hiwind	0x226D8	sprite	2040	explo_1.s
+hmoon	0x1922C	sprite	32	moon.s
+hmoon	0x1924C	sprite	392	ff7/data/battle/limit2/lunatic/smoke_1.s ff7/data/battle/limit3/h_moon/smoke_1.s
+ho_den	0x2123C	model	1636	ff7/data/battle/special/club2/elec1.p ff7/data/battle/special/energy/elec1.p ff7/data/battle/special/hado/elec1.p ff7/data/battle/special/ho_den/elec1.p ff7/data/battle/special/kueisa/elec1.p
+ho_den	0x218A0	model	1148	houden1.p houden3.p
+ho_den	0x21D1C	model	1148	houden2.p
+ho_den	0x22198	model	620	houden3.p
+ho_den	0x22404	model	620	houden4.p
+ho_den	0x26A9C	sprite	56	ff7/data/battle/special/ho_den/hikari1.s
+ho_den	0x26AD4	sprite	392	ff7/data/battle/special/ho_den/baku1.s
+hvshot	0x4A98	model	2076	hs.p mind.p
+hyper	0x1D888	model	1908	force.p
+hyper	0x1E294	model	884	ff7/data/battle/limit3/h_jump/wa.p ff7/data/battle/limit3/s_d/wa.p ff7/data/battle/special/turara/wa.p
+hyper	0x1E608	model	500	ff7/data/battle/special/geki2/wa.p wa1.p
+hyper	0x1E7FC	model	3876	ff7/data/battle/limit3/h_jump/domu1.p ff7/data/battle/limit3/h_jump/domu3.p
+hyper	0x1F720	model	3876	ff7/data/battle/limit3/h_jump/domu1.p ff7/data/battle/limit3/h_jump/domu3.p
+hyper	0x20644	model	3620	domu5.p
+hyper	0x222A8	sprite	200	ff7/data/battle/limit2/hitumetu/chi_1.s ff7/data/battle/limit2/matsuri/chi_1.s ff7/data/battle/limit3/b_jump/h_jump.s ff7/data/battle/limit3/h_jump/h_jump.s ff7/data/battle/special/frog/hit11.s ff7/data/battle/special/scorp/hit11.s ff7/data/battle/special/sekika/hit11.s
+hyper	0x22370	sprite	152	ff7/data/battle/limit3/b_jump/hj_hit.s ff7/data/battle/limit3/h_jump/hj_hit.s
+h_blow	0x11284	model	3060	blow.p
+h_blow	0x1288C	sprite	688	ang_m2.s
+ifleet	0x23EB0	model	988	circle.p
+ifleet	0x28E64	model	916	flame_2.p
+ifleet	0x291F8	model	1636	flame_1.p
+ifleet	0x2C04C	sprite	32	flame_a.s
+ifleet	0x2C06C	sprite	32	flame_b.s
+ifleet	0x2C08C	sprite	32	flame_c.s
+ifleet	0x2C0AC	sprite	32	flame_d.s
+ifleet	0x2C0CC	sprite	32	flame_e.s
+ifleet	0x2C0EC	sprite	32	flame_f.s
+ifleet	0x2C10C	sprite	32	flame_g.s
+ifleet	0x2C12C	sprite	32	flame_h.s
+ifleet	0x2C14C	sprite	32	flame_i.s
+ifleet	0x2C16C	model	3732	ff7/data/battle/limit2/tifa1/exp_3.p ff7/data/battle/summon/ifu/exp_2.p
+ifleet	0x2D000	sprite	392	ff7/data/battle/summon/ifu/smoke_1.s
+ifleet	0x2D1A0	container.bones	396	ifreetda.d
+ifleet	0x2D32C	container.mesh	2404	ifreetda.p00
+ifleet	0x2DC90	container.mesh	10724	ifreetda.p01
+ifleet	0x30674	container.mesh	1300	ifreetda.p03
+ifleet	0x30B88	container.mesh	14388	ifreetda.p04
+ifleet	0x343BC	container.mesh	2612	ifreetda.p08
+ifleet	0x34DF0	container.mesh	2036	ifreetda.p09
+ifleet	0x355E4	container.mesh	948	ifreetda.p10
+ifleet	0x35998	container.mesh	2068	ifreetda.p11
+ifleet	0x361AC	container.mesh	612	ifreetda.p13
+ifleet	0x36410	container.mesh	2612	ifreetda.p16
+ifleet	0x36E44	container.mesh	2036	ifreetda.p17
+ifleet	0x37638	container.mesh	948	ifreetda.p18
+ifleet	0x379EC	container.mesh	2068	ifreetda.p19
+ifleet	0x38200	container.mesh	612	ifreetda.p21
+ifleet	0x38464	container.mesh	516	ifreetda.p23
+ifleet	0x38668	container.mesh	1076	ifreetda.p25
+ifleet	0x38A9C	container.mesh	516	ifreetda.p27
+ifleet	0x38CA0	container.mesh	884	ifreetda.p29
+ifleet	0x39014	container.mesh	2260	ifreetda.p31
+ifleet	0x398E8	container.mesh	2468	ifreetda.p32
+ifleet	0x3A28C	container.mesh	3684	ifreetda.p33
+ifleet	0x3B0F0	container.mesh	180	ifreetda.p35
+ifleet	0x3B1A4	container.mesh	340	ifreetda.p36
+ifleet	0x3B3EC	container.mesh	2260	ifreetda.p40
+ifleet	0x3BCC0	container.mesh	2468	ifreetda.p41
+ifleet	0x3C664	container.mesh	180	ifreetda.p43
+ifleet	0x3C718	container.mesh	340	ifreetda.p44
+ifleet	0x3C960	container.mesh	3684	ifreetda.p47
+ifleet	0x3D7C4	container.script	60	bahamzda.b ifreetda.b titandat.b
+ifleet	0x3D800	container.anim	7652	ifreetda.a00
+ifleet	0x3F5E4	container.anim	2208	ifreetda.a00
+ito	0x4EB0	sprite	176	ff7/data/battle/special/ito/hit1.s
+ito	0x4F60	sprite	176	ff7/data/battle/special/ito/hit2.s
+ito	0x5010	sprite	200	ff7/data/battle/special/dokueki/jo_c03.s ff7/data/battle/special/gesui1/jo_c03.s ff7/data/battle/special/ito/jo_c03.s ff7/data/battle/special/nozan/jo_c03.s ff7/data/battle/special/tunami/jo_c03.s
+ito	0x5518	sprite	56	ito1.s
+iyashi	0x7D5C	model	1100	aura.p
+iyashi	0x81A8	sprite	176	iyashi.s
+iyashi	0x8258	sprite	220	iyashi2.s
+jaki	0x1770	sprite	104	koukasen.s
+jaki	0x17D8	sprite	80	ryuushi.s
+jammer	0x20FC4	sprite	32	ff7/data/battle/special/daionpa/onpa1.s ff7/data/battle/special/jammer/onpa1.s ff7/data/battle/special/jammer2/onpa1.s
+jammer	0x20FE4	sprite	32	ff7/data/battle/special/daionpa/onpa2.s ff7/data/battle/special/jammer/onpa2.s ff7/data/battle/special/jammer2/onpa2.s
+jammer	0x21004	sprite	32	ff7/data/battle/special/jammer/onpa3.s ff7/data/battle/special/jammer2/onpa3.s
+jammer	0x21024	sprite	32	ff7/data/battle/special/daionpa/onpa4.s ff7/data/battle/special/jammer/onpa4.s ff7/data/battle/special/jammer2/onpa4.s
+jammer	0x21044	sprite	32	ff7/data/battle/special/daionpa/onpa5.s ff7/data/battle/special/jammer/onpa5.s ff7/data/battle/special/jammer2/onpa5.s
+jammer	0x21064	sprite	32	ff7/data/battle/special/daionpa/onpa6.s ff7/data/battle/special/jammer/onpa6.s ff7/data/battle/special/jammer2/onpa6.s
+jammer	0x21084	sprite	32	ff7/data/battle/special/daionpa/onpa7.s ff7/data/battle/special/jammer/onpa7.s ff7/data/battle/special/jammer2/onpa7.s
+jammer	0x210A4	sprite	152	ff7/data/battle/special/jammer/hikari1.s ff7/data/battle/special/jammer2/hikari1.s
+jammer	0x2113C	sprite	152	ff7/data/battle/special/jammer/hikari2.s ff7/data/battle/special/jammer2/hikari2.s
+jammer	0x211D4	sprite	152	ff7/data/battle/special/jammer/hikari3.s ff7/data/battle/special/jammer2/hikari3.s
+jammer2	0x21298	model	12420	ff7/data/battle/special/daionpa/nizi.p
+jammer2	0x2431C	sprite	32	ff7/data/battle/special/daionpa/onpa1.s ff7/data/battle/special/jammer/onpa1.s ff7/data/battle/special/jammer2/onpa1.s
+jammer2	0x2433C	sprite	32	ff7/data/battle/special/daionpa/onpa2.s ff7/data/battle/special/jammer/onpa2.s ff7/data/battle/special/jammer2/onpa2.s
+jammer2	0x2435C	sprite	32	ff7/data/battle/special/jammer/onpa3.s ff7/data/battle/special/jammer2/onpa3.s
+jammer2	0x2437C	sprite	32	ff7/data/battle/special/daionpa/onpa4.s ff7/data/battle/special/jammer/onpa4.s ff7/data/battle/special/jammer2/onpa4.s
+jammer2	0x2439C	sprite	32	ff7/data/battle/special/daionpa/onpa5.s ff7/data/battle/special/jammer/onpa5.s ff7/data/battle/special/jammer2/onpa5.s
+jammer2	0x243BC	sprite	32	ff7/data/battle/special/daionpa/onpa6.s ff7/data/battle/special/jammer/onpa6.s ff7/data/battle/special/jammer2/onpa6.s
+jammer2	0x243DC	sprite	32	ff7/data/battle/special/daionpa/onpa7.s ff7/data/battle/special/jammer/onpa7.s ff7/data/battle/special/jammer2/onpa7.s
+jammer2	0x243FC	sprite	152	ff7/data/battle/special/jammer/hikari1.s ff7/data/battle/special/jammer2/hikari1.s
+jammer2	0x24494	sprite	152	ff7/data/battle/special/jammer/hikari2.s ff7/data/battle/special/jammer2/hikari2.s
+jammer2	0x2452C	sprite	152	ff7/data/battle/special/jammer/hikari3.s ff7/data/battle/special/jammer2/hikari3.s
+jammer2	0x245C4	sprite	392	ff7/data/battle/special/jammer2/baku1.s
+jammer2	0x2474C	sprite	392	ff7/data/battle/special/jammer2/baku2.s
+jammer2	0x248D4	sprite	392	ff7/data/battle/special/jammer2/baku3.s
+jammer2	0x24A5C	sprite	392	baku4.s
+jammer2	0x24BE4	sprite	392	baku5.s
+jammer2	0x24D6C	sprite	392	baku6.s
+jammer2	0x24EF4	sprite	392	baku7.s
+jibaku1	0x83F4	sprite	392	zibaku1.s
+jibaku2	0x217D8	model	468	ff7/data/battle/special/geki2/baku1.p ff7/data/battle/special/jibaku2/baku11.p ff7/data/battle/special/jibasiri/baku11.p ff7/data/battle/special/sander/baku11.p ff7/data/battle/special/tele/baku11.p
+jibaku2	0x219AC	sprite	296	ff7/data/battle/special/jibaku2/elehit1.s
+jibaku2	0x21AD4	sprite	296	ff7/data/battle/special/jibaku2/elehit2.s
+jibaku2	0x21BFC	sprite	296	ff7/data/battle/special/jibaku2/elehit3.s
+jibaku2	0x21D24	sprite	296	ff7/data/battle/special/jibaku2/elehit4.s
+jibaku2	0x21E4C	sprite	200	ff7/data/battle/special/jibaku2/elec1.s
+jibaku2	0x21F14	sprite	392	ff7/data/battle/special/dokueki/doku1.s ff7/data/battle/special/harrier/baku1.s ff7/data/battle/special/jibaku2/baku1.s ff7/data/battle/special/kona/doku1.s ff7/data/battle/special/nozan/baku1.s ff7/data/battle/special/sazan/baku1.s ff7/data/battle/special/shower/doku1.s
+jibaku2	0x2209C	sprite	200	ff7/data/battle/special/jibaku2/jo_c01.s ff7/data/battle/special/shower/jo_c01.s
+jibaku2	0x22164	sprite	488	ff7/data/battle/special/jibaku2/hahen1.s
+jibaku2	0x2234C	sprite	200	ff7/data/battle/special/jibaku2/hibana.s
+jibaku2	0x22414	sprite	200	ff7/data/battle/special/jibaku2/kemu11.s ff7/data/battle/special/sander/elec1.s ff7/data/battle/special/tele/elec1.s
+jibasiri	0x11214	model	468	ff7/data/battle/special/geki2/baku1.p ff7/data/battle/special/jibaku2/baku11.p ff7/data/battle/special/jibasiri/baku11.p ff7/data/battle/special/sander/baku11.p ff7/data/battle/special/tele/baku11.p
+jibasiri	0x113E8	sprite	296	ff7/data/battle/special/geki1/baku1.s ff7/data/battle/special/jibasiri/baku1.s
+jibasiri	0x11510	sprite	200	ff7/data/battle/special/geki1/kemu1.s ff7/data/battle/special/geki2/kemu1.s ff7/data/battle/special/jibasiri/kemu1.s
+jibasiri	0x115D8	sprite	488	ff7/data/battle/special/geki1/hahen1.s ff7/data/battle/special/jibasiri/hahen1.s
+jibasiri	0x117C0	sprite	200	ff7/data/battle/special/geki1/kemu1.s ff7/data/battle/special/geki2/kemu1.s ff7/data/battle/special/jibasiri/kemu1.s
+jinrai	0x3350	sprite	288	jinrai.s
+joker1	0x2F24	container.bones	36	5dethdat.d
+joker1	0x2F48	container.mesh	9700	5dethdat.p00
+joker1	0x552C	container.mesh	4052	5dethdat.p02
+joker1	0x6500	container.script	68	5dethdat.b angeldat.b confdat.b deathdat.b mogdat.b toydat.b
+joker1	0x6544	container.anim	264	5dethdat.a00
+joker2	0xFEA4	model	676	ff7/data/battle/magic/stop/stop_1.p ff7/data/battle/magic/stop/stop_2.p ff7/data/battle/special/joker2/stop_1.p ff7/data/battle/special/joker2/stop_2.p
+joker2	0x10148	model	220	ff7/data/battle/magic/stop/stop_2.p ff7/data/battle/special/joker2/stop_2.p
+kaen	0x23A68	sprite	32	ff7/data/battle/special/gas/hikari1.s ff7/data/battle/special/kaen/hikari1.s ff7/data/battle/special/kaen2/hikari1.s
+kaen	0x23A88	sprite	200	ff7/data/battle/special/kaen/hit1.s ff7/data/battle/special/kaen2/hit1.s
+kaen	0x23B50	sprite	200	ff7/data/battle/special/kaen/jo_c02.s
+kaen	0x23C18	sprite	200	ff7/data/battle/special/gas/hassya1.s ff7/data/battle/special/kaen/hassya1.s ff7/data/battle/special/kaen2/hassya1.s ff7/data/battle/special/naparm/kemu3.s ff7/data/battle/special/roket/kemu3.s
+kaen	0x23CE0	sprite	488	ff7/data/battle/special/gas/hahen.s ff7/data/battle/special/kaen/hahen.s ff7/data/battle/special/kaen2/hahen.s
+kaen2	0x23BA8	sprite	200	ff7/data/battle/special/gas/hassya1.s ff7/data/battle/special/kaen/hassya1.s ff7/data/battle/special/kaen2/hassya1.s ff7/data/battle/special/naparm/kemu3.s ff7/data/battle/special/roket/kemu3.s
+kaen2	0x23C70	sprite	32	ff7/data/battle/special/gas/hikari1.s ff7/data/battle/special/kaen/hikari1.s ff7/data/battle/special/kaen2/hikari1.s
+kaen2	0x23C90	sprite	200	ff7/data/battle/special/kaen/hit1.s ff7/data/battle/special/kaen2/hit1.s
+kaen2	0x23D58	sprite	392	ff7/data/battle/special/gas/baku1.s ff7/data/battle/special/kaen2/baku1.s ff7/data/battle/special/naparm/kemu11.s ff7/data/battle/special/roket/kemu11.s
+kaen2	0x23EE0	sprite	488	ff7/data/battle/special/gas/hahen.s ff7/data/battle/special/kaen/hahen.s ff7/data/battle/special/kaen2/hahen.s
+kaeru	0xCE3C	sprite	956	ayasii.s ff7/data/battle/blue/hatena/hatena1.s ff7/data/battle/limit2/toybox/hatena1.s goblinp1.s kaeru.s lv4jiba.s matra.s todo_3.s
+kaeru	0xD1F8	sprite	112	onpu1.s
+kafun	0x101C	model	1092	ff7/data/battle/special/awa2/suna2.p ff7/data/battle/special/cold1/hubuki1.p ff7/data/battle/special/hubuki/hubuki1.p ff7/data/battle/special/kahun/suna2.p ff7/data/battle/special/pink/suna2.p ff7/data/battle/special/suna/suna2.p
+kafun	0x21500	sprite	392	ff7/data/battle/special/kahun/baku1.s ff7/data/battle/weapon/dia_u/kemu2.s
+kafun	0x21688	sprite	32	ff7/data/battle/special/kahun/kemu.s
+kakusan	0x1F424	model	1956	ff7/data/battle/special/kakusan/geki1.p ff7/data/battle/special/kakusan/geki2.p geki3.p geki4.p tama.p
+kakusan	0x1FBC8	model	1956	ff7/data/battle/special/kakusan/geki1.p ff7/data/battle/special/kakusan/geki2.p geki3.p geki4.p tama.p
+kakusan	0x2036C	model	1956	ff7/data/battle/special/kakusan/geki1.p ff7/data/battle/special/kakusan/geki2.p geki3.p geki4.p tama.p
+kakusan	0x20B10	model	1956	ff7/data/battle/special/kakusan/geki1.p ff7/data/battle/special/kakusan/geki2.p geki3.p geki4.p tama.p
+kakusan	0x212B4	sprite	56	ff7/data/battle/special/kakusan/hikari1.s
+kakusan	0x212EC	sprite	80	han.s
+kakusan	0x2133C	sprite	432	ff7/data/battle/special/kakusan/reza1.s
+kakusan	0x214EC	sprite	392	ff7/data/battle/special/kakusan/bimu1.s ff7/data/battle/special/kueisa/bimu1.s
+kakusan	0x21674	sprite	200	ff7/data/battle/special/kakusan/bimu2.s ff7/data/battle/special/kueisa/bimu2.s
+kakusan	0x2173C	sprite	200	ff7/data/battle/special/kakusan/hit1.s
+kama	0x18AE0	model	996	kama1.p kama2.p
+kama	0x18EC4	sprite	200	ff7/data/battle/special/kama/hassya.s ff7/data/battle/special/kiengiri/hassya.s
+kama	0x18F8C	sprite	152	ff7/data/battle/special/hikari/hikari1.s ff7/data/battle/special/kama/hit11.s ff7/data/battle/special/kama2/hit11.s ff7/data/battle/special/kiengiri/hit11.s
+kama	0x19024	sprite	152	ff7/data/battle/special/kama/hit12.s ff7/data/battle/special/kama2/hit12.s ff7/data/battle/special/kiengiri/hit12.s
+kama	0x190BC	sprite	152	ff7/data/battle/special/kama/hit21.s ff7/data/battle/special/kama2/hit21.s ff7/data/battle/special/kiengiri/hit21.s
+kama	0x19154	sprite	152	ff7/data/battle/special/kama/hit22.s ff7/data/battle/special/kama2/hit22.s ff7/data/battle/special/kiengiri/hit22.s
+kama	0x191EC	sprite	152	ff7/data/battle/special/kama/hit31.s ff7/data/battle/special/kama2/hit31.s ff7/data/battle/special/kiengiri/hit31.s
+kama2	0x20B50	model	996	kama1.p kama2.p
+kama2	0x20F34	sprite	200	ff7/data/battle/special/kama2/hassya1.s
+kama2	0x20FFC	sprite	152	ff7/data/battle/special/hikari/hikari1.s ff7/data/battle/special/kama/hit11.s ff7/data/battle/special/kama2/hit11.s ff7/data/battle/special/kiengiri/hit11.s
+kama2	0x21094	sprite	152	ff7/data/battle/special/kama/hit12.s ff7/data/battle/special/kama2/hit12.s ff7/data/battle/special/kiengiri/hit12.s
+kama2	0x2112C	sprite	152	ff7/data/battle/special/kama/hit21.s ff7/data/battle/special/kama2/hit21.s ff7/data/battle/special/kiengiri/hit21.s
+kama2	0x211C4	sprite	152	ff7/data/battle/special/kama/hit22.s ff7/data/battle/special/kama2/hit22.s ff7/data/battle/special/kiengiri/hit22.s
+kama2	0x2125C	sprite	152	ff7/data/battle/special/kama/hit31.s ff7/data/battle/special/kama2/hit31.s ff7/data/battle/special/kiengiri/hit31.s
+kien	0x10A24	model	4628	kien.p
+kien	0x11C38	sprite	152	ff7/data/battle/special/hikari/hikari1.s ff7/data/battle/special/kama/hit11.s ff7/data/battle/special/kama2/hit11.s ff7/data/battle/special/kiengiri/hit11.s
+kien	0x11CD0	sprite	152	ff7/data/battle/special/kama/hit12.s ff7/data/battle/special/kama2/hit12.s ff7/data/battle/special/kiengiri/hit12.s
+kien	0x11D68	sprite	152	ff7/data/battle/special/kama/hit21.s ff7/data/battle/special/kama2/hit21.s ff7/data/battle/special/kiengiri/hit21.s
+kien	0x11E00	sprite	152	ff7/data/battle/special/kama/hit22.s ff7/data/battle/special/kama2/hit22.s ff7/data/battle/special/kiengiri/hit22.s
+kien	0x11E98	sprite	152	ff7/data/battle/special/kama/hit31.s ff7/data/battle/special/kama2/hit31.s ff7/data/battle/special/kiengiri/hit31.s
+kien	0x11F30	sprite	152	hit32.s
+kien	0x11FC8	sprite	200	ff7/data/battle/special/kama/hassya.s ff7/data/battle/special/kiengiri/hassya.s
+kinzan	0x1034	sprite	104	coin.s
+knights	0xEB4C	model	11028	tube_1.p
+knights	0x11660	model	8276	cylinder.p
+knights	0x13AEC	model	508	ff7/data/battle/summon/knights/beam_1.p
+knights	0x13CE8	model	5636	ff7/data/battle/special/lasboss1/senkou.p ff7/data/battle/summon/knights/senkou.p
+knights	0x152EC	model	1468	ff7/data/battle/summon/knights/circle_1.p
+knights	0x158A8	model	2596	sphere_1.p sphere_3.p
+knights	0x162CC	model	2596	sphere_1.p sphere_3.p
+knights	0x16CF0	model	660	ring1.p
+knights	0x16F84	model	276	hit1.p
+knights	0x17098	model	660	hit2.p
+knights	0x1732C	model	900	hit3.p
+knights	0x176B0	model	5944	shpere_2.p
+knights	0x18DE8	sprite	392	ff7/data/battle/summon/knights/bomb_a.s
+knights	0x18F70	sprite	200	ff7/data/battle/summon/knights/hit_1.s
+knights	0x19038	model	6436	ff7/data/battle/summon/knights/exp_1.p
+knights	0x1A95C	model	2916	ff7/data/battle/summon/knights/ice_1.p
+knights	0x1B4C0	model	1636	meteo_a.p
+kona	0x18FFC	sprite	392	ff7/data/battle/special/dokueki/doku1.s ff7/data/battle/special/harrier/baku1.s ff7/data/battle/special/jibaku2/baku1.s ff7/data/battle/special/kona/doku1.s ff7/data/battle/special/nozan/baku1.s ff7/data/battle/special/sazan/baku1.s ff7/data/battle/special/shower/doku1.s
+kona	0x19184	sprite	200	ff7/data/battle/special/kona/jo_a.s ff7/data/battle/special/reito/jo_1.s
+kona	0x1924C	sprite	200	ff7/data/battle/special/dokufuki/hit1.s pink.s
+kona	0x19314	sprite	296	ff7/data/battle/special/atmic/hit1.s ff7/data/battle/special/frog/baku11.s ff7/data/battle/special/gesui1/baku1.s ff7/data/battle/special/kona/baku1.s ff7/data/battle/special/mizu/baku1.s ff7/data/battle/special/nozan/elehit1.s ff7/data/battle/special/pink/baku1.s ff7/data/battle/special/sazan/elehit1.s
+korosi	0x20CFC	sprite	976	ff7/data/battle/blue/chyobo/smoke_1.s ff7/data/battle/magic/deth/smoke_1.s hit.s
+korosi	0x210CC	sprite	172	jodeth1.s
+koudan1	0x1AF80	sprite	32	ff7/data/battle/limit3/s_d/hosi.s ff7/data/battle/special/koudan1/maru1.s
+koudan1	0x1AFA0	sprite	32	ff7/data/battle/special/koudan1/hosi1.s
+koudan1	0x1AFC0	sprite	32	ff7/data/battle/special/koudan1/wa1.s
+koudan1	0x1AFE0	sprite	92	ff7/data/battle/special/koudan1/bokasi.s
+koudan1	0x1B03C	sprite	32	ff7/data/battle/special/koudan1/maru2.s
+koudan1	0x1B05C	sprite	32	ff7/data/battle/special/koudan1/maru3.s
+koudan1	0x1B07C	sprite	32	ff7/data/battle/special/koudan1/maru4.s
+koudan1	0x1B09C	sprite	32	ff7/data/battle/special/koudan1/maru5.s
+koudan1	0x1B0BC	sprite	32	ff7/data/battle/special/koudan1/maru6.s
+koudan1	0x1B0DC	sprite	32	ff7/data/battle/special/koudan1/maru7.s
+koudan1	0x1B0FC	sprite	32	ff7/data/battle/special/koudan1/maru8.s
+koudan1	0x1B11C	sprite	32	ff7/data/battle/special/koudan1/maru9.s
+koudan1	0x1B13C	sprite	32	ff7/data/battle/special/koudan1/maru10.s ff7/data/battle/special/koudan2/maru10.s
+koudan1	0x1B15C	sprite	92	ff7/data/battle/special/koudan1/wa2.s
+koudan1	0x1B1B8	sprite	152	ff7/data/battle/special/koudan1/hikari1.s
+koudan1	0x1B250	sprite	152	ff7/data/battle/special/koudan1/hikari2.s
+koudan1	0x1B2E8	sprite	152	ff7/data/battle/special/koudan1/hikari3.s
+koudan2	0x1B560	sprite	32	ff7/data/battle/special/koudan2/maru1.s ff7/data/battle/special/smog/smoke.s ff7/data/battle/special/toboe2/onpa1.s
+koudan2	0x1B580	sprite	32	ff7/data/battle/special/koudan2/hosi1.s
+koudan2	0x1B5A0	sprite	32	ff7/data/battle/special/koudan2/wa1.s
+koudan2	0x1B5C0	sprite	92	ff7/data/battle/special/koudan2/bokasi.s
+koudan2	0x1B61C	sprite	32	ff7/data/battle/special/koudan2/maru2.s
+koudan2	0x1B63C	sprite	32	ff7/data/battle/special/koudan2/maru3.s
+koudan2	0x1B65C	sprite	32	ff7/data/battle/special/koudan2/maru4.s
+koudan2	0x1B67C	sprite	32	ff7/data/battle/special/koudan2/maru5.s
+koudan2	0x1B69C	sprite	32	ff7/data/battle/special/koudan2/maru6.s
+koudan2	0x1B6BC	sprite	32	ff7/data/battle/special/koudan2/maru7.s
+koudan2	0x1B6DC	sprite	32	ff7/data/battle/special/koudan2/maru8.s
+koudan2	0x1B6FC	sprite	32	ff7/data/battle/special/koudan2/maru9.s
+koudan2	0x1B71C	sprite	32	ff7/data/battle/special/koudan1/maru10.s ff7/data/battle/special/koudan2/maru10.s
+koudan2	0x1B73C	sprite	92	ff7/data/battle/special/koudan2/wa2.s
+koudan2	0x1B798	sprite	176	ff7/data/battle/special/koudan2/kou1.s
+koudan2	0x1B848	sprite	152	ff7/data/battle/special/koudan1/hikari1.s
+koudan2	0x1B8E0	sprite	152	ff7/data/battle/special/koudan1/hikari2.s
+koudan2	0x1B978	sprite	152	ff7/data/battle/special/koudan1/hikari3.s
+kujata	0x28C20	model	3308	ff7/data/battle/summon/kjata/bomb_1.p
+kujata	0x2990C	model	3988	ff7/data/battle/summon/kjata/fire_1.p
+kujata	0x2A8A0	model	3220	ff7/data/battle/summon/kjata/fire_2.p
+kujata	0x2B534	model	1468	ff7/data/battle/summon/kjata/flash_1.p
+kujata	0x2D220	model	2100	ff7/data/battle/summon/kjata/sonic_1.p
+kujata	0x2DA54	sprite	32	exp1.s
+kujata	0x2DA74	sprite	32	exp10.s
+kujata	0x2DA94	sprite	32	exp11.s
+kujata	0x2DAB4	sprite	32	exp12.s
+kujata	0x2DAD4	sprite	32	exp13.s
+kujata	0x2DAF4	sprite	32	exp14.s
+kujata	0x2DB14	sprite	32	exp15.s
+kujata	0x2DB34	sprite	32	exp16.s
+kujata	0x2DB54	sprite	32	exp2.s
+kujata	0x2DB74	sprite	32	exp3.s
+kujata	0x2DB94	sprite	32	exp4.s
+kujata	0x2DBB4	sprite	32	exp5.s
+kujata	0x2DBD4	sprite	32	exp6.s
+kujata	0x2DBF4	sprite	32	exp7.s
+kujata	0x2DC14	sprite	32	exp8.s
+kujata	0x2DC34	sprite	32	exp9.s
+kujata	0x2DC54	sprite	200	ff7/data/battle/effect/hitmark/jo_c01.s ff7/data/battle/magic/hitmark/jo_c01.s ff7/data/battle/summon/kjata/jo_c01.s
+kujata	0x2DD30	container.bones	276	kujatada.d
+kujata	0x2DE44	container.mesh	5888	kujatada.p00
+kujata	0x2F544	container.mesh	27372	kujatada.p02
+kujata	0x36030	container.mesh	13052	kujatada.p03
+kujata	0x3932C	container.mesh	788	kujatada.p04
+kujata	0x39640	container.mesh	788	kujatada.p06
+kujata	0x39954	container.mesh	788	kujatada.p08
+kujata	0x39C68	container.mesh	788	kujatada.p09
+kujata	0x39F7C	container.mesh	3108	kujatada.p11
+kujata	0x3ABA0	container.mesh	1156	kujatada.p12
+kujata	0x3B024	container.mesh	1444	kujatada.p13
+kujata	0x3B5C8	container.mesh	3108	kujatada.p15
+kujata	0x3C1EC	container.mesh	1156	kujatada.p16
+kujata	0x3C670	container.mesh	1444	kujatada.p17
+kujata	0x3CC14	container.mesh	1124	kujatada.p19
+kujata	0x3D078	container.mesh	948	kujatada.p20
+kujata	0x3D42C	container.mesh	884	kujatada.p21
+kujata	0x3D7A0	container.mesh	548	kujatada.p23
+kujata	0x3D9C4	container.mesh	292	kujatada.p24
+kujata	0x3DAE8	container.mesh	292	kujatada.p25
+kujata	0x3DC0C	container.mesh	292	kujatada.p26
+kujata	0x3DD30	container.mesh	292	kujatada.p27
+kujata	0x3DE54	container.mesh	292	kujatada.p28
+kujata	0x3DF78	container.mesh	1124	kujatada.p30
+kujata	0x3E3DC	container.mesh	948	kujatada.p31
+kujata	0x3E790	container.mesh	884	kujatada.p32
+kujata	0x3EB04	container.script	60	cyvadat.b kujatada.b
+kujata	0x3EB40	container.anim	4296	kujatada.a00
+kusai	0x65C4	sprite	956	daisenp.s kusai.s
+kyogiri	0x350C	sprite	32	one.s
+kyogiri	0x352C	sprite	92	two.s
+kyogiri	0x3588	sprite	152	three.s
+lamu	0x23CC8	model	436	ff7/data/battle/summon/lamu/stone_2.p
+lamu	0x23E7C	sprite	200	ff7/data/battle/summon/lamu/smoke_1.s
+lamu	0x24014	sprite	692	houden_2.s
+lamu	0x242C8	sprite	612	ff7/data/battle/summon/lamu/jo_c04.s
+lamu	0x26B68	container.bones	388	lamdat.d
+lamu	0x26CEC	container.mesh	5108	lamdat.p00
+lamu	0x280E0	container.mesh	10444	lamdat.p01
+lamu	0x2A9AC	container.mesh	2388	lamdat.p05
+lamu	0x2B300	container.mesh	2148	lamdat.p07
+lamu	0x2BB64	container.mesh	236	lamdat.p08
+lamu	0x2BC50	container.mesh	788	lamdat.p09
+lamu	0x2BF64	container.mesh	4308	lamdat.p11
+lamu	0x2D038	container.mesh	1860	lamdat.p12
+lamu	0x2D77C	container.mesh	8004	lamdat.p14
+lamu	0x2F6C0	container.mesh	980	lamdat.p16
+lamu	0x2FA94	container.mesh	980	lamdat.p18
+lamu	0x2FE68	container.mesh	548	lamdat.p20
+lamu	0x3008C	container.mesh	564	lamdat.p21
+lamu	0x302C0	container.mesh	564	lamdat.p22
+lamu	0x304F4	container.mesh	548	lamdat.p23
+lamu	0x30718	container.mesh	564	lamdat.p24
+lamu	0x3094C	container.mesh	548	lamdat.p26
+lamu	0x30B70	container.mesh	564	lamdat.p27
+lamu	0x30DA4	container.mesh	564	lamdat.p28
+lamu	0x30FD8	container.mesh	548	lamdat.p29
+lamu	0x311FC	container.mesh	564	lamdat.p30
+lamu	0x31430	container.mesh	948	lamdat.p32
+lamu	0x317E4	container.mesh	2228	lamdat.p33
+lamu	0x32098	container.mesh	2388	lamdat.p37
+lamu	0x329EC	container.mesh	2164	lamdat.p39
+lamu	0x33260	container.mesh	236	lamdat.p40
+lamu	0x3334C	container.mesh	4356	lamdat.p42
+lamu	0x34450	container.mesh	6124	lamdat.p44
+lamu	0x35C3C	container.mesh	788	lamdat.p45
+lamu	0x35F50	container.mesh	1860	lamdat.p46
+lamu	0x36694	container.script	68	lamdat.b
+lamu	0x366D8	container.anim	3716	lamdat.a00
+lamu	0x3755C	container.anim	1340	lamdat.a00
+lasboss	0x22C88	model	3084	lezer_1.p
+lasboss	0x23894	model	1500	lezer_2.p
+lasboss	0x23E70	model	2012	ff7/data/battle/blue/nanntoka/light.p ff7/data/battle/magic/faiga3/light_2.p ff7/data/battle/special/lasboss1/light_1.p habsonic.p
+lasboss	0x25C50	sprite	92	ff7/data/battle/special/lasboss1/hikari1.s
+lasboss	0x25CAC	sprite	504	plazma_1.s
+lasboss	0x25EA4	sprite	600	plazma_2.s
+lasboss	0x260FC	sprite	596	ff7/data/battle/special/lasboss1/smoke2.s
+lasboss2	0x1BA7C	model	2012	ff7/data/battle/blue/nanntoka/light.p ff7/data/battle/magic/faiga3/light_2.p ff7/data/battle/special/lasboss1/light_1.p habsonic.p
+laser	0x187C4	sprite	80	ff7/data/battle/special/reza1/maru.s
+laser	0x18814	sprite	200	ff7/data/battle/special/reza1/hit1.s
+laser2	0x2F20	sprite	104	ff7/data/battle/special/reza2/hassya.s
+laser2	0x2F88	sprite	200	ff7/data/battle/special/mizufuki/jo_c05.s ff7/data/battle/special/reza2/jo_c05.s
+lgirl	0x20D68	sprite	272	lucky.s
+lgirl	0x20E78	sprite	32	ff7/data/battle/limit/lgirl/heart.s
+lunatic	0x18E70	sprite	392	ff7/data/battle/limit2/lunatic/smoke_1.s ff7/data/battle/limit3/h_moon/smoke_1.s
+lunatic	0x18FF8	model	884	ff7/data/battle/limit2/lunatic/power_1.p
+lunatic	0x1936C	model	884	power_2.p
+lv4jibak	0x7944	sprite	956	ayasii.s ff7/data/battle/blue/hatena/hatena1.s ff7/data/battle/limit2/toybox/hatena1.s goblinp1.s kaeru.s lv4jiba.s matra.s todo_3.s
+lv5deth	0x10700	sprite	360	lv5deth.s
+lv5deth	0x10868	model	1500	ff7/data/battle/blue/lv5deth/light_1.p ff7/data/battle/magic/altema/light_1.p ff7/data/battle/magic/dethper/light_1.p ff7/data/battle/magic/faiga3/light_1.p ff7/data/battle/magic/freeze/light_1.p ff7/data/battle/summon/vahamut/light_1.p
+mabaria	0x5B4	model	1756	bari_m.p jo_mba.p
+magend	0x16D4	sprite	92	ff7/data/battle/special/magend/chi_1.s
+magikal	0x10854	sprite	332	aqua.s dragon.s ff7/data/battle/blue/magikal/magikal.s ff7/data/battle/special/heatbu/magikal.s
+magma	0xD60	sprite	32	ff7/data/battle/special/chikasui/mizu.s ff7/data/battle/special/magma/magma.s ff7/data/battle/special/magma2/magma.s ff7/data/battle/special/pink/tama.s onsen.s shisui.s
+magma2	0xCCC	sprite	32	ff7/data/battle/special/chikasui/mizu.s ff7/data/battle/special/magma/magma.s ff7/data/battle/special/magma2/magma.s ff7/data/battle/special/pink/tama.s onsen.s shisui.s
+matra	0x8114	sprite	956	ayasii.s ff7/data/battle/blue/hatena/hatena1.s ff7/data/battle/limit2/toybox/hatena1.s goblinp1.s kaeru.s lv4jiba.s matra.s todo_3.s
+matra	0x84D0	model	900	matra.p
+mdance	0x7DC	container.bones	204	mogdat.d
+mdance	0x8A8	container.mesh	3188	mogdat.p00
+mdance	0x151C	container.mesh	4108	mogdat.p01
+mdance	0x2528	container.mesh	484	mogdat.p03
+mdance	0x270C	container.mesh	484	mogdat.p05
+mdance	0x2A58	container.mesh	1028	mogdat.p11
+mdance	0x2E5C	container.mesh	1028	mogdat.p13
+mdance	0x3260	container.mesh	596	mogdat.p15
+mdance	0x34B4	container.mesh	356	mogdat.p17
+mdance	0x3618	container.mesh	420	mogdat.p18
+mdance	0x37BC	container.mesh	356	mogdat.p20
+mdance	0x3920	container.mesh	420	mogdat.p21
+mdance	0x3AC4	container.mesh	596	mogdat.p23
+mdance	0x3D18	container.script	68	5dethdat.b angeldat.b confdat.b deathdat.b mogdat.b toydat.b
+mdance	0x3D5C	container.anim	3260	mogdat.a00
+meikyo	0x10B88	model	3556	suikyu.p
+meikyo	0x1196C	model	1316	jimen.p
+meikyo	0x11E90	sprite	32	ff7/data/battle/special/chikasui/mizu.s ff7/data/battle/special/magma/magma.s ff7/data/battle/special/magma2/magma.s ff7/data/battle/special/pink/tama.s onsen.s shisui.s
+mgbeam	0x1B54	sprite	200	ff7/data/battle/special/mgbeam/hit1.s
+mgbeam	0x3C5C	sprite	104	ff7/data/battle/special/mgbeam/hassya.s
+minimam	0x45F8	sprite	680	mini_1.s
+missile	0x18C8C	model	2724	ff7/data/battle/special/misairu/misairu.p ff7/data/battle/special/renmisa/misairu.p
+missile	0x19730	sprite	80	ff7/data/battle/special/misairu/hunsya.s
+missile	0x19780	sprite	152	ff7/data/battle/special/misairu/kemu1.s
+missile	0x19818	sprite	392	ff7/data/battle/special/misairu/baku1.s
+mizu	0x10BB4	model	6436	ff7/data/battle/special/mizu/mizu.p ff7/data/battle/special/oil/mizu.p
+mizu	0x124D8	sprite	296	ff7/data/battle/special/atmic/hit1.s ff7/data/battle/special/frog/baku11.s ff7/data/battle/special/gesui1/baku1.s ff7/data/battle/special/kona/baku1.s ff7/data/battle/special/mizu/baku1.s ff7/data/battle/special/nozan/elehit1.s ff7/data/battle/special/pink/baku1.s ff7/data/battle/special/sazan/elehit1.s
+mizu	0x12600	sprite	612	ff7/data/battle/special/mizu/jo_c04.s ff7/data/battle/special/nonosi/jo_c04.s ff7/data/battle/special/onpa/jo_c04.s
+mizufuki	0x215DC	model	324	nemoto.p
+mizufuki	0x21720	sprite	200	ff7/data/battle/special/mizufuki/hassya.s
+mizufuki	0x217E8	sprite	296	ff7/data/battle/special/mizufuki/doku1.s
+mizufuki	0x21AC0	sprite	296	ff7/data/battle/special/mizufuki/baku1.s
+mizufuki	0x21BE8	sprite	200	ff7/data/battle/special/mizufuki/jo_c05.s ff7/data/battle/special/reza2/jo_c05.s
+mizufuki	0x21CB0	sprite	32	ff7/data/battle/special/mizufuki/snow1.s
+mizufuki	0x21CD0	sprite	32	ff7/data/battle/special/mizufuki/snow2.s
+mizufuki	0x21CF0	sprite	32	ff7/data/battle/special/mizufuki/mizu.s
+mizufuki	0x21D10	sprite	32	ff7/data/battle/special/mizufuki/tama.s
+mod	0x503C	model	2900	head.p
+mod	0x5B90	model	788	chest_1.p
+mod	0x5EA4	model	788	chest_2.p
+mod	0x61B8	model	788	chest_3.p
+mod	0x64CC	model	788	chest_4.p
+mod	0x67E0	model	788	hip_1.p
+mod	0x6AF4	model	788	hip_2.p
+mod	0x6E08	model	724	hip_3.p
+mod	0x70DC	model	660	tail_1.p
+mod	0x7370	model	660	tail_2.p
+mod	0x7604	model	660	tail_3.p
+mod	0x7898	model	660	tail_4.p
+mod	0x7B2C	model	708	tail_5.p
+mod	0x7DF0	model	548	top.p
+mod	0x8014	model	628	l_fin.p
+mod	0x8288	model	628	r_fin.p
+mod	0x84FC	model	740	upper.p
+mod	0x8C80	sprite	104	bimu11.s
+mod	0x8CE8	sprite	104	bimu22.s
+mod	0x8D50	sprite	200	ff7/data/battle/limit3/d_m/jo_1.s
+mod	0x8E18	sprite	200	jo_2.s
+mod	0x8EE0	sprite	200	ff7/data/battle/limit3/d_m/jo_a.s
+mrain	0x22A28	sprite	200	ff7/data/battle/limit2/meteo_r/bomb_a.s ff7/data/battle/magic/comet/bomb_a.s ff7/data/battle/magic/cometeo/bomb_a.s
+mrain	0x22E64	model	1372	ff7/data/battle/limit2/meteo_r/exp_1.p
+mrain	0x233C0	model	596	ff7/data/battle/limit2/meteo_r/exp_2.p
+mrain	0x23614	model	660	ff7/data/battle/limit2/meteo_r/exp_3.p
+mrain	0x238A8	model	988	ff7/data/battle/limit2/meteo_r/flash_1.p
+mrain	0x23C84	model	676	ff7/data/battle/limit2/meteo_r/meteo_1.p
+mrain	0x23F28	model	1116	meteo_2.p
+mytyg	0x10BFC	model	1660	mytyg_1.p
+mytyg	0x11278	model	1764	ff7/data/battle/blue/mytyg/light_1.p light1.p
+m_break	0x58AC	sprite	104	m_brake.s
+nadare	0x24F90	sprite	392	ff7/data/battle/special/nadare/baku1.s
+nadare	0x25118	sprite	296	ff7/data/battle/special/nadare/hit1.s
+nadare	0x25240	sprite	200	ff7/data/battle/special/nadare/jo_a.s
+nanntoka	0x12294	model	1748	hatena.p
+nanntoka	0x12968	model	756	ff7/data/battle/blue/nanntoka/inseki_1.p
+nanntoka	0x12C5C	model	756	inseki_2.p
+nanntoka	0x12F50	model	756	inseki_3.p
+nanntoka	0x13244	model	556	ff7/data/battle/blue/nanntoka/light.p
+napalm	0x21A30	model	1764	ff7/data/battle/special/naparm/misa.p ff7/data/battle/special/roket/misa.p
+napalm	0x22114	model	7588	ff7/data/battle/special/energy/sindom1.p ff7/data/battle/special/hado/sindom1.p ff7/data/battle/special/naparm/sindom1.p ff7/data/battle/special/renmisa/sindom1.p ff7/data/battle/special/roket/sindom1.p
+napalm	0x23EB8	model	7588	ff7/data/battle/special/naparm/sindom2.p ff7/data/battle/special/roket/sindom2.p
+napalm	0x25C5C	model	7588	ff7/data/battle/special/energy/sindom1.p ff7/data/battle/special/hado/sindom1.p ff7/data/battle/special/naparm/sindom1.p ff7/data/battle/special/renmisa/sindom1.p ff7/data/battle/special/roket/sindom1.p
+napalm	0x27A00	model	324	ff7/data/battle/special/naparm/baku11.p ff7/data/battle/special/roket/baku11.p
+napalm	0x27D18	model	884	ff7/data/battle/special/b_2/senkou1.p ff7/data/battle/special/naparm/senkou1.p ff7/data/battle/special/re_do/senkou1.p ff7/data/battle/special/tyokyu/senkou1.p
+napalm	0x2808C	model	500	ff7/data/battle/special/hado/wa.p ff7/data/battle/special/naparm/wa.p ff7/data/battle/special/netu/wa.p ff7/data/battle/special/reiki/wa.p ff7/data/battle/special/renmisa/wa.p ff7/data/battle/special/roket/wa.p ff7/data/battle/special/s_bless/kage.p ff7/data/battle/special/s_bless/wa.p
+napalm	0x28280	sprite	80	ff7/data/battle/special/naparm/hunsya.s ff7/data/battle/special/roket/hunsya.s
+napalm	0x282D0	sprite	392	ff7/data/battle/special/gas/baku1.s ff7/data/battle/special/kaen2/baku1.s ff7/data/battle/special/naparm/kemu11.s ff7/data/battle/special/roket/kemu11.s
+napalm	0x28458	sprite	392	ff7/data/battle/special/naparm/kemu2.s ff7/data/battle/special/roket/kemu2.s
+napalm	0x285E0	sprite	200	ff7/data/battle/special/gas/hassya1.s ff7/data/battle/special/kaen/hassya1.s ff7/data/battle/special/kaen2/hassya1.s ff7/data/battle/special/naparm/kemu3.s ff7/data/battle/special/roket/kemu3.s
+napalm	0x286A8	sprite	152	ff7/data/battle/special/naparm/enmaku.s ff7/data/battle/special/roket/enmaku.s
+napalm	0x28740	sprite	176	ff7/data/battle/special/naparm/hahen1.s
+netsu	0x20EAC	model	452	ff7/data/battle/special/hado/wa.p ff7/data/battle/special/naparm/wa.p ff7/data/battle/special/netu/wa.p ff7/data/battle/special/reiki/wa.p ff7/data/battle/special/renmisa/wa.p ff7/data/battle/special/roket/wa.p ff7/data/battle/special/s_bless/kage.p ff7/data/battle/special/s_bless/wa.p
+netsu	0x21070	model	1956	ff7/data/battle/special/b_2/netu1.p ff7/data/battle/special/netu/netu1.p ff7/data/battle/special/reiki/netu1.p ff7/data/battle/special/s_bless/netu1.p ff7/data/battle/special/saikyo/netu1.p
+netsu	0x25B40	model	280	ff7/data/battle/limit3/e_r/isi2.p ff7/data/battle/special/geki2/isi2.p ff7/data/battle/special/netu/isi2.p ff7/data/battle/special/re_do/isi2.p ff7/data/battle/special/reiki/isi2.p ff7/data/battle/special/syaku/isi2.p
+netsu	0x25C58	model	276	ff7/data/battle/limit3/e_r/isi3.p ff7/data/battle/special/geki2/isi3.p ff7/data/battle/special/netu/isi3.p ff7/data/battle/special/re_do/isi3.p ff7/data/battle/special/reiki/isi3.p ff7/data/battle/special/syaku/isi3.p
+netsu	0x25E30	sprite	488	ff7/data/battle/special/netu/hahen1.s ff7/data/battle/special/reiki/hahen1.s
+netsu	0x26018	sprite	200	ff7/data/battle/special/energy/jo_a.s ff7/data/battle/special/hado/jo_a.s ff7/data/battle/special/netu/kemu1.s ff7/data/battle/special/reiki/kemu1.s ff7/data/battle/special/renmisa/jo_a.s ff7/data/battle/special/tele/kemu1.s
+netsu	0x260E0	sprite	32	ff7/data/battle/special/netu/hikari.s ff7/data/battle/special/reiki/hikari.s ff7/data/battle/special/s_bless/hikari1.s ff7/data/battle/special/saikyo/hikari1.s
+netsu	0x26100	sprite	92	ff7/data/battle/special/netu/kage.s ff7/data/battle/special/reiki/kage.s
+night	0x126B4	sprite	224	ff7/data/battle/limit2/night/spark_1.s
+night	0x12794	sprite	392	ff7/data/battle/special/dokueki/doku1.s ff7/data/battle/special/harrier/baku1.s ff7/data/battle/special/jibaku2/baku1.s ff7/data/battle/special/kona/doku1.s ff7/data/battle/special/nozan/baku1.s ff7/data/battle/special/sazan/baku1.s ff7/data/battle/special/shower/doku1.s
+night	0x1291C	model	2612	ff7/data/battle/limit2/night/satan_2.p ff7/data/battle/limit2/satan/satan_2.p
+night	0x13350	model	1556	ff7/data/battle/limit2/night/air_1.p
+nonoshi	0x124E4	model	2820	mozi1.p
+nonoshi	0x12FE8	model	2244	mozi2.p
+nonoshi	0x138AC	model	1668	mozi3.p
+nonoshi	0x13F30	model	2436	mozi4.p
+nonoshi	0x148B4	model	3108	mozi5.p
+nonoshi	0x1586C	sprite	200	ff7/data/battle/special/nonosi/hassya1.s
+nonoshi	0x15934	sprite	612	ff7/data/battle/special/mizu/jo_c04.s ff7/data/battle/special/nonosi/jo_c04.s ff7/data/battle/special/onpa/jo_c04.s
+northern	0x1B008	model	1476	ff7/data/battle/special/atmic/kueisa.p ff7/data/battle/special/club2/kueisa.p ff7/data/battle/special/kueisa/kueisa.p nozan.p sazan.p
+northern	0x1B5CC	model	252	ff7/data/battle/special/nozan/soto1.p ff7/data/battle/special/sazan/soto1.p
+northern	0x1B6C8	model	684	ff7/data/battle/special/nozan/domu1.p ff7/data/battle/special/sazan/domu1.p
+northern	0x1B974	model	396	ff7/data/battle/special/nozan/soko.p ff7/data/battle/special/sazan/soko.p
+northern	0x1BB00	sprite	32	ff7/data/battle/special/nozan/hosi.s
+northern	0x1BB20	sprite	200	ff7/data/battle/special/dokueki/jo_c03.s ff7/data/battle/special/gesui1/jo_c03.s ff7/data/battle/special/ito/jo_c03.s ff7/data/battle/special/nozan/jo_c03.s ff7/data/battle/special/tunami/jo_c03.s
+northern	0x1BBE8	sprite	296	ff7/data/battle/special/atmic/hit1.s ff7/data/battle/special/frog/baku11.s ff7/data/battle/special/gesui1/baku1.s ff7/data/battle/special/kona/baku1.s ff7/data/battle/special/mizu/baku1.s ff7/data/battle/special/nozan/elehit1.s ff7/data/battle/special/pink/baku1.s ff7/data/battle/special/sazan/elehit1.s
+northern	0x1BD10	sprite	296	ff7/data/battle/special/atmic/hit2.s ff7/data/battle/special/nozan/elehit2.s ff7/data/battle/special/sazan/elehit2.s ff7/data/battle/special/smog/elehit2.s ff7/data/battle/special/triangle/hit2.s
+northern	0x1BE38	sprite	296	ff7/data/battle/special/atmic/hit3.s ff7/data/battle/special/nozan/elehit3.s ff7/data/battle/special/sazan/elehit3.s ff7/data/battle/special/smog/elehit3.s ff7/data/battle/special/triangle/hit3.s
+northern	0x1BF60	sprite	296	ff7/data/battle/special/atmic/hit4.s ff7/data/battle/special/nozan/elehit4.s ff7/data/battle/special/sazan/elehit4.s ff7/data/battle/special/smog/elehit4.s ff7/data/battle/special/triangle/hit4.s
+northern	0x1C088	sprite	392	ff7/data/battle/special/dokueki/doku1.s ff7/data/battle/special/harrier/baku1.s ff7/data/battle/special/jibaku2/baku1.s ff7/data/battle/special/kona/doku1.s ff7/data/battle/special/nozan/baku1.s ff7/data/battle/special/sazan/baku1.s ff7/data/battle/special/shower/doku1.s
+odin1	0x26BC8	model	5588	ff7/data/battle/summon/odin1/sky_a.p ff7/data/battle/summon/odin1/sky_c.p
+odin1	0x2819C	model	5588	ff7/data/battle/summon/odin1/sky_a.p ff7/data/battle/summon/odin1/sky_c.p
+odin1	0x29770	model	2900	ff7/data/battle/summon/odin1/wind_1.p
+odin1	0x2A2C4	model	1468	ff7/data/battle/summon/odin1/flash_1.p
+odin1	0x2A880	model	1556	ff7/data/battle/limit2/tifa1/ring_2.p ff7/data/battle/summon/odin1/ring_2.p
+odin1	0x2BC14	sprite	392	ff7/data/battle/summon/alexand/smoke_1.s ff7/data/battle/summon/odin1/smoke_x.s
+odin1	0x2BD9C	sprite	392	ff7/data/battle/summon/odin1/smoke_x2.s
+odin1	0x2BF24	sprite	200	ff7/data/battle/summon/odin1/kemu_1.s
+odin1	0x2BFEC	model	1468	ff7/data/battle/summon/odin1/01.p
+odin1	0x2C5A8	model	2884	gung.p
+odin1	0x2D0EC	sprite	152	ff7/data/battle/summon/odin1/ripple_1.s
+odin1	0x2D184	model	1172	yari_1.p
+odin1	0x2D664	container.bones	396	odin_gda.d
+odin1	0x2D7F0	container.mesh	5028	odin_gda.p00 odin_zda.p00
+odin1	0x2EB94	container.mesh	6036	odin_gda.p01 odin_zda.p01
+odin1	0x30328	container.mesh	5444	odin_gda.p02
+odin1	0x3186C	container.mesh	9604	odin_gda.p03
+odin1	0x33DF0	container.mesh	1204	odin_gda.p05
+odin1	0x342A4	container.mesh	1580	odin_gda.p06
+odin1	0x348D0	container.mesh	1876	odin_gda.p07
+odin1	0x35024	container.mesh	356	odin_gda.p09 odin_zda.p07
+odin1	0x35188	container.mesh	356	odin_gda.p10 odin_zda.p08
+odin1	0x352EC	container.mesh	420	odin_gda.p11
+odin1	0x35490	container.mesh	356	odin_gda.p13 odin_zda.p11
+odin1	0x355F4	container.mesh	356	odin_gda.p14 odin_zda.p12
+odin1	0x35758	container.mesh	420	odin_gda.p15
+odin1	0x358FC	container.mesh	4572	odin_gda.p17
+odin1	0x36AD8	container.mesh	788	odin_gda.p19 odin_zda.p19
+odin1	0x36DEC	container.mesh	508	odin_gda.p20 odin_zda.p20
+odin1	0x36FE8	container.mesh	724	odin_gda.p21 odin_zda.p21
+odin1	0x372BC	container.mesh	1108	odin_gda.p23 odin_zda.p23
+odin1	0x37710	container.mesh	616	odin_gda.p24
+odin1	0x37978	container.mesh	676	odin_gda.p25
+odin1	0x37C1C	container.mesh	788	odin_gda.p27 odin_zda.p27
+odin1	0x37F30	container.mesh	508	odin_gda.p28 odin_zda.p28
+odin1	0x3812C	container.mesh	724	odin_gda.p29 odin_zda.p29
+odin1	0x38400	container.mesh	1108	odin_gda.p31 odin_zda.p31
+odin1	0x38854	container.mesh	600	odin_gda.p32
+odin1	0x38AAC	container.mesh	692	odin_gda.p33
+odin1	0x38D60	container.mesh	4228	odin_gda.p34 odin_zda.p34
+odin1	0x39DE4	container.mesh	7444	odin_gda.p35 odin_zda.p35
+odin1	0x3BAF8	container.mesh	788	odin_gda.p36 odin_zda.p36
+odin1	0x3BE0C	container.mesh	1300	odin_gda.p38
+odin1	0x3C320	container.mesh	596	odin_gda.p39 odin_zda.p39
+odin1	0x3C574	container.mesh	1124	odin_gda.p40 odin_zda.p40
+odin1	0x3C9D8	container.mesh	916	odin_gda.p41
+odin1	0x3CD6C	container.mesh	1316	odin_gda.p43
+odin1	0x3D290	container.mesh	596	odin_gda.p44 odin_zda.p44
+odin1	0x3D4E4	container.mesh	1108	odin_gda.p45
+odin1	0x3D938	container.mesh	884	odin_gda.p46
+odin1	0x3DCAC	container.mesh	900	odin_gda.p47 odin_zda.p47
+odin1	0x3E030	container.script	64	odin_gda.b
+odin1	0x3E070	container.anim	2336	odin_gda.a00
+odin1	0x3E990	container.anim	5356	odin_gda.a00
+odin1	0x3FE7C	container.anim	856	odin_gda.a00
+odin1	0x401D4	container.anim	7248	odin_gda.a00
+odin1	0x41E24	container.anim	1768	odin_gda.a00
+odin2	0x253F0	model	29596	iwa.p
+odin2	0x2C78C	sprite	92	sky_2.s
+odin2	0x2C7E8	sprite	32	moon_1.s
+odin2	0x2C808	sprite	52	kiri_2.s
+odin2	0x2C83C	sprite	200	ff7/data/battle/summon/odin2/smoke.s ff7/data/battle/summon/vahamut2/smoke.s
+odin2	0x2CCF8	container.bones	396	odin_zda.d
+odin2	0x2CE84	container.mesh	5028	odin_gda.p00 odin_zda.p00
+odin2	0x2E228	container.mesh	6036	odin_gda.p01 odin_zda.p01
+odin2	0x2F9BC	container.mesh	5444	odin_zda.p02
+odin2	0x30F00	container.mesh	9604	odin_zda.p03
+odin2	0x33484	container.mesh	4620	odin_zda.p05
+odin2	0x34690	container.mesh	356	odin_gda.p09 odin_zda.p07
+odin2	0x347F4	container.mesh	356	odin_gda.p10 odin_zda.p08
+odin2	0x34958	container.mesh	420	odin_zda.p09
+odin2	0x34AFC	container.mesh	356	odin_gda.p13 odin_zda.p11
+odin2	0x34C60	container.mesh	356	odin_gda.p14 odin_zda.p12
+odin2	0x34DC4	container.mesh	420	odin_zda.p13
+odin2	0x34F68	container.mesh	1204	odin_zda.p15
+odin2	0x3541C	container.mesh	1580	odin_zda.p16
+odin2	0x35A48	container.mesh	4372	odin_zda.p17
+odin2	0x36B5C	container.mesh	788	odin_gda.p19 odin_zda.p19
+odin2	0x36E70	container.mesh	508	odin_gda.p20 odin_zda.p20
+odin2	0x3706C	container.mesh	724	odin_gda.p21 odin_zda.p21
+odin2	0x37340	container.mesh	1108	odin_gda.p23 odin_zda.p23
+odin2	0x37794	container.mesh	616	odin_zda.p24
+odin2	0x379FC	container.mesh	676	odin_zda.p25
+odin2	0x37CA0	container.mesh	788	odin_gda.p27 odin_zda.p27
+odin2	0x37FB4	container.mesh	508	odin_gda.p28 odin_zda.p28
+odin2	0x381B0	container.mesh	724	odin_gda.p29 odin_zda.p29
+odin2	0x38484	container.mesh	1108	odin_gda.p31 odin_zda.p31
+odin2	0x388D8	container.mesh	600	odin_zda.p32
+odin2	0x38B30	container.mesh	692	odin_zda.p33
+odin2	0x38DE4	container.mesh	4228	odin_gda.p34 odin_zda.p34
+odin2	0x39E68	container.mesh	7444	odin_gda.p35 odin_zda.p35
+odin2	0x3BB7C	container.mesh	788	odin_gda.p36 odin_zda.p36
+odin2	0x3BE90	container.mesh	1300	odin_zda.p38
+odin2	0x3C3A4	container.mesh	596	odin_gda.p39 odin_zda.p39
+odin2	0x3C5F8	container.mesh	1124	odin_gda.p40 odin_zda.p40
+odin2	0x3CA5C	container.mesh	916	odin_zda.p41
+odin2	0x3CDF0	container.mesh	1300	odin_zda.p43
+odin2	0x3D304	container.mesh	596	odin_gda.p44 odin_zda.p44
+odin2	0x3D558	container.mesh	1108	odin_zda.p45
+odin2	0x3D9AC	container.mesh	884	odin_zda.p46
+odin2	0x3DD20	container.mesh	900	odin_gda.p47 odin_zda.p47
+odin2	0x3E0A4	container.script	68	odin_zda.b
+odin2	0x3E0E8	container.anim	3976	odin_zda.a00
+odin2	0x3F070	container.anim	4904	odin_zda.a00
+odin2	0x40398	container.anim	1444	odin_zda.a00
+odin2	0x4093C	container.anim	1068	odin_zda.a00
+odin2	0x40D68	container.anim	1416	odin_zda.a00
+odin2	0x412F0	container.anim	1820	odin_zda.a00
+oil	0x20BE0	model	6436	ff7/data/battle/special/mizu/mizu.p ff7/data/battle/special/oil/mizu.p
+oil	0x22504	model	980	ff7/data/battle/magic/faira/1.p ff7/data/battle/magic/faira/2.p ff7/data/battle/magic/faira/3.p ff7/data/battle/magic/faira/4.p ff7/data/battle/magic/faira/5.p ff7/data/battle/magic/faira/6.p ff7/data/battle/magic/faira/7.p ff7/data/battle/magic/faira/8.p
+oil	0x228D8	model	980	ff7/data/battle/magic/faira/1.p ff7/data/battle/magic/faira/2.p ff7/data/battle/magic/faira/3.p ff7/data/battle/magic/faira/4.p ff7/data/battle/magic/faira/5.p ff7/data/battle/magic/faira/6.p ff7/data/battle/magic/faira/7.p ff7/data/battle/magic/faira/8.p
+oil	0x22CAC	model	980	ff7/data/battle/magic/faira/1.p ff7/data/battle/magic/faira/2.p ff7/data/battle/magic/faira/3.p ff7/data/battle/magic/faira/4.p ff7/data/battle/magic/faira/5.p ff7/data/battle/magic/faira/6.p ff7/data/battle/magic/faira/7.p ff7/data/battle/magic/faira/8.p
+oil	0x23080	model	980	ff7/data/battle/magic/faira/1.p ff7/data/battle/magic/faira/2.p ff7/data/battle/magic/faira/3.p ff7/data/battle/magic/faira/4.p ff7/data/battle/magic/faira/5.p ff7/data/battle/magic/faira/6.p ff7/data/battle/magic/faira/7.p ff7/data/battle/magic/faira/8.p
+oil	0x23454	model	980	ff7/data/battle/magic/faira/1.p ff7/data/battle/magic/faira/2.p ff7/data/battle/magic/faira/3.p ff7/data/battle/magic/faira/4.p ff7/data/battle/magic/faira/5.p ff7/data/battle/magic/faira/6.p ff7/data/battle/magic/faira/7.p ff7/data/battle/magic/faira/8.p
+oil	0x243A8	sprite	200	oil1.s
+oil	0x24470	sprite	296	ff7/data/battle/special/oil/baku1.s
+oil	0x24598	sprite	368	ff7/data/battle/special/oil/hit1.s
+onpa	0x600	model	660	ff7/data/battle/special/onpa/onpa_11.p ff7/data/battle/special/toboe2/onpa_11.p
+onpa	0x894	sprite	612	ff7/data/battle/special/mizu/jo_c04.s ff7/data/battle/special/nonosi/jo_c04.s ff7/data/battle/special/onpa/jo_c04.s
+onsen	0xD0C	sprite	32	ff7/data/battle/special/chikasui/mizu.s ff7/data/battle/special/magma/magma.s ff7/data/battle/special/magma2/magma.s ff7/data/battle/special/pink/tama.s onsen.s shisui.s
+osen	0x2119C	model	5508	ff7/data/battle/special/osen/okuri2.p
+osen	0x22720	sprite	152	ff7/data/battle/special/osen/kemu2.s
+osen	0x227B8	sprite	392	ff7/data/battle/special/osen/baku1.s
+osen	0x22940	sprite	200	ff7/data/battle/special/geki1/jo_c01.s ff7/data/battle/special/geki2/jo_c01.s ff7/data/battle/special/harrier/jo_c01.s ff7/data/battle/special/kueisa/jo_c01.s ff7/data/battle/special/osen/jo_c01.s ff7/data/battle/special/sander/jo_c01.s ff7/data/battle/special/sazan/jo_c01.s ff7/data/battle/special/smog/jo_c01.s
+osen	0x22A08	sprite	680	hige.s
+osen	0x22CB0	sprite	32	osen.s
+otsunami	0x10EA8	sprite	200	ff7/data/battle/special/dokueki/jo_c03.s ff7/data/battle/special/gesui1/jo_c03.s ff7/data/battle/special/ito/jo_c03.s ff7/data/battle/special/nozan/jo_c03.s ff7/data/battle/special/tunami/jo_c03.s
+phoenix	0x249DC	model	3220	ff7/data/battle/summon/fenic/fire_1.p
+phoenix	0x25670	model	5524	ff7/data/battle/summon/fenic/fire_2.p
+phoenix	0x26C04	model	3004	shine_1.p
+phoenix	0x277C0	model	4052	rainbow.p
+phoenix	0x28794	model	1940	flame1.p
+phoenix	0x28F28	model	4180	flame2.p
+phoenix	0x29F7C	sprite	32	ff7/data/battle/summon/fenic/tama_1.s
+phoenix	0x29F9C	sprite	200	ff7/data/battle/summon/fenic/kira_1.s
+phoenix	0x2A064	sprite	32	tama_2.s
+phoenix	0x2A0A0	container.bones	388	pheonixd.d
+phoenix	0x2A224	container.mesh	3332	pheonixd.p00
+phoenix	0x2B0E4	container.mesh	4540	pheonixd.p05
+phoenix	0x2C2A0	container.mesh	2612	pheonixd.p06
+phoenix	0x2CCD4	container.mesh	8500	pheonixd.p07
+phoenix	0x2EE08	container.mesh	724	pheonixd.p08
+phoenix	0x2F0DC	container.mesh	7300	pheonixd.p09
+phoenix	0x30F1C	container.mesh	4540	pheonixd.p14
+phoenix	0x320D8	container.mesh	2612	pheonixd.p15
+phoenix	0x32B0C	container.mesh	8500	pheonixd.p16
+phoenix	0x34C40	container.mesh	1348	pheonixd.p18
+phoenix	0x35184	container.mesh	612	pheonixd.p19 pheonixd.p45
+phoenix	0x353E8	container.mesh	2308	pheonixd.p20
+phoenix	0x360A4	container.mesh	948	pheonixd.p28
+phoenix	0x364DC	container.mesh	292	pheonixd.p30
+phoenix	0x36684	container.mesh	292	pheonixd.p32
+phoenix	0x3682C	container.mesh	292	pheonixd.p34
+phoenix	0x369D4	container.mesh	292	pheonixd.p36
+phoenix	0x36AF8	container.mesh	1524	pheonixd.p37
+phoenix	0x370EC	container.mesh	1300	pheonixd.p38
+phoenix	0x37600	container.mesh	1300	pheonixd.p39
+phoenix	0x37B14	container.mesh	1300	pheonixd.p40
+phoenix	0x38028	container.mesh	1300	pheonixd.p41
+phoenix	0x38610	container.mesh	1348	pheonixd.p44
+phoenix	0x38B54	container.mesh	612	pheonixd.p19 pheonixd.p45
+phoenix	0x38DB8	container.mesh	2308	pheonixd.p46
+phoenix	0x396BC	container.script	64	pheonixd.b
+phoenix	0x396FC	container.anim	6080	pheonixd.a00
+phoenix	0x3AEBC	container.anim	2712	pheonixd.a00
+phoenix	0x3B954	container.anim	2964	pheonixd.a00
+pink	0x193AC	model	1092	ff7/data/battle/special/awa2/suna2.p ff7/data/battle/special/cold1/hubuki1.p ff7/data/battle/special/hubuki/hubuki1.p ff7/data/battle/special/kahun/suna2.p ff7/data/battle/special/pink/suna2.p ff7/data/battle/special/suna/suna2.p
+pink	0x199C4	sprite	32	ff7/data/battle/special/pink/maru.s
+pink	0x199E4	sprite	32	ff7/data/battle/special/chikasui/mizu.s ff7/data/battle/special/magma/magma.s ff7/data/battle/special/magma2/magma.s ff7/data/battle/special/pink/tama.s onsen.s shisui.s
+pink	0x19A04	sprite	32	ff7/data/battle/special/pink/heart.s
+punch	0x8E4	model	1860	gardr.p
+punch	0x1028	model	1860	gardl.p
+quasar	0x21680	model	1476	ff7/data/battle/special/atmic/kueisa.p ff7/data/battle/special/club2/kueisa.p ff7/data/battle/special/kueisa/kueisa.p nozan.p sazan.p
+quasar	0x25EAC	model	1636	ff7/data/battle/special/club2/elec1.p ff7/data/battle/special/energy/elec1.p ff7/data/battle/special/hado/elec1.p ff7/data/battle/special/ho_den/elec1.p ff7/data/battle/special/kueisa/elec1.p
+quasar	0x265D4	model	280	ff7/data/battle/special/club2/isi2.p ff7/data/battle/special/kueisa/isi2.p
+quasar	0x266EC	model	436	ff7/data/battle/special/club2/isi3.p ff7/data/battle/special/kueisa/isi3.p
+quasar	0x268A0	model	276	ff7/data/battle/special/club2/isi4.p ff7/data/battle/special/kueisa/isi4.p
+quasar	0x269B4	model	316	ff7/data/battle/special/club2/isi5.p ff7/data/battle/special/kueisa/isi5.p
+quasar	0x26BB4	model	324	ff7/data/battle/special/club2/baku1.p ff7/data/battle/special/kueisa/baku1.p
+quasar	0x26CF8	model	516	soko1.p
+quasar	0x26EFC	sprite	436	ff7/data/battle/special/kueisa/hikari1.s
+quasar	0x270B0	sprite	32	wa.s
+quasar	0x270D0	sprite	32	ff7/data/battle/special/kueisa/maru1.s
+quasar	0x270F0	sprite	392	ff7/data/battle/special/kakusan/bimu1.s ff7/data/battle/special/kueisa/bimu1.s
+quasar	0x27278	sprite	200	ff7/data/battle/special/kakusan/bimu2.s ff7/data/battle/special/kueisa/bimu2.s
+quasar	0x27340	sprite	200	ff7/data/battle/special/geki1/jo_c01.s ff7/data/battle/special/geki2/jo_c01.s ff7/data/battle/special/harrier/jo_c01.s ff7/data/battle/special/kueisa/jo_c01.s ff7/data/battle/special/osen/jo_c01.s ff7/data/battle/special/sander/jo_c01.s ff7/data/battle/special/sazan/jo_c01.s ff7/data/battle/special/smog/jo_c01.s
+queig	0x1C8CC	model	916	smoke.p
+queik	0x840C	model	1756	ff7/data/battle/magic/queik/queik.p ff7/data/battle/special/club1/queik.p
+queir	0x12EE8	model	404	ff7/data/battle/magic/queir/light_1.p ff7/data/battle/magic/queir/light_2.p
+queir	0x1307C	model	404	ff7/data/battle/magic/queir/light_1.p ff7/data/battle/magic/queir/light_2.p
+queir	0x13210	model	2652	queir.p
+q_ketsu	0xD644	model	516	ff7/data/battle/special/kyuu/kyuu.p ff7/data/battle/special/kyuu2/kyuu.p
+q_ketsu	0xD848	sprite	152	ff7/data/battle/special/kyuu/kira1.s
+q_ketsu	0xD8E0	sprite	200	ff7/data/battle/special/kyuu/kira2.s
+q_ketsu	0xD9A8	sprite	32	ff7/data/battle/special/kyuu/titama.s ff7/data/battle/special/kyuu2/titama.s
+q_ketsu	0xD9C8	sprite	200	ff7/data/battle/special/kyuu/hit1.s
+q_shu	0xD644	model	516	ff7/data/battle/special/kyuu/kyuu.p ff7/data/battle/special/kyuu2/kyuu.p
+q_shu	0xD848	sprite	152	ff7/data/battle/special/kyuu2/kira1.s
+q_shu	0xD8E0	sprite	200	ff7/data/battle/special/kyuu2/kira2.s
+q_shu	0xD9A8	sprite	32	ff7/data/battle/special/kyuu/titama.s ff7/data/battle/special/kyuu2/titama.s
+q_shu	0xD9C8	sprite	200	ff7/data/battle/special/kyuu2/hit1.s
+raise	0x80E4	sprite	92	ff7/data/battle/magic/aleiz/hikari.s
+raise	0x8140	model	1844	ff7/data/battle/magic/aleiz/light_1.p
+raise	0x8888	container.bones	60	angeldat.d
+raise	0x88C4	container.mesh	4820	angeldat.p00
+raise	0x9B98	container.mesh	1764	angeldat.p02
+raise	0xA27C	container.mesh	4116	angeldat.p03
+raise	0xB290	container.mesh	1764	angeldat.p05
+raise	0xB974	container.script	68	5dethdat.b angeldat.b confdat.b deathdat.b mogdat.b toydat.b
+raise	0xB9B8	container.anim	260	angeldat.a00
+rakuseki	0x10C4	model	1636	isia.p
+rakuseki	0x1728	model	1036	isib.p
+rakuseki	0x1B34	model	1036	isic.p
+rakuseki	0x1F40	model	436	isid.p
+rakuseki	0x20F4	model	436	isie.p
+rakuseki	0x22A8	model	436	isif.p
+rakuseki	0x245C	model	424	isig.p
+rakuseki	0x126A4	sprite	200	ff7/data/battle/special/raku/hit1.s
+rakuseki	0x1276C	sprite	32	ff7/data/battle/special/raku/kage.s
+rakuseki	0x1278C	sprite	488	ff7/data/battle/special/raku/hahen.s
+ranto	0x6870	sprite	956	ff7/data/battle/limit3/ranntou/kemuri.s
+refrec	0x584	model	1660	rifrek.p
+reiki	0x20F14	model	452	ff7/data/battle/special/hado/wa.p ff7/data/battle/special/naparm/wa.p ff7/data/battle/special/netu/wa.p ff7/data/battle/special/reiki/wa.p ff7/data/battle/special/renmisa/wa.p ff7/data/battle/special/roket/wa.p ff7/data/battle/special/s_bless/kage.p ff7/data/battle/special/s_bless/wa.p
+reiki	0x210D8	model	1956	ff7/data/battle/special/b_2/netu1.p ff7/data/battle/special/netu/netu1.p ff7/data/battle/special/reiki/netu1.p ff7/data/battle/special/s_bless/netu1.p ff7/data/battle/special/saikyo/netu1.p
+reiki	0x25BA8	model	280	ff7/data/battle/limit3/e_r/isi2.p ff7/data/battle/special/geki2/isi2.p ff7/data/battle/special/netu/isi2.p ff7/data/battle/special/re_do/isi2.p ff7/data/battle/special/reiki/isi2.p ff7/data/battle/special/syaku/isi2.p
+reiki	0x25CC0	model	276	ff7/data/battle/limit3/e_r/isi3.p ff7/data/battle/special/geki2/isi3.p ff7/data/battle/special/netu/isi3.p ff7/data/battle/special/re_do/isi3.p ff7/data/battle/special/reiki/isi3.p ff7/data/battle/special/syaku/isi3.p
+reiki	0x25E98	sprite	488	ff7/data/battle/special/netu/hahen1.s ff7/data/battle/special/reiki/hahen1.s
+reiki	0x26080	sprite	200	ff7/data/battle/special/energy/jo_a.s ff7/data/battle/special/hado/jo_a.s ff7/data/battle/special/netu/kemu1.s ff7/data/battle/special/reiki/kemu1.s ff7/data/battle/special/renmisa/jo_a.s ff7/data/battle/special/tele/kemu1.s
+reiki	0x26148	sprite	32	ff7/data/battle/special/netu/hikari.s ff7/data/battle/special/reiki/hikari.s ff7/data/battle/special/s_bless/hikari1.s ff7/data/battle/special/saikyo/hikari1.s
+reiki	0x26168	sprite	92	ff7/data/battle/special/netu/kage.s ff7/data/battle/special/reiki/kage.s
+reito	0x225A4	model	468	ff7/data/battle/special/reito/ko1.p ff7/data/battle/special/reito/ko2.p ff7/data/battle/special/reito/ko3.p ff7/data/battle/special/reito/ko4.p ff7/data/battle/special/reito/ko5.p ff7/data/battle/special/reito/ko6.p ff7/data/battle/special/reito/ko7.p ff7/data/battle/special/reito/ko8.p
+reito	0x22778	model	580	ff7/data/battle/special/reito/ko1.p ff7/data/battle/special/reito/ko2.p ff7/data/battle/special/reito/ko3.p ff7/data/battle/special/reito/ko4.p ff7/data/battle/special/reito/ko5.p ff7/data/battle/special/reito/ko6.p ff7/data/battle/special/reito/ko7.p ff7/data/battle/special/reito/ko8.p
+reito	0x229BC	model	692	ff7/data/battle/special/reito/ko1.p ff7/data/battle/special/reito/ko2.p ff7/data/battle/special/reito/ko3.p ff7/data/battle/special/reito/ko4.p ff7/data/battle/special/reito/ko5.p ff7/data/battle/special/reito/ko6.p ff7/data/battle/special/reito/ko7.p ff7/data/battle/special/reito/ko8.p
+reito	0x22C70	model	884	ff7/data/battle/special/reito/ko1.p ff7/data/battle/special/reito/ko2.p ff7/data/battle/special/reito/ko3.p ff7/data/battle/special/reito/ko4.p ff7/data/battle/special/reito/ko5.p ff7/data/battle/special/reito/ko6.p ff7/data/battle/special/reito/ko7.p ff7/data/battle/special/reito/ko8.p
+reito	0x22FE4	model	1204	ff7/data/battle/special/reito/ko1.p ff7/data/battle/special/reito/ko2.p ff7/data/battle/special/reito/ko3.p ff7/data/battle/special/reito/ko4.p ff7/data/battle/special/reito/ko5.p ff7/data/battle/special/reito/ko6.p ff7/data/battle/special/reito/ko7.p ff7/data/battle/special/reito/ko8.p
+reito	0x23498	model	1396	ff7/data/battle/special/reito/ko1.p ff7/data/battle/special/reito/ko2.p ff7/data/battle/special/reito/ko3.p ff7/data/battle/special/reito/ko4.p ff7/data/battle/special/reito/ko5.p ff7/data/battle/special/reito/ko6.p ff7/data/battle/special/reito/ko7.p ff7/data/battle/special/reito/ko8.p
+reito	0x24644	model	468	ff7/data/battle/special/reito/kemu.p
+reito	0x24818	sprite	392	ff7/data/battle/special/cold1/baku1.s ff7/data/battle/special/hubuki/baku1.s ff7/data/battle/special/reito/baku1.s ff7/data/battle/special/turara/baku1.s
+reito	0x249A0	sprite	200	ff7/data/battle/special/kona/jo_a.s ff7/data/battle/special/reito/jo_1.s
+reito	0x24A68	sprite	104	ff7/data/battle/special/reito/hassya.s
+renbaku	0x10988	sprite	2000	explo.s
+re_do	0x21C08	model	1540	ff7/data/battle/limit3/c_m/hado.p ff7/data/battle/special/hadoho/hado.p ff7/data/battle/special/re_do/hado.p ff7/data/battle/special/syaku/hado.p ff7/data/battle/special/tyokyu/hado.p
+re_do	0x2489C	model	612	ff7/data/battle/special/b_2/soto.p ff7/data/battle/special/hadoho/soto.p ff7/data/battle/special/re_do/soto.p ff7/data/battle/special/syaku/soto.p ff7/data/battle/special/tyokyu/soto.p ff7/data/battle/weapon/dia_u/soto.p
+re_do	0x24B00	model	884	ff7/data/battle/special/b_2/senkou1.p ff7/data/battle/special/naparm/senkou1.p ff7/data/battle/special/re_do/senkou1.p ff7/data/battle/special/tyokyu/senkou1.p
+re_do	0x24F38	model	280	ff7/data/battle/limit3/e_r/isi2.p ff7/data/battle/special/geki2/isi2.p ff7/data/battle/special/netu/isi2.p ff7/data/battle/special/re_do/isi2.p ff7/data/battle/special/reiki/isi2.p ff7/data/battle/special/syaku/isi2.p
+re_do	0x25050	model	276	ff7/data/battle/limit3/e_r/isi3.p ff7/data/battle/special/geki2/isi3.p ff7/data/battle/special/netu/isi3.p ff7/data/battle/special/re_do/isi3.p ff7/data/battle/special/reiki/isi3.p ff7/data/battle/special/syaku/isi3.p
+re_do	0x25228	sprite	56	ff7/data/battle/special/energy/kou.s ff7/data/battle/special/hado/kou.s ff7/data/battle/special/hadoho/kou.s ff7/data/battle/special/re_do/kou.s ff7/data/battle/special/syaku/kou.s ff7/data/battle/special/tyokyu/kou.s
+re_do	0x25260	sprite	392	ff7/data/battle/special/hadoho/kemu11.s ff7/data/battle/special/re_do/kemu11.s ff7/data/battle/special/syaku/kemu11.s ff7/data/battle/special/tyokyu/kemu11.s
+re_do	0x253E8	sprite	176	ff7/data/battle/special/energy/hahen1.s ff7/data/battle/special/hado/hahen1.s ff7/data/battle/special/hadoho/hahen1.s ff7/data/battle/special/re_do/hahen1.s ff7/data/battle/special/renmisa/hahen1.s ff7/data/battle/special/syaku/hahen1.s ff7/data/battle/special/tyokyu/hahen1.s
+re_do	0x25498	sprite	392	ff7/data/battle/special/energy/baku1.s ff7/data/battle/special/hado/baku1.s ff7/data/battle/special/hadoho/baku1.s ff7/data/battle/special/re_do/baku1.s ff7/data/battle/special/syaku/baku1.s ff7/data/battle/special/tyokyu/baku1.s
+riva	0x1B328	model	4388	ff7/data/battle/summon/riva/water_1.p
+riva	0x1C44C	model	7844	wave_1.p
+riva	0x1E2F0	model	2340	wave_22.p
+riva	0x1EC14	model	11548	test.p
+riva	0x2D194	sprite	200	wavehit.s
+riva	0x2D288	container.bones	380	rivadat.d
+riva	0x2D404	container.mesh	2372	rivadat.p00
+riva	0x2DD48	container.mesh	2372	rivadat.p01
+riva	0x2E68C	container.mesh	1700	rivadat.p02
+riva	0x2ED30	container.mesh	1700	rivadat.p03
+riva	0x2F3D4	container.mesh	1900	rivadat.p04
+riva	0x2FB40	container.mesh	1940	rivadat.p05
+riva	0x302D4	container.mesh	2716	rivadat.p06
+riva	0x30D70	container.mesh	7668	rivadat.p07
+riva	0x32B64	container.mesh	1156	rivadat.p08
+riva	0x32FE8	container.mesh	356	rivadat.p10 rivadat.p11 rivadat.p17 rivadat.p18
+riva	0x3314C	container.mesh	356	rivadat.p10 rivadat.p11 rivadat.p17 rivadat.p18
+riva	0x332B0	container.mesh	356	rivadat.p12 rivadat.p19
+riva	0x33414	container.mesh	356	rivadat.p13 rivadat.p20
+riva	0x33578	container.mesh	356	rivadat.p14 rivadat.p21
+riva	0x337C0	container.mesh	356	rivadat.p10 rivadat.p11 rivadat.p17 rivadat.p18
+riva	0x33924	container.mesh	356	rivadat.p10 rivadat.p11 rivadat.p17 rivadat.p18
+riva	0x33A88	container.mesh	356	rivadat.p12 rivadat.p19
+riva	0x33BEC	container.mesh	356	rivadat.p13 rivadat.p20
+riva	0x33D50	container.mesh	356	rivadat.p14 rivadat.p21
+riva	0x33F98	container.mesh	1356	rivadat.p24
+riva	0x344E4	container.mesh	1356	rivadat.p26
+riva	0x34A30	container.mesh	948	rivadat.p28
+riva	0x34DE4	container.mesh	948	rivadat.p30
+riva	0x35198	container.mesh	1700	rivadat.p31
+riva	0x3583C	container.mesh	1700	rivadat.p32
+riva	0x35EE0	container.mesh	1700	rivadat.p33
+riva	0x36584	container.mesh	1700	rivadat.p34
+riva	0x36C28	container.mesh	1700	rivadat.p35
+riva	0x372CC	container.mesh	1700	rivadat.p36
+riva	0x37970	container.mesh	1700	rivadat.p37
+riva	0x38014	container.mesh	1732	rivadat.p38
+riva	0x386D8	container.mesh	1700	rivadat.p39
+riva	0x38D7C	container.mesh	1700	rivadat.p40
+riva	0x39420	container.mesh	2148	rivadat.p41
+riva	0x39C84	container.mesh	1780	rivadat.p42
+riva	0x3A378	container.mesh	1540	rivadat.p43
+riva	0x3A97C	container.mesh	1380	rivadat.p44
+riva	0x3AEE0	container.mesh	948	rivadat.p45
+riva	0x3B294	container.script	76	rivadat.b
+riva	0x3B2E0	container.anim	4012	rivadat.a00
+riva	0x3C28C	container.anim	4684	rivadat.a00
+riva	0x3D4D8	container.anim	1852	rivadat.a00
+rmissile	0x2188C	model	2724	ff7/data/battle/special/misairu/misairu.p ff7/data/battle/special/renmisa/misairu.p
+rmissile	0x22330	model	500	ff7/data/battle/special/hado/wa.p ff7/data/battle/special/naparm/wa.p ff7/data/battle/special/netu/wa.p ff7/data/battle/special/reiki/wa.p ff7/data/battle/special/renmisa/wa.p ff7/data/battle/special/roket/wa.p ff7/data/battle/special/s_bless/kage.p ff7/data/battle/special/s_bless/wa.p
+rmissile	0x2449C	sprite	80	ff7/data/battle/special/renmisa/hunsya.s ff7/data/battle/special/yami/hunsya.s
+rmissile	0x244EC	sprite	152	ff7/data/battle/special/renmisa/kemu1.s
+rmissile	0x24584	sprite	176	ff7/data/battle/special/energy/hahen1.s ff7/data/battle/special/hado/hahen1.s ff7/data/battle/special/hadoho/hahen1.s ff7/data/battle/special/re_do/hahen1.s ff7/data/battle/special/renmisa/hahen1.s ff7/data/battle/special/syaku/hahen1.s ff7/data/battle/special/tyokyu/hahen1.s
+rmissile	0x24634	sprite	200	ff7/data/battle/special/energy/jo_a.s ff7/data/battle/special/hado/jo_a.s ff7/data/battle/special/netu/kemu1.s ff7/data/battle/special/reiki/kemu1.s ff7/data/battle/special/renmisa/jo_a.s ff7/data/battle/special/tele/kemu1.s
+rmissile	0x246FC	sprite	200	ff7/data/battle/special/energy/jo_a.s ff7/data/battle/special/hado/jo_a.s ff7/data/battle/special/netu/kemu1.s ff7/data/battle/special/reiki/kemu1.s ff7/data/battle/special/renmisa/jo_a.s ff7/data/battle/special/tele/kemu1.s
+rocket	0x21940	model	1764	ff7/data/battle/special/naparm/misa.p ff7/data/battle/special/roket/misa.p
+rocket	0x22024	model	7588	ff7/data/battle/special/energy/sindom1.p ff7/data/battle/special/hado/sindom1.p ff7/data/battle/special/naparm/sindom1.p ff7/data/battle/special/renmisa/sindom1.p ff7/data/battle/special/roket/sindom1.p
+rocket	0x23DC8	model	7588	ff7/data/battle/special/naparm/sindom2.p ff7/data/battle/special/roket/sindom2.p
+rocket	0x25B6C	model	7588	ff7/data/battle/special/energy/sindom1.p ff7/data/battle/special/hado/sindom1.p ff7/data/battle/special/naparm/sindom1.p ff7/data/battle/special/renmisa/sindom1.p ff7/data/battle/special/roket/sindom1.p
+rocket	0x27C28	model	500	ff7/data/battle/special/hado/wa.p ff7/data/battle/special/naparm/wa.p ff7/data/battle/special/netu/wa.p ff7/data/battle/special/reiki/wa.p ff7/data/battle/special/renmisa/wa.p ff7/data/battle/special/roket/wa.p ff7/data/battle/special/s_bless/kage.p ff7/data/battle/special/s_bless/wa.p
+rocket	0x27E1C	sprite	80	ff7/data/battle/special/naparm/hunsya.s ff7/data/battle/special/roket/hunsya.s
+rocket	0x27E6C	sprite	392	ff7/data/battle/special/gas/baku1.s ff7/data/battle/special/kaen2/baku1.s ff7/data/battle/special/naparm/kemu11.s ff7/data/battle/special/roket/kemu11.s
+rocket	0x27FF4	sprite	392	ff7/data/battle/special/naparm/kemu2.s ff7/data/battle/special/roket/kemu2.s
+rocket	0x2817C	sprite	200	ff7/data/battle/special/gas/hassya1.s ff7/data/battle/special/kaen/hassya1.s ff7/data/battle/special/kaen2/hassya1.s ff7/data/battle/special/naparm/kemu3.s ff7/data/battle/special/roket/kemu3.s
+rocket	0x28244	sprite	152	ff7/data/battle/special/naparm/enmaku.s ff7/data/battle/special/roket/enmaku.s
+rocket	0x28464	sprite	176	ff7/data/battle/special/roket/hahen1.s
+rollfire	0xC99C	sprite	1168	kaenn.s
+saikyo	0x216D4	model	1956	ff7/data/battle/special/b_2/netu1.p ff7/data/battle/special/netu/netu1.p ff7/data/battle/special/reiki/netu1.p ff7/data/battle/special/s_bless/netu1.p ff7/data/battle/special/saikyo/netu1.p
+saikyo	0x25AF8	model	276	ff7/data/battle/special/s_bless/iwa3.p ff7/data/battle/special/saikyo/iwa3.p ff7/data/battle/special/tyokyu/iwa3.p
+saikyo	0x25CD0	sprite	32	ff7/data/battle/special/netu/hikari.s ff7/data/battle/special/reiki/hikari.s ff7/data/battle/special/s_bless/hikari1.s ff7/data/battle/special/saikyo/hikari1.s
+saikyo	0x25CF0	sprite	176	ff7/data/battle/special/s_bless/hahen1.s ff7/data/battle/special/saikyo/hahen1.s
+saikyo	0x25DA0	sprite	392	ff7/data/battle/special/s_bless/kemu1.s ff7/data/battle/special/saikyo/kemu1.s
+saikyo	0x25F28	sprite	32	ff7/data/battle/special/saikyo/onpa1.s
+saikyo	0x25F48	sprite	32	ff7/data/battle/special/saikyo/onpa2.s
+saikyo	0x25F68	sprite	32	ff7/data/battle/special/saikyo/onpa3.s
+saikyo	0x25F88	sprite	32	ff7/data/battle/special/saikyo/onpa4.s
+saikyo	0x25FA8	sprite	32	ff7/data/battle/special/saikyo/onpa5.s
+saikyo	0x25FC8	sprite	32	ff7/data/battle/special/saikyo/onpa6.s
+saikyo	0x25FE8	sprite	32	ff7/data/battle/special/saikyo/onpa7.s
+sailess	0x84D8	model	2468	ff7/data/battle/magic/sailess/sailess.p ff7/data/battle/special/dia2/sailess.p
+satan	0xE990	model	1468	ff7/data/battle/limit2/satan/flash_1.p
+satan	0xEF4C	model	2612	ff7/data/battle/limit2/night/satan_2.p ff7/data/battle/limit2/satan/satan_2.p
+sdust	0x7278	sprite	32	ff7/data/battle/limit3/s_d/hosi.s ff7/data/battle/special/koudan1/maru1.s
+sdust	0x7298	sprite	32	ff7/data/battle/limit3/s_d/hosi1.s
+sdust	0x72B8	sprite	32	snow.s
+sdust	0x72D8	model	336	ff7/data/battle/limit3/s_d/kou1.p
+sdust	0x779C	sprite	612	ff7/data/battle/special/club2/jo_c04.s
+seald	0x11084	model	4644	seald.p
+seald	0x122A8	model	4356	seald2.p
+search	0x4994	model	996	ff7/data/battle/special/sarchi/sarchi2.p ff7/data/battle/special/scorp/sarchi2.p
+search	0x4D78	model	1284	ff7/data/battle/special/sarchi/sarchi.p sarchi33.p
+search	0x527C	sprite	200	ff7/data/battle/special/sarchi/hit11.s
+search	0x5344	sprite	200	ff7/data/battle/special/sarchi/hit12.s
+seed	0x97C	model	420	tane1.p
+seed	0xB20	model	420	tane2.p
+seed	0x3D84	sprite	200	ff7/data/battle/special/tane/hit1.s
+seija	0x12F08	model	1508	hit.p
+seija	0x134EC	model	1044	ff7/data/battle/limit2/hitumetu/hikari.p
+seija	0x13900	sprite	200	ff7/data/battle/limit2/hitumetu/chi_1.s ff7/data/battle/limit2/matsuri/chi_1.s ff7/data/battle/limit3/b_jump/h_jump.s ff7/data/battle/limit3/h_jump/h_jump.s ff7/data/battle/special/frog/hit11.s ff7/data/battle/special/scorp/hit11.s ff7/data/battle/special/sekika/hit11.s
+seija	0x139C8	sprite	80	chi_2.s
+seija	0x13A18	sprite	200	chi_3.s
+seija	0x13AE0	sprite	200	chi_4.s
+seija	0x13BA8	sprite	32	ff7/data/battle/limit2/hitumetu/tama1.s
+seija	0x13BC8	sprite	32	tama2.s
+seija	0x13BE8	sprite	32	ff7/data/battle/limit2/hitumetu/snow1.s
+seija	0x13C08	sprite	32	ff7/data/battle/limit2/hitumetu/snow2.s
+sekika	0x1AA9C	model	756	ff7/data/battle/special/sekika/sarchi.p
+sekika	0x1AD90	model	756	ff7/data/battle/special/sekika/sarchi1.p
+sekika	0x1D2F8	sprite	200	ff7/data/battle/limit2/hitumetu/chi_1.s ff7/data/battle/limit2/matsuri/chi_1.s ff7/data/battle/limit3/b_jump/h_jump.s ff7/data/battle/limit3/h_jump/h_jump.s ff7/data/battle/special/frog/hit11.s ff7/data/battle/special/scorp/hit11.s ff7/data/battle/special/sekika/hit11.s
+sekika	0x1D4E8	sprite	152	ff7/data/battle/special/sekika/hikari1.s
+sekika	0x1D580	sprite	152	ff7/data/battle/special/sekika/hikari2.s
+sekika	0x1D618	sprite	152	ff7/data/battle/special/sekika/hikari3.s
+sekika	0x1D6B0	sprite	200	ff7/data/battle/special/sekika/jo_a.s
+sennkoku	0xA84	container.bones	36	5dethdat.d
+sennkoku	0xAA8	container.mesh	9700	5dethdat.p00
+sennkoku	0x308C	container.mesh	4052	5dethdat.p02
+sennkoku	0x4060	container.script	68	5dethdat.b angeldat.b confdat.b deathdat.b mogdat.b toydat.b
+sflea	0x21ED0	sprite	680	ff7/data/battle/blue/sflea/exp_1.s
+sflea	0x22178	sprite	1292	ff7/data/battle/blue/sflea/exp_2.s
+sflea	0x22684	sprite	332	ff7/data/battle/blue/sflea/exp_3.s
+sflea	0x227D0	model	4644	faiga_1.p faiga_2.p ff7/data/battle/blue/nanntoka/ster.p ff7/data/battle/blue/sflea/flea_1.p ff7/data/battle/magic/flea/flea_1.p ff7/data/battle/summon/vahamut3/ster.p
+sflea	0x239F4	model	596	ff7/data/battle/blue/sflea/flea_2.p ff7/data/battle/magic/flea/flea_2.p
+shaku	0x21C38	model	1540	ff7/data/battle/limit3/c_m/hado.p ff7/data/battle/special/hadoho/hado.p ff7/data/battle/special/re_do/hado.p ff7/data/battle/special/syaku/hado.p ff7/data/battle/special/tyokyu/hado.p
+shaku	0x248CC	model	612	ff7/data/battle/special/b_2/soto.p ff7/data/battle/special/hadoho/soto.p ff7/data/battle/special/re_do/soto.p ff7/data/battle/special/syaku/soto.p ff7/data/battle/special/tyokyu/soto.p ff7/data/battle/weapon/dia_u/soto.p
+shaku	0x24B30	model	884	ff7/data/battle/limit3/c_m/senkou1.p ff7/data/battle/special/hadoho/senkou1.p ff7/data/battle/special/syaku/senkou1.p
+shaku	0x24F68	model	280	ff7/data/battle/limit3/e_r/isi2.p ff7/data/battle/special/geki2/isi2.p ff7/data/battle/special/netu/isi2.p ff7/data/battle/special/re_do/isi2.p ff7/data/battle/special/reiki/isi2.p ff7/data/battle/special/syaku/isi2.p
+shaku	0x25080	model	276	ff7/data/battle/limit3/e_r/isi3.p ff7/data/battle/special/geki2/isi3.p ff7/data/battle/special/netu/isi3.p ff7/data/battle/special/re_do/isi3.p ff7/data/battle/special/reiki/isi3.p ff7/data/battle/special/syaku/isi3.p
+shaku	0x25258	sprite	56	ff7/data/battle/special/energy/kou.s ff7/data/battle/special/hado/kou.s ff7/data/battle/special/hadoho/kou.s ff7/data/battle/special/re_do/kou.s ff7/data/battle/special/syaku/kou.s ff7/data/battle/special/tyokyu/kou.s
+shaku	0x25290	sprite	392	ff7/data/battle/special/hadoho/kemu11.s ff7/data/battle/special/re_do/kemu11.s ff7/data/battle/special/syaku/kemu11.s ff7/data/battle/special/tyokyu/kemu11.s
+shaku	0x254C8	sprite	392	ff7/data/battle/special/energy/baku1.s ff7/data/battle/special/hado/baku1.s ff7/data/battle/special/hadoho/baku1.s ff7/data/battle/special/re_do/baku1.s ff7/data/battle/special/syaku/baku1.s ff7/data/battle/special/tyokyu/baku1.s
+shield	0x8E4	model	804	mag_a.p mag_b.p
+shield	0xC08	model	804	mag_a.p mag_b.p
+shinra	0x89B0	model	1684	ff7/data/battle/limit3/sinra/sonic.p ff7/data/battle/magic/brizag2/sonic.p ff7/data/battle/magic/full/sonic.p habsonic.p
+shinra	0x9044	model	5508	ff7/data/battle/limit3/d_dive/explo_1.p ff7/data/battle/limit3/sinra/explo_1.p
+shower	0x131C0	sprite	32	ff7/data/battle/special/shower/tama.s
+shower	0x131E0	sprite	32	ff7/data/battle/special/shower/mizu.s
+shower	0x13200	sprite	200	ff7/data/battle/special/jibaku2/jo_c01.s ff7/data/battle/special/shower/jo_c01.s
+siva	0x28A48	model	436	partic_2.p
+siva	0x28BFC	model	1692	spot_1.p
+siva	0x29298	model	1468	stome_1.p
+siva	0x29854	model	980	stome_2.p
+siva	0x29C28	sprite	200	ff7/data/battle/summon/siva/kira_1.s
+siva	0x29CF0	sprite	392	ff7/data/battle/summon/siva/smoke_1.s
+siva	0x29E78	sprite	32	ff7/data/battle/summon/siva/snow_1.s
+siva	0x29EAC	container.bones	396	cyvadat.d
+siva	0x2A038	container.mesh	15412	cyvadat.p00
+siva	0x2DC6C	container.mesh	11732	cyvadat.p01
+siva	0x30A40	container.mesh	404	cyvadat.p03
+siva	0x30BD4	container.mesh	372	cyvadat.p04
+siva	0x30D48	container.mesh	420	cyvadat.p05
+siva	0x30EEC	container.mesh	420	cyvadat.p06
+siva	0x31090	container.mesh	420	cyvadat.p07
+siva	0x31234	container.mesh	452	cyvadat.p08
+siva	0x313F8	container.mesh	372	cyvadat.p09
+siva	0x3156C	container.mesh	372	cyvadat.p10
+siva	0x316E0	container.mesh	420	cyvadat.p11
+siva	0x31884	container.mesh	420	cyvadat.p12
+siva	0x31A28	container.mesh	420	cyvadat.p13
+siva	0x31BCC	container.mesh	452	cyvadat.p14
+siva	0x31D90	container.mesh	372	cyvadat.p15
+siva	0x31F04	container.mesh	372	cyvadat.p16
+siva	0x32078	container.mesh	420	cyvadat.p17
+siva	0x3221C	container.mesh	420	cyvadat.p18
+siva	0x323C0	container.mesh	420	cyvadat.p19
+siva	0x32564	container.mesh	452	cyvadat.p20
+siva	0x32728	container.mesh	372	cyvadat.p21
+siva	0x3289C	container.mesh	8116	cyvadat.p22
+siva	0x34850	container.mesh	2196	cyvadat.p24
+siva	0x350E4	container.mesh	1316	cyvadat.p25
+siva	0x35608	container.mesh	2084	cyvadat.p26
+siva	0x35E2C	container.mesh	2196	cyvadat.p28
+siva	0x366C0	container.mesh	1316	cyvadat.p29
+siva	0x36BE4	container.mesh	2084	cyvadat.p30
+siva	0x37408	container.mesh	1876	cyvadat.p33
+siva	0x37B5C	container.mesh	1524	cyvadat.p34
+siva	0x38150	container.mesh	3844	cyvadat.p35
+siva	0x39054	container.mesh	948	cyvadat.p37
+siva	0x39408	container.mesh	948	cyvadat.p38
+siva	0x397BC	container.mesh	964	cyvadat.p40
+siva	0x39B80	container.mesh	964	cyvadat.p42
+siva	0x39F44	container.mesh	1876	cyvadat.p45
+siva	0x3A698	container.mesh	1524	cyvadat.p46
+siva	0x3AC8C	container.mesh	3844	cyvadat.p47
+siva	0x3BB90	container.script	60	cyvadat.b kujatada.b
+siva	0x3BBCC	container.anim	12280	cyvadat.a00
+sldfang	0x9178	sprite	600	ff7/data/battle/limit3/sld_fang/smoke_1.s
+sldfang	0x93D0	sprite	260	sld_fang.s
+slipl	0x8960	model	1236	slipl.p
+slow	0x4A88	model	8676	slou1.p
+slow	0x6C6C	model	8676	slou1.p
+smkball	0x6350	sprite	956	ff7/data/battle/item/kemuri/kemuri.s ff7/data/battle/item/yamabiko/kemuri.s
+smog2	0x20FC0	sprite	32	ff7/data/battle/special/koudan2/maru1.s ff7/data/battle/special/smog/smoke.s ff7/data/battle/special/toboe2/onpa1.s
+smog2	0x20FE0	sprite	392	ff7/data/battle/special/smog/kemu1.s
+smog2	0x21168	sprite	392	ff7/data/battle/special/smog/baku1.s
+smog2	0x212F0	sprite	368	ff7/data/battle/special/smog/hit1.s
+smog2	0x21588	sprite	296	ff7/data/battle/special/atmic/hit2.s ff7/data/battle/special/nozan/elehit2.s ff7/data/battle/special/sazan/elehit2.s ff7/data/battle/special/smog/elehit2.s ff7/data/battle/special/triangle/hit2.s
+smog2	0x216B0	sprite	296	ff7/data/battle/special/atmic/hit3.s ff7/data/battle/special/nozan/elehit3.s ff7/data/battle/special/sazan/elehit3.s ff7/data/battle/special/smog/elehit3.s ff7/data/battle/special/triangle/hit3.s
+smog2	0x217D8	sprite	296	ff7/data/battle/special/atmic/hit4.s ff7/data/battle/special/nozan/elehit4.s ff7/data/battle/special/sazan/elehit4.s ff7/data/battle/special/smog/elehit4.s ff7/data/battle/special/triangle/hit4.s
+smog2	0x21900	sprite	200	ff7/data/battle/special/geki1/jo_c01.s ff7/data/battle/special/geki2/jo_c01.s ff7/data/battle/special/harrier/jo_c01.s ff7/data/battle/special/kueisa/jo_c01.s ff7/data/battle/special/osen/jo_c01.s ff7/data/battle/special/sander/jo_c01.s ff7/data/battle/special/sazan/jo_c01.s ff7/data/battle/special/smog/jo_c01.s
+southern	0x1B028	model	1476	ff7/data/battle/special/atmic/kueisa.p ff7/data/battle/special/club2/kueisa.p ff7/data/battle/special/kueisa/kueisa.p nozan.p sazan.p
+southern	0x1B5EC	model	252	ff7/data/battle/special/nozan/soto1.p ff7/data/battle/special/sazan/soto1.p
+southern	0x1B6E8	model	684	ff7/data/battle/special/nozan/domu1.p ff7/data/battle/special/sazan/domu1.p
+southern	0x1B994	model	396	ff7/data/battle/special/nozan/soko.p ff7/data/battle/special/sazan/soko.p
+southern	0x1BB20	sprite	32	ff7/data/battle/special/sazan/hosi.s
+southern	0x1BD30	sprite	296	ff7/data/battle/special/atmic/hit2.s ff7/data/battle/special/nozan/elehit2.s ff7/data/battle/special/sazan/elehit2.s ff7/data/battle/special/smog/elehit2.s ff7/data/battle/special/triangle/hit2.s
+southern	0x1BE58	sprite	296	ff7/data/battle/special/atmic/hit3.s ff7/data/battle/special/nozan/elehit3.s ff7/data/battle/special/sazan/elehit3.s ff7/data/battle/special/smog/elehit3.s ff7/data/battle/special/triangle/hit3.s
+southern	0x1BF80	sprite	296	ff7/data/battle/special/atmic/hit4.s ff7/data/battle/special/nozan/elehit4.s ff7/data/battle/special/sazan/elehit4.s ff7/data/battle/special/smog/elehit4.s ff7/data/battle/special/triangle/hit4.s
+spark	0x1A36C	sprite	1244	ff7/data/battle/limit2/spark/elec_1.s
+spark	0x1A848	sprite	1104	elec_2.s
+spark	0x1AC98	sprite	104	ff7/data/battle/limit2/spark/elec_3.s
+spark	0x1AD00	sprite	200	ff7/data/battle/limit2/spark/hit_1.s ff7/data/battle/limit2/tifa1/hit_1.s
+spark	0x1ADC8	model	1468	ff7/data/battle/limit2/spark/power_1.p
+spark	0x1B384	model	1468	spark_1.p
+sting	0x1C548	sprite	392	ff7/data/battle/weapon/weapon1/smoke_1.s
+stop	0x2EF0	model	676	ff7/data/battle/magic/stop/stop_1.p ff7/data/battle/magic/stop/stop_2.p ff7/data/battle/special/joker2/stop_1.p ff7/data/battle/special/joker2/stop_2.p
+stop	0x3194	model	220	ff7/data/battle/magic/stop/stop_2.p ff7/data/battle/special/joker2/stop_2.p
+sumi	0x4CBC	sprite	32	sumi.s
+sumi	0x4CDC	sprite	32	ff7/data/battle/special/sumi/hit1.s
+sumi	0x4CFC	sprite	200	ff7/data/battle/special/sumi/hit21.s
+sumi	0x4DC4	sprite	200	ff7/data/battle/special/sumi/hit22.s
+sumi	0x4E8C	sprite	200	hit23.s
+sumi	0x4F54	sprite	200	hit24.s
+suna	0xE04	model	1092	ff7/data/battle/special/awa2/suna2.p ff7/data/battle/special/cold1/hubuki1.p ff7/data/battle/special/hubuki/hubuki1.p ff7/data/battle/special/kahun/suna2.p ff7/data/battle/special/pink/suna2.p ff7/data/battle/special/suna/suna2.p
+suna	0xA2C8	sprite	200	ff7/data/battle/special/suna/hit1.s
+suna	0xA390	sprite	200	ff7/data/battle/special/suna/hit2.s
+suna	0xA458	sprite	200	ff7/data/battle/special/suna/hit3.s
+suna	0xA520	sprite	200	ff7/data/battle/special/suna/hit4.s
+s_beam	0x12448	model	1028	sbeam.p
+s_beam	0x12E94	sprite	56	lock_on.s
+s_beam	0x12ECC	sprite	80	rocks.s
+s_beam	0x13288	model	1036	csbomber.p
+s_beam	0x13694	model	172	nekkou.p
+s_guard	0x10BC	sprite	32	ff7/data/battle/limit/s_guard/stars.s
+tail	0x217D4	model	468	ff7/data/battle/special/geki2/baku1.p ff7/data/battle/special/jibaku2/baku11.p ff7/data/battle/special/jibasiri/baku11.p ff7/data/battle/special/sander/baku11.p ff7/data/battle/special/tele/baku11.p
+tail	0x219A8	model	1956	ff7/data/battle/special/kakusan/geki1.p ff7/data/battle/special/kakusan/geki2.p geki3.p geki4.p tama.p
+tail	0x222B0	sprite	56	ff7/data/battle/special/tele/kou1.s
+tail	0x222E8	sprite	488	ff7/data/battle/special/sander/hahen.s ff7/data/battle/special/tele/hahen.s
+tail	0x224D0	sprite	200	ff7/data/battle/special/sander/hit11.s ff7/data/battle/special/tele/hit11.s
+tail	0x22598	sprite	200	ff7/data/battle/special/sander/hit12.s ff7/data/battle/special/tele/hit12.s
+tail	0x22660	sprite	200	ff7/data/battle/special/jibaku2/kemu11.s ff7/data/battle/special/sander/elec1.s ff7/data/battle/special/tele/elec1.s
+tail	0x22728	sprite	200	ff7/data/battle/special/sander/elec2.s ff7/data/battle/special/tele/elec2.s
+tail	0x227F0	sprite	392	ff7/data/battle/special/tele/baku1.s
+tail	0x22A40	sprite	200	ff7/data/battle/special/sander/hibana.s ff7/data/battle/special/tele/hibana.s
+tail	0x22B08	sprite	200	ff7/data/battle/special/sander/kemu11.s ff7/data/battle/special/tele/kemu11.s
+tan	0x6C8	sprite	32	tan2.s
+tan	0xF28	sprite	200	ff7/data/battle/special/tan/hit1.s
+tbreath	0x21E9C	model	1956	ff7/data/battle/special/b_2/netu1.p ff7/data/battle/special/netu/netu1.p ff7/data/battle/special/reiki/netu1.p ff7/data/battle/special/s_bless/netu1.p ff7/data/battle/special/saikyo/netu1.p
+tbreath	0x262C0	model	276	ff7/data/battle/special/s_bless/iwa3.p ff7/data/battle/special/saikyo/iwa3.p ff7/data/battle/special/tyokyu/iwa3.p
+tbreath	0x26498	model	676	ff7/data/battle/special/atmic/domu.p ff7/data/battle/special/s_bless/domu.p
+tbreath	0x2673C	model	468	ff7/data/battle/special/atmic/dosoto.p ff7/data/battle/special/s_bless/dosoto.p
+tbreath	0x26910	sprite	176	ff7/data/battle/special/s_bless/hahen1.s ff7/data/battle/special/saikyo/hahen1.s
+tbreath	0x269C0	sprite	392	ff7/data/battle/special/s_bless/kemu1.s ff7/data/battle/special/saikyo/kemu1.s
+tbreath	0x26B48	sprite	32	ff7/data/battle/special/netu/hikari.s ff7/data/battle/special/reiki/hikari.s ff7/data/battle/special/s_bless/hikari1.s ff7/data/battle/special/saikyo/hikari1.s
+tbreath	0x26B68	sprite	52	ff7/data/battle/special/s_bless/hikari2.s
+tbreath	0x26B9C	sprite	392	ff7/data/battle/special/s_bless/elec1.s
+tbreath	0x26D24	sprite	392	ff7/data/battle/special/s_bless/elec2.s
+tbreath	0x26EAC	sprite	344	elec3.s
+tbreath	0x27004	sprite	344	elec4.s
+threat	0x8450	sprite	248	ff7/data/battle/special/kemu1/kemu1.s
+thunder	0x73C	sprite	148	kami_1.s
+thunder	0x7D0	sprite	200	ff7/data/battle/magic/thunder/spark_1.s
+thunder	0x898	model	1300	ff7/data/battle/magic/thunder/thund_3.p ff7/data/battle/magic/thunder3/thund_3.p ff7/data/battle/magic/thunder4/thund_3.p
+thunder2	0x21710	model	468	ff7/data/battle/special/geki2/baku1.p ff7/data/battle/special/jibaku2/baku11.p ff7/data/battle/special/jibasiri/baku11.p ff7/data/battle/special/sander/baku11.p ff7/data/battle/special/tele/baku11.p
+thunder2	0x218E4	sprite	248	00.s
+thunder2	0x219DC	sprite	56	hansya.s
+thunder2	0x21A14	sprite	488	ff7/data/battle/special/sander/hahen.s ff7/data/battle/special/tele/hahen.s
+thunder2	0x21D8C	sprite	200	ff7/data/battle/special/jibaku2/kemu11.s ff7/data/battle/special/sander/elec1.s ff7/data/battle/special/tele/elec1.s
+thunder2	0x21E54	sprite	200	ff7/data/battle/special/sander/elec2.s ff7/data/battle/special/tele/elec2.s
+thunder2	0x21F1C	sprite	200	ff7/data/battle/special/sander/hibana.s ff7/data/battle/special/tele/hibana.s
+thunder2	0x21FE4	sprite	200	ff7/data/battle/special/sander/kemu11.s ff7/data/battle/special/tele/kemu11.s
+thundera	0x97C	sprite	52	kami_2.s
+thundera	0x9B0	sprite	200	spark_2.s
+thundera	0xA78	sprite	200	spark_3.s
+thundera	0xB40	sprite	200	ff7/data/battle/magic/thundera/elec_1.s
+thundera	0xC08	model	660	thund_4.p
+thundg1	0x21060	sprite	52	ff7/data/battle/magic/thunder3/kami_7.s
+thundg1	0x21094	model	1636	ff7/data/battle/magic/thunder3/stone.p ff7/data/battle/magic/thunder4/stone.p
+thundg1	0x216F8	sprite	176	ff7/data/battle/magic/thunder3/spark_4.s
+thundg1	0x217A8	model	7972	thundg_2.p
+thundg1	0x236CC	model	1300	ff7/data/battle/magic/thunder/thund_3.p ff7/data/battle/magic/thunder3/thund_3.p ff7/data/battle/magic/thunder4/thund_3.p
+thundg2	0x2109C	sprite	52	ff7/data/battle/magic/thunder4/kami_7.s
+thundg2	0x210D0	model	1636	ff7/data/battle/magic/thunder3/stone.p ff7/data/battle/magic/thunder4/stone.p
+thundg2	0x21734	sprite	176	ff7/data/battle/magic/thunder4/spark_4.s
+thundg2	0x217E4	sprite	96	elec_y1.s
+thundg2	0x21844	sprite	96	elec_y2.s
+thundg2	0x218A4	model	1300	ff7/data/battle/magic/thunder/thund_3.p ff7/data/battle/magic/thunder3/thund_3.p ff7/data/battle/magic/thunder4/thund_3.p
+tifa	0xCF88	sprite	200	ff7/data/battle/limit2/spark/hit_1.s ff7/data/battle/limit2/tifa1/hit_1.s
+tifa	0xD050	sprite	200	hit_2.s
+tifa	0xD118	sprite	32	water_2.s
+tifa	0xD138	model	14100	ff7/data/battle/limit2/tifa1/01.p
+tifa	0x176EC	model	3308	ff7/data/battle/limit2/tifa1/exp_1.p
+tifa	0x183D8	model	2236	hit_3.p
+tifa	0x18C94	model	6812	ff7/data/battle/limit2/tifa1/meteo_1.p
+tifa	0x1AD44	model	916	ff7/data/battle/limit2/tifa1/sonic_1.p
+tifa	0x1B0D8	model	916	ff7/data/battle/limit2/tifa1/water_1.p
+tifa	0x1B46C	model	916	water_2.p
+tifa	0x1BB20	model	1940	ff7/data/battle/limit2/tifa1/exp_2.p
+tifa	0x1D148	model	1468	ff7/data/battle/summon/odin1/flash_1.p
+tifa	0x1D704	model	436	ff7/data/battle/limit2/tifa1/rock_1.p
+tifa	0x1D8B8	model	436	ff7/data/battle/limit2/tifa1/rock_2.p
+timedmg	0x3094	sprite	172	hari.s
+timedmg	0x3140	sprite	32	ff7/data/battle/special/timedmg/tama.s
+titan	0xE5BC	model	4248	ground_3.p
+titan	0x10A28	sprite	200	ff7/data/battle/summon/taitan/kemu_1.s
+titan	0x10AF0	sprite	392	ff7/data/battle/summon/taitan/smoke_1.s
+titan	0x10EE0	container.bones	324	titandat.d
+titan	0x11024	container.mesh	7260	titandat.p00
+titan	0x12C80	container.mesh	12020	titandat.p01
+titan	0x15B74	container.mesh	1256	titandat.p02
+titan	0x1605C	container.mesh	8788	titandat.p03
+titan	0x182B0	container.mesh	1148	titandat.p05
+titan	0x1872C	container.mesh	644	titandat.p06
+titan	0x189B0	container.mesh	804	titandat.p07
+titan	0x18CD4	container.mesh	2932	titandat.p10
+titan	0x19848	container.mesh	2020	titandat.p11
+titan	0x1A02C	container.mesh	1076	titandat.p12
+titan	0x1A460	container.mesh	2148	titandat.p13
+titan	0x1ACC4	container.mesh	1044	titandat.p15
+titan	0x1B0D8	container.mesh	564	titandat.p17
+titan	0x1B30C	container.mesh	436	titandat.p19
+titan	0x1B4C0	container.mesh	548	titandat.p20
+titan	0x1B6E4	container.mesh	2932	titandat.p23
+titan	0x1C258	container.mesh	2020	titandat.p24
+titan	0x1CA3C	container.mesh	1076	titandat.p25
+titan	0x1CE70	container.mesh	1044	titandat.p27
+titan	0x1D284	container.mesh	2148	titandat.p28
+titan	0x1DAE8	container.mesh	564	titandat.p30
+titan	0x1DD1C	container.mesh	3012	titandat.p32
+titan	0x1E8E0	container.mesh	2116	titandat.p33
+titan	0x1F124	container.mesh	2068	titandat.p34
+titan	0x1F938	container.mesh	3012	titandat.p36
+titan	0x204FC	container.mesh	2084	titandat.p37
+titan	0x20D20	container.mesh	2068	titandat.p38
+titan	0x21534	container.script	60	bahamzda.b ifreetda.b titandat.b
+titan	0x21570	container.anim	4216	titandat.a00
+titan	0x225E8	container.anim	3980	titandat.a00
+toboe	0x10DC	model	660	ff7/data/battle/special/onpa/onpa_11.p ff7/data/battle/special/toboe2/onpa_11.p
+toboe	0x1544	sprite	32	ff7/data/battle/special/koudan2/maru1.s ff7/data/battle/special/smog/smoke.s ff7/data/battle/special/toboe2/onpa1.s
+tornado	0x111C4	model	3284	ff7/data/battle/magic/tornado/tornado1.p ff7/data/battle/special/uzumaki/tornado1.p
+tornado	0x11E98	model	4180	ff7/data/battle/magic/tornado/tornado2.p ff7/data/battle/special/uzumaki/tornado2.p
+toybox	0xBDB8	model	3252	hatena_2.p
+toybox	0x100E0	model	6436	hellh.p
+to_seki	0x9CF0	sprite	200	ff7/data/battle/special/harrier/elec1.s ff7/data/battle/special/hikari2/hit1.s ff7/data/battle/special/hikari3/hit1.s ff7/data/battle/special/toseki/hit1.s
+trainn	0x10810	model	2340	trainn_1.p
+triangle	0x2147C	model	236	eletry1.p eletry2.p eletry3.p eletry4.p eletry5.p eletry6.p
+triangle	0x21568	model	236	eletry1.p eletry2.p eletry3.p eletry4.p eletry5.p eletry6.p
+triangle	0x21654	model	236	eletry1.p eletry2.p eletry3.p eletry4.p eletry5.p eletry6.p
+triangle	0x21740	model	236	eletry1.p eletry2.p eletry3.p eletry4.p eletry5.p eletry6.p
+triangle	0x2182C	model	236	eletry1.p eletry2.p eletry3.p eletry4.p eletry5.p eletry6.p
+triangle	0x21918	model	236	eletry1.p eletry2.p eletry3.p eletry4.p eletry5.p eletry6.p
+triangle	0x21A04	model	324	try.p
+triangle	0x21DA0	model	692	elec2.p elec3.p elec4.p ff7/data/battle/special/triangle/elec1.p
+triangle	0x22054	model	692	elec2.p elec3.p elec4.p ff7/data/battle/special/triangle/elec1.p
+triangle	0x22308	model	692	elec2.p elec3.p elec4.p ff7/data/battle/special/triangle/elec1.p
+triangle	0x225BC	model	692	elec2.p elec3.p elec4.p ff7/data/battle/special/triangle/elec1.p
+triangle	0x22998	sprite	296	ff7/data/battle/special/atmic/hit2.s ff7/data/battle/special/nozan/elehit2.s ff7/data/battle/special/sazan/elehit2.s ff7/data/battle/special/smog/elehit2.s ff7/data/battle/special/triangle/hit2.s
+triangle	0x22AC0	sprite	296	ff7/data/battle/special/atmic/hit3.s ff7/data/battle/special/nozan/elehit3.s ff7/data/battle/special/sazan/elehit3.s ff7/data/battle/special/smog/elehit3.s ff7/data/battle/special/triangle/hit3.s
+triangle	0x22BE8	sprite	296	ff7/data/battle/special/atmic/hit4.s ff7/data/battle/special/nozan/elehit4.s ff7/data/battle/special/sazan/elehit4.s ff7/data/battle/special/smog/elehit4.s ff7/data/battle/special/triangle/hit4.s
+triangle	0x22DD8	sprite	344	t_1.s
+triangle	0x22F30	sprite	344	t_2.s
+triangle	0x23088	sprite	56	ff7/data/battle/special/triangle/kou.s
+tsol	0x774	container.bones	388	toydat.d
+tsol	0x8F8	container.mesh	1380	toydat.p00
+tsol	0xE5C	container.mesh	308	toydat.p02 toydat.p08
+tsol	0x1044	container.mesh	1380	toydat.p06
+tsol	0x15A8	container.mesh	308	toydat.p02 toydat.p08
+tsol	0x1790	container.mesh	1380	toydat.p12
+tsol	0x1CF4	container.mesh	308	toydat.p14 toydat.p30 toydat.p36
+tsol	0x232C	container.mesh	1380	toydat.p22 toydat.p28
+tsol	0x2890	container.mesh	308	toydat.p24
+tsol	0x2A78	container.mesh	1380	toydat.p22 toydat.p28
+tsol	0x2FDC	container.mesh	308	toydat.p14 toydat.p30 toydat.p36
+tsol	0x31C4	container.mesh	1380	toydat.p34
+tsol	0x3728	container.mesh	308	toydat.p14 toydat.p30 toydat.p36
+tsol	0x41F4	container.anim	6424	toydat.a00
+tsurara	0x20D7C	model	612	turara1.p
+tsurara	0x20FE0	model	776	turara2.p
+tsurara	0x212E8	model	612	turara3.p
+tsurara	0x2154C	model	884	ff7/data/battle/limit3/h_jump/wa.p ff7/data/battle/limit3/s_d/wa.p ff7/data/battle/special/turara/wa.p
+tsurara	0x218C0	sprite	392	ff7/data/battle/special/cold1/baku1.s ff7/data/battle/special/hubuki/baku1.s ff7/data/battle/special/reito/baku1.s ff7/data/battle/special/turara/baku1.s
+tsurara	0x21A48	sprite	32	cry1.s
+tsurara	0x21A68	sprite	32	cry2.s
+tupon	0x26A7C	model	436	ff7/data/battle/limit2/garyoten/rock_1.p
+tupon	0x26C30	model	436	ff7/data/battle/limit2/garyoten/rock_2.p
+tupon	0x26DE4	model	436	ff7/data/battle/limit2/garyoten/rock_3.p
+tupon	0x26F98	model	1948	sky_1.p
+tupon	0x27734	model	1324	ff7/data/battle/summon/tupon/wind_1.p
+tupon	0x27C60	model	1420	ff7/data/battle/summon/tupon/wind_2.p
+tupon	0x281EC	sprite	32	ff7/data/battle/summon/tupon/smoke_1.s
+tupon	0x2820C	sprite	32	ff7/data/battle/summon/tupon/smoke_10.s
+tupon	0x2822C	sprite	32	ff7/data/battle/summon/tupon/smoke_11.s
+tupon	0x2824C	sprite	32	ff7/data/battle/summon/tupon/smoke_12.s
+tupon	0x2826C	sprite	32	ff7/data/battle/summon/tupon/smoke_13.s
+tupon	0x2828C	sprite	32	ff7/data/battle/summon/tupon/smoke_14.s
+tupon	0x282AC	sprite	32	ff7/data/battle/summon/tupon/smoke_15.s
+tupon	0x282CC	sprite	32	ff7/data/battle/summon/tupon/smoke_16.s
+tupon	0x282EC	sprite	32	ff7/data/battle/summon/tupon/smoke_2.s
+tupon	0x2830C	sprite	32	smoke_3.s
+tupon	0x2832C	sprite	32	smoke_4.s
+tupon	0x2834C	sprite	32	smoke_5.s
+tupon	0x2836C	sprite	32	smoke_6.s
+tupon	0x2838C	sprite	32	smoke_7.s
+tupon	0x283AC	sprite	32	smoke_8.s
+tupon	0x283CC	sprite	32	smoke_9.s
+tupon	0x283EC	sprite	200	smoke_a.s
+tupon	0x29108	container.bones	388	tupondat.d
+tupon	0x2928C	container.mesh	7116	tupondat.p00
+tupon	0x2AE58	container.mesh	8580	tupondat.p01
+tupon	0x2CFDC	container.mesh	3092	tupondat.p03
+tupon	0x2DBF0	container.mesh	3092	tupondat.p05
+tupon	0x2E804	container.mesh	6936	tupondat.p10
+tupon	0x3031C	container.mesh	5012	tupondat.p11
+tupon	0x316B0	container.mesh	8884	tupondat.p12
+tupon	0x33964	container.mesh	6180	tupondat.p14
+tupon	0x35258	container.mesh	276	tupondat.p16
+tupon	0x3536C	container.mesh	276	tupondat.p17
+tupon	0x35480	container.mesh	884	tupondat.p18
+tupon	0x357F4	container.mesh	1060	tupondat.p20
+tupon	0x35C18	container.mesh	836	tupondat.p21
+tupon	0x35F5C	container.mesh	1076	tupondat.p22
+tupon	0x36390	container.mesh	724	tupondat.p24
+tupon	0x36664	container.mesh	756	tupondat.p26
+tupon	0x36958	container.mesh	724	tupondat.p28
+tupon	0x36C2C	container.mesh	724	tupondat.p30
+tupon	0x36F00	container.mesh	724	tupondat.p32
+tupon	0x371D4	container.mesh	1060	tupondat.p34
+tupon	0x375F8	container.mesh	836	tupondat.p35
+tupon	0x3793C	container.mesh	1076	tupondat.p36
+tupon	0x37D70	container.mesh	724	tupondat.p38
+tupon	0x38044	container.mesh	756	tupondat.p40
+tupon	0x38338	container.mesh	724	tupondat.p42
+tupon	0x3860C	container.mesh	724	tupondat.p44
+tupon	0x388E0	container.mesh	724	tupondat.p46
+tupon	0x38BB4	container.script	68	tupondat.b
+tupon	0x38BF8	container.anim	808	tupondat.a00
+tupon	0x38F20	container.anim	3096	tupondat.a00
+tupon	0x39B38	container.anim	5620	tupondat.a00
+tupon	0x3B12C	container.anim	3112	tupondat.a00
+tupon	0x3BD54	container.anim	3176	tupondat.a00
+tupon	0x3C9BC	container.anim	2592	tupondat.a00
+tupon	0x3D3DC	container.anim	1180	tupondat.a00
+utagoe	0x47D4	sprite	92	onpu.s
+vahamut	0x23FF8	sprite	32	flash_1.s
+vahamut	0x24018	sprite	32	flash_2.s
+vahamut	0x24038	model	7452	ff7/data/battle/summon/vahamut/sky_a.p
+vahamut	0x2665C	model	3996	ff7/data/battle/summon/vahamut/wind_1.p
+vahamut	0x275F8	model	3996	ff7/data/battle/summon/vahamut/wind_2.p
+vahamut	0x28594	model	1692	ff7/data/battle/summon/vahamut/circle_1.p
+vahamut	0x28C30	model	988	ff7/data/battle/summon/vahamut/bress_1.p
+vahamut	0x2900C	model	4892	ff7/data/battle/summon/vahamut/bress_2.p
+vahamut	0x2A328	model	468	ff7/data/battle/summon/vahamut/ring_1.p
+vahamut	0x2A4FC	model	1636	ff7/data/battle/summon/vahamut/exp_1.p
+vahamut	0x2AB60	sprite	32	bomb_1.s
+vahamut	0x2AB80	sprite	32	bomb_2.s
+vahamut	0x2ABA0	sprite	32	bomb_3.s
+vahamut	0x2ABC0	sprite	32	bomb_4.s
+vahamut	0x2ABE0	sprite	32	bomb_5.s
+vahamut	0x2AC00	sprite	32	bomb_6.s
+vahamut	0x2AC20	sprite	32	bomb_7.s
+vahamut	0x2AC40	sprite	32	bomb_8.s
+vahamut	0x2AC60	sprite	32	bomb_9.s
+vahamut	0x2AC80	sprite	32	bomb_10.s
+vahamut	0x2ACA0	sprite	32	bomb_11.s
+vahamut	0x2ACC0	sprite	32	bomb_12.s
+vahamut	0x2ACE0	sprite	32	bomb_13.s
+vahamut	0x2AD00	sprite	32	bomb_14.s
+vahamut	0x2AD20	sprite	32	bomb_15.s
+vahamut	0x2AD40	sprite	32	bomb_16.s
+vahamut	0x2AD60	model	1556	ff7/data/battle/magic/freeze/ring_2.p ff7/data/battle/summon/vahamut/ring_2.p
+vahamut	0x2B970	container.bones	388	bahamdat.d
+vahamut	0x2BAF4	container.mesh	8692	bahamdat.p00
+vahamut	0x2DCE8	container.mesh	1316	bahamdat.p03
+vahamut	0x2E20C	container.mesh	740	bahamdat.p04
+vahamut	0x2E4F0	container.mesh	2724	bahamdat.p05
+vahamut	0x2EF94	container.mesh	692	bahamdat.p07
+vahamut	0x2F248	container.mesh	1604	bahamdat.p08
+vahamut	0x2F88C	container.mesh	564	bahamdat.p09
+vahamut	0x2FAC0	container.mesh	836	bahamdat.p10
+vahamut	0x2FE04	container.mesh	1980	bahamdat.p12
+vahamut	0x305C0	container.mesh	852	bahamdat.p13
+vahamut	0x30914	container.mesh	644	bahamdat.p14
+vahamut	0x30B98	container.mesh	644	bahamdat.p15
+vahamut	0x30E1C	container.mesh	5908	bahamdat.p16
+vahamut	0x32530	container.mesh	1716	bahamdat.p17
+vahamut	0x32BE4	container.mesh	1316	bahamdat.p20
+vahamut	0x33108	container.mesh	740	bahamdat.p21
+vahamut	0x333EC	container.mesh	2724	bahamdat.p22
+vahamut	0x33E90	container.mesh	692	bahamdat.p24
+vahamut	0x34144	container.mesh	1604	bahamdat.p25
+vahamut	0x34788	container.mesh	564	bahamdat.p26
+vahamut	0x349BC	container.mesh	836	bahamdat.p27
+vahamut	0x34D00	container.mesh	1980	bahamdat.p29
+vahamut	0x354BC	container.mesh	3940	bahamdat.p31
+vahamut	0x36420	container.mesh	548	bahamdat.p32
+vahamut	0x36644	container.mesh	1792	bahamdat.p33
+vahamut	0x36D44	container.mesh	1112	bahamdat.p34
+vahamut	0x3719C	container.mesh	3940	bahamdat.p36
+vahamut	0x38100	container.mesh	548	bahamdat.p37
+vahamut	0x38324	container.mesh	1792	bahamdat.p38
+vahamut	0x38A24	container.mesh	1112	bahamdat.p39
+vahamut	0x38E7C	container.mesh	1620	bahamdat.p40
+vahamut	0x394D0	container.mesh	1620	bahamdat.p41
+vahamut	0x39B24	container.mesh	1620	bahamdat.p42
+vahamut	0x3A178	container.mesh	1620	bahamdat.p43
+vahamut	0x3A7CC	container.mesh	1620	bahamdat.p44
+vahamut	0x3AE20	container.mesh	1444	bahamdat.p45
+vahamut	0x3B3C4	container.mesh	420	bahamdat.p46
+vahamut	0x3B568	container.script	60	bahamdat.b
+vahamut	0x3B5A4	container.anim	1216	bahamdat.a00
+vahamut	0x3BA64	container.anim	13268	bahamdat.a00
+vahamut2	0x181D4	model	16548	ff7/data/battle/summon/vahamut2/bress_1.p
+vahamut2	0x1C278	model	2236	ff7/data/battle/summon/vahamut2/flash_1.p
+vahamut2	0x1CB34	model	1468	ff7/data/battle/summon/vahamut2/flash_2.p
+vahamut2	0x1F47C	model	964	ff7/data/battle/summon/vahamut2/line_1.p
+vahamut2	0x1F840	model	1300	mask.p
+vahamut2	0x1FD54	model	436	ff7/data/battle/summon/vahamut2/rock_1.p
+vahamut2	0x1FF08	model	436	ff7/data/battle/summon/vahamut2/rock_2.p
+vahamut2	0x200BC	model	436	ff7/data/battle/limit2/tifa1/rock_3.p ff7/data/battle/summon/vahamut2/rock_3.p
+vahamut2	0x20270	model	11732	ff7/data/battle/summon/vahamut2/sky_a.p
+vahamut2	0x23044	model	13180	sky_b.p
+vahamut2	0x263C0	model	4452	ff7/data/battle/summon/vahamut2/sky_c.p
+vahamut2	0x27524	model	5892	ff7/data/battle/summon/vahamut2/sonic_1.p
+vahamut2	0x28C28	sprite	400	ff7/data/battle/summon/vahamut2/elec_1.s
+vahamut2	0x28DB8	sprite	32	ff7/data/battle/summon/vahamut2/tama1.s
+vahamut2	0x28DD8	sprite	200	ff7/data/battle/summon/odin2/smoke.s ff7/data/battle/summon/vahamut2/smoke.s
+vahamut2	0x28EC8	container.bones	396	bahamrda.d
+vahamut2	0x29054	container.mesh	9264	bahamrda.p00
+vahamut2	0x2B484	container.mesh	5260	bahamrda.p02
+vahamut2	0x2C910	container.mesh	1428	bahamrda.p04
+vahamut2	0x2CEA4	container.mesh	3140	bahamrda.p05
+vahamut2	0x2DAE8	container.mesh	1428	bahamrda.p07
+vahamut2	0x2E07C	container.mesh	3140	bahamrda.p08
+vahamut2	0x2ECC0	container.mesh	2636	bahamrda.p10
+vahamut2	0x2F70C	container.mesh	2636	bahamrda.p12
+vahamut2	0x30158	container.mesh	5260	bahamrda.p14
+vahamut2	0x315E4	container.mesh	2004	bahamrda.p16
+vahamut2	0x31DB8	container.mesh	2004	bahamrda.p18
+vahamut2	0x3258C	container.mesh	1028	bahamrda.p20
+vahamut2	0x32990	container.mesh	828	bahamrda.p21
+vahamut2	0x32CCC	container.mesh	828	bahamrda.p22
+vahamut2	0x33008	container.mesh	828	bahamrda.p23
+vahamut2	0x33344	container.mesh	828	bahamrda.p24
+vahamut2	0x33680	container.mesh	828	bahamrda.p25
+vahamut2	0x339BC	container.mesh	828	bahamrda.p26
+vahamut2	0x33CF8	container.mesh	7964	bahamrda.p27
+vahamut2	0x35C14	container.mesh	2068	bahamrda.p28
+vahamut2	0x36428	container.mesh	480	bahamrda.p31
+vahamut2	0x36608	container.mesh	480	bahamrda.p32
+vahamut2	0x367E8	container.mesh	548	bahamrda.p33
+vahamut2	0x36A0C	container.mesh	1060	bahamrda.p34
+vahamut2	0x36E30	container.mesh	1004	bahamrda.p36
+vahamut2	0x3721C	container.mesh	1004	bahamrda.p37
+vahamut2	0x37608	container.mesh	832	bahamrda.p38
+vahamut2	0x37948	container.mesh	1680	bahamrda.p39
+vahamut2	0x37FD8	container.mesh	2708	bahamrda.p41
+vahamut2	0x38A6C	container.mesh	1092	bahamrda.p42
+vahamut2	0x38EB0	container.mesh	3076	bahamrda.p43
+vahamut2	0x39AB4	container.mesh	2708	bahamrda.p45
+vahamut2	0x3A548	container.mesh	1092	bahamrda.p46
+vahamut2	0x3A98C	container.mesh	3076	bahamrda.p47
+vahamut2	0x3B590	container.script	60	bahamrda.b
+vahamut2	0x3B5CC	container.anim	8124	bahamrda.a00
+vahamut2	0x3D588	container.anim	3248	bahamrda.a00
+vahamut2	0x3E238	container.anim	2904	bahamrda.a00
+wall	0x830	model	3772	woll.p
+wep3	0x2264C	sprite	32	ff7/data/battle/weapon/weapon3/tama_1.s
+wep3	0x22C28	model	980	ff7/data/battle/weapon/weapon3/ring_1.p
+wep3	0x22FFC	model	1636	w_ball.p
+wep4	0x23B18	sprite	200	houden_1.s
+wep4	0x23D68	model	3220	ff7/data/battle/weapon/weapon4/bomb_1.p
+wep4	0x249FC	model	436	ff7/data/battle/weapon/weapon4/rock_1.p
+wep4	0x24BB0	model	436	ff7/data/battle/weapon/weapon4/rock_2.p
+wep4	0x24D64	model	436	ff7/data/battle/weapon/weapon4/rock_3.p
+whirl	0x111B0	model	3284	ff7/data/battle/magic/tornado/tornado1.p ff7/data/battle/special/uzumaki/tornado1.p
+whirl	0x11E84	model	4180	ff7/data/battle/magic/tornado/tornado2.p ff7/data/battle/special/uzumaki/tornado2.p
+wlaser	0x18938	sprite	200	ff7/data/battle/special/wlaser/reza1.s
+wlaser	0x18A00	sprite	80	ff7/data/battle/special/wlaser/maru.s
+wlaser	0x18A50	sprite	612	ff7/data/battle/special/wlaser/jo_c04.s
+wlaser	0x18CB4	sprite	392	ff7/data/battle/special/wlaser/baku1.s
+wpba	0x158C	model	3120	brhand01.p
+wpba	0x21BC	model	2588	brhand02.p
+wpba	0x2BD8	model	2836	brhand03.p
+wpba	0x36EC	model	2308	brhand04.p
+wpba	0x3FF0	model	2916	brhand05.p
+wpba	0x4B54	model	3004	brhand06.p
+wpba	0x5710	model	3380	brhand07.p
+wpba	0x6444	model	2628	brhand08.p
+wpba	0x6E88	model	2596	brhand09.p
+wpba	0x78AC	model	2516	brhand10.p
+wpba	0x8280	model	2180	brhand11.p
+wpba	0x8B04	model	2620	brhand12.p
+wpba	0x9540	model	2388	brhand13.p
+wpba	0x9E94	model	2828	brhand14.p
+wpba	0xA9A0	model	3204	brhand15.p
+wpbi	0xE90	model	1540	vin_gun01.p
+wpbi	0x1494	model	2428	vin_gun02.p
+wpbi	0x1E10	model	2724	vin_gun03.p
+wpbi	0x28B4	model	2260	vin_gun04.p
+wpbi	0x3C0C	model	2484	vin_gun06.p
+wpbi	0x45C0	model	2484	vin_gun07.p
+wpbi	0x4F74	model	2584	vin_gun08.p
+wpbi	0x598C	model	2372	vin_gun09.p
+wpbi	0x62D0	model	2260	vin_gun10.p
+wpbi	0x6BA4	model	2496	vin_gun11.p
+wpbi	0x7564	model	2644	vin_gun12.p
+wpbi	0x7FB8	model	2532	vin_gun13.p
+wpcu	0xE0C	model	2528	h_sword01.p
+wpcu	0x17EC	model	2368	h_sword02.p
+wpcu	0x212C	model	2668	h_sword03.p
+wpcu	0x2B98	model	2892	h_sword04.p
+wpcu	0x36E4	model	2844	h_sword05.p
+wpcu	0x4200	model	2900	h_sword06.p
+wpcu	0x4D54	model	3572	h_sword07.p
+wpcu	0x5B48	model	3024	h_sword08.p
+wpcu	0x6718	model	1984	h_sword09.p
+wpcu	0x6ED8	model	2596	h_sword10.p
+wpcu	0x78FC	model	2172	h_sword11.p
+wpcu	0x8178	model	3548	h_sword12.p
+wpcu	0x8F54	model	2524	h_sword13.p
+wpcu	0x9930	model	2964	h_sword14.p
+wpcu	0xA4C4	model	3348	h_sword15.p
+wpea	0x1438	model	1476	rod01.p
+wpea	0x19FC	model	2324	rod02.p
+wpea	0x2A74	model	2196	rod04.p
+wpea	0x3308	model	2300	rod05.p
+wpea	0x3C04	model	2132	rod06.p
+wpea	0x4458	model	2500	rod07.p
+wpea	0x4E1C	model	2736	rod08.p
+wpea	0x58CC	model	2628	rod09.p
+wpea	0x6310	model	2684	rod10.p
+wpea	0x6D8C	model	2868	rod11.p
+wpke	0xEB8	model	420	mega01.p mega02.p mega03.p mega04.p mega05.p mega06.p mega07.p mega08.p
+wpke	0x105C	model	420	mega01.p mega02.p mega03.p mega04.p mega05.p mega06.p mega07.p mega08.p
+wpke	0x1200	model	420	mega01.p mega02.p mega03.p mega04.p mega05.p mega06.p mega07.p mega08.p
+wpke	0x13A4	model	420	mega01.p mega02.p mega03.p mega04.p mega05.p mega06.p mega07.p mega08.p
+wpke	0x1548	model	420	mega01.p mega02.p mega03.p mega04.p mega05.p mega06.p mega07.p mega08.p
+wpke	0x16EC	model	420	mega01.p mega02.p mega03.p mega04.p mega05.p mega06.p mega07.p mega08.p
+wpke	0x1BD8	model	2500	mega09.p
+wpke	0x2740	model	2628	mega11.p
+wpke	0x3184	model	2948	mega12.p
+wpke	0x3D08	model	3300	mega13.p
+wpsi	0x2564	model	900	weapon01.p
+wpsi	0x28E8	model	2020	weapon02.p
+wpsi	0x30CC	model	2684	weapon03.p
+wpsi	0x466C	model	2484	weapon05.p
+wpsi	0x5B44	model	2180	weapon07.p
+wpsi	0x63C8	model	2292	weapon08.p
+wpsi	0x6CBC	model	2700	weapon09.p
+wpsi	0x7748	model	2564	weapon10.p
+wpsi	0x814C	model	2724	weapon11.p
+wpsi	0x8BF0	model	2488	weapon12.p
+wpsi	0x95A8	model	2948	weapon13.p
+wpsi	0xA12C	model	2740	weapon14.p
+wpyu	0x265C	model	2020	shuriken01.p
+wpyu	0x2E40	model	2356	shuriken02.p
+wpyu	0x3774	model	2564	shuriken03.p
+wpyu	0x4178	model	2580	shuriken04.p
+wpyu	0x4B8C	model	2196	shuriken05.p
+wpyu	0x5420	model	3348	shuriken06.p
+wpyu	0x6134	model	2556	shuriken07.p
+wpyu	0x6B30	model	2596	shuriken08.p
+wpyu	0x7554	model	2788	shuriken09.p
+wpyu	0x8038	model	1764	shuriken10.p
+wpyu	0x871C	model	2924	shuriken11.p
+wpyu	0x9288	model	2900	shuriken12.p
+wpyu	0x9DDC	model	1588	shuriken13.p
+wpyu	0xA410	model	3968	shuriken14.p
+wpyu	0xB390	model	2068	zeni.p
+yami	0x20E58	model	1700	misa1.p
+yami	0x214FC	model	1860	misa1.p misa2.p
+yami	0x21C40	model	1860	misa1.p misa3.p
+yami	0x22384	model	1860	misa1.p misa4.p
+yami	0x22AC8	model	2020	misa1.p misa5.p
+yami	0x232AC	model	2020	misa1.p misa6.p
+yami	0x23A90	model	2020	misa7.p
+yami	0x24274	model	2020	misa8.p
+yami	0x24A58	model	2020	misa9.p
+yami	0x2523C	model	2020	misa10.p
+yami	0x25A20	sprite	80	ff7/data/battle/special/renmisa/hunsya.s ff7/data/battle/special/yami/hunsya.s
+yami	0x25A70	sprite	152	ff7/data/battle/special/yami/kemu1.s
+yami	0x25B08	sprite	392	ff7/data/battle/special/yami/baku1.s
+yami	0x25C90	sprite	200	ff7/data/battle/special/yami/hit1.s
+yu_waku	0x1CF74	model	1444	ff7/data/battle/special/yuwaku/soto.p
+yu_waku	0x1D518	model	1684	harto.p harto1.p harto2.p harto3.p harto4.p harto5.p harto6.p
+yu_waku	0x1DBAC	model	1684	harto.p harto1.p harto2.p harto3.p harto4.p harto5.p harto6.p
+yu_waku	0x1E240	model	1684	harto.p harto1.p harto2.p harto3.p harto4.p harto5.p harto6.p
+yu_waku	0x1E8D4	model	1684	harto.p harto1.p harto2.p harto3.p harto4.p harto5.p harto6.p
+yu_waku	0x1EF68	model	1684	harto.p harto1.p harto2.p harto3.p harto4.p harto5.p harto6.p
+yu_waku	0x1F5FC	model	1684	harto.p harto1.p harto2.p harto3.p harto4.p harto5.p harto6.p
+yu_waku	0x20324	sprite	152	ff7/data/battle/special/yuwaku/kira2.s
+yu_waku	0x203BC	sprite	152	kira3.s
+yu_waku	0x20454	sprite	152	kira4.s
+yu_waku	0x204EC	sprite	152	kira5.s
+yu_waku	0x20584	sprite	392	ff7/data/battle/special/yuwaku/hit1.s
