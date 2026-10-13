@@ -1,0 +1,312 @@
+family	functions	overlays	instructions	bytes_each	bytes_total	clone_variants	positions_varying	addr_hi_varying	imm_varying	first_offset	first_vram	external_callees	external_data	example_overlays
+F001	8	8	1037	4148	33184	1	154	64	64	0xC68	0x801B0C68	SquareRoot0,VectorNormalS,ApplyRotMatrix,SetRotMatrix,SetTransMatrix,RotTrans,BattleGetPartPosition	0x80062D98,0x80100000,0x80100003,0x80100004,0x80100007,g_BattleCameraTarget,0x801031EA,D_801031E8,0x80150000,g_BattleEffectCursor,D_80151A48,0x80151A4E,D_80151A4C,g_BattleCameraPos,0x80158D02,D_80158D00,0x80160000,0x80160003,0x80160004,0x80160007,g_BattleEffectCount,g_BattleEffectSlots	catastro,kujata,lasboss,phoenix,riva,titan,...
+F002	8	8	688	2752	22016	1	9	0	0	0x1124	0x801B1124			alex,antlion,catastro,knights,kujata,sting,...
+F003	8	8	650	2600	20800	1	1	0	0	0x28	0x801B0028			frog,gaisei,hyper,nadare,nonoshi,reito,...
+F004	8	8	452	1808	14464	1	2	0	0	0xA50	0x801B0A50			frog,gaisei,hyper,nadare,nonoshi,reito,...
+F005	38	38	95	380	14440	1	0	0	0	0x150	0x801B0150	rsin,rcos		brizag2,club1,club2,conf,death,dethper,...
+F006	3	3	1041	4164	12492	1	154	65	65	0x1C8	0x801B01C8	rsin,SquareRoot0,VectorNormalS,ApplyRotMatrix,SetRotMatrix,SetTransMatrix,RotTrans,BattleGetPartPosition	0x80062D98,0x80100000,0x80100003,0x80100004,0x80100007,g_BattleCameraTarget,0x801031EA,D_801031E8,0x80150000,g_BattleEffectCursor,D_80151A48,0x80151A4E,D_80151A4C,g_BattleCameraPos,0x80158D02,D_80158D00,0x80160000,0x80160003,0x80160004,0x80160007,g_BattleEffectSlots	gospel,odin2,tupon
+F007	95	95	27	108	10260	1	4	2	2	0x20	0x801B0020		g_BattleEffectCursor,g_BattleEffectCount,g_BattleEffectSlots	aeroga,awa,bacume,chikasui,cho_kyu,cosmo,...
+F008	22	22	107	428	9416	1	0	0	0	0x20	0x801B0020	BattleGetPartPosition	0x80150000,D_8015190B	cho_kyu,dia,dynamite,energy,gaisei,gas,...
+F009	10	10	219	876	8760	1	15	5	8	0xB30	0x801B0B30	SquareRoot0,VectorNormal,ApplyMatrixLV,BattleEffectRegister,BattleGetPartPosition,BattleCommandSend,BattlePositionToStereoPan	0x80062D98,0x80150000,g_BattleEffectCursor,D_8015190B,0x80151A4E,g_BattleCameraPos,0x80160000,0x80160004,g_BattleEffectSlots	club1,club2,dia1,dia2,heart1,heart2,...
+F010	38	38	57	228	8664	1	0	0	0	0x3A8	0x801B03A8			brizag2,club1,club2,conf,death,dethper,...
+F011	38	38	55	220	8360	1	0	0	0	0x74	0x801B0074	VectorNormal,SquareRoot12,OuterProduct12,ratan2		brizag2,club1,club2,conf,death,dethper,...
+F012	38	38	55	220	8360	1	0	0	0	0x2CC	0x801B02CC			brizag2,club1,club2,conf,death,dethper,...
+F013	2	2	1031	4124	8248	1	152	64	64	0xA4	0x801B00A4	rsin,SquareRoot0,VectorNormalS,ApplyRotMatrix,SetRotMatrix,SetTransMatrix,RotTrans,BattleGetPartPosition	0x80062D98,0x80100000,0x80100003,0x80100004,0x80100007,g_BattleCameraTarget,0x801031EA,D_801031E8,0x80150000,g_BattleEffectCursor,D_80151A48,0x80151A4E,D_80151A4C,g_BattleCameraPos,0x80158D02,D_80158D00,0x80160000,0x80160003,0x80160004,0x80160007,g_BattleEffectSlots	alex,debucho
+F014	23	23	88	352	8096	1	0	0	0	0x2FC	0x801B02FC	VectorNormal,MulMatrix,SetRotMatrix,SetTransMatrix,RotTrans,RotMatrixYXZ	g_BattleWorldView	cho_kyu,dia,dynamite,energy,gaisei,gas,...
+F015	2	2	985	3940	7880	1	156	64	64	0xF48	0x801B0F48	SquareRoot0,VectorNormalS,SetRotMatrix,SetTransMatrix,RotTrans	0x80062D98,0x80100000,0x80100003,0x80100004,0x80100007,g_BattleCameraTarget,0x801031EA,D_801031E8,g_BattleEffectCursor,g_BattleCameraPos,0x80158D02,D_80158D00,0x80160000,0x80160003,0x80160004,0x80160007,g_BattleEffectCount,g_BattleEffectSlots	antlion,sting
+F016	23	23	76	304	6992	1	0	0	0	0x1CC	0x801B01CC	ApplyMatrixSV,RotMatrix,rand		cho_kyu,dia,dynamite,energy,gaisei,gas,...
+F017	76	76	21	84	6384	1	8	4	4	0x0	0x801B0000		g_dbIndex,g_BattleEffectCount	altema,aqua,ayasii,beam,beast,beata,...
+F018	32	29	47	188	6016	6	12	5	7	0x8C	0x801B008C	BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	awa,cbreath,cho_kyu,cosmo,energy,fubuki,...
+F019	10	10	149	596	5960	1	11	5	5	0x48C	0x801B048C	CompMatrix,MulMatrix2,ApplyMatrixSV,ScaleMatrix,SetRotMatrix,SetTransMatrix,RotMatrix,func_800D29D4	0x80062D98,g_BattleWorldView,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	club1,club2,dia1,dia2,heart1,heart2,...
+F020	11	11	135	540	5940	5	18	5	13	0x7DC	0x801B07DC	MulMatrix,SetRotMatrix,SetTransMatrix,RotTrans,RotMatrixYXZ,func_800D4D90	0x80062D98,g_BattleWorldView,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots,0x80163C74	cho_kyu,dynamite,energy,gaisei,hado,hadoho,...
+F021	10	10	142	568	5680	1	11	5	5	0x8F8	0x801B08F8	CompMatrix,ScaleMatrix,SetRotMatrix,SetTransMatrix,RotMatrix,func_800D29D4,BattleSpawnFloatingIcon,BattleCommandSend,BattlePositionToStereoPan	0x80062D98,g_BattleWorldView,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	club1,club2,dia1,dia2,heart1,heart2,...
+F022	177	175	8	32	5664	1	1	0	0	0x0	0x801B0000			aeroga,almighty,altema,antlion,aqua,awa,...
+F023	10	10	134	536	5360	1	8	3	3	0x6E0	0x801B06E0	rsin,MulMatrix2,SetRotMatrix,SetTransMatrix,RotMatrix,func_800D29D4	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	club1,club2,dia1,dia2,heart1,heart2,...
+F024	25	25	48	192	4800	4	11	0	11	0x18B8	0x801B18B8	BattleEffectRegister,BattleGetPartPosition	0x80150000,D_8015190B,g_BattleEffectSlots	atomic,awa,bacume,cbreath,dokueki,hari1000,...
+F025	16	16	71	284	4544	1	16	8	8	0x2C78	0x801B2C78	VectorNormal,SetRotMatrix,SetTransMatrix,RotTrans		alex,choco0,debucho,gospel,ifleet,knights,...
+F026	8	8	140	560	4480	3	18	6	12	0x5DC	0x801B05DC	MulMatrix,SetRotMatrix,SetTransMatrix,RotTrans,RotMatrixYXZ,func_800D4D90	0x80062D98,g_BattleWorldView,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots,0x80163C74	gas,geki1,jibaku2,jibasiri,kaen,kaen2,...
+F027	23	23	46	184	4232	6	12	5	7	0x28	0x801B0028	BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots,0x80163C74	boost,chi,frog,geki1,geki2,hikari,...
+F028	42	42	24	96	4032	2	5	2	3	0x488	0x801B0488		g_BattleEffectCursor,g_BattleEffectCount,g_BattleEffectSlots	almighty,angermax,barrier,beat,bio,biora,...
+F029	3	3	316	1264	3792	1	26	0	26	0x10A8	0x801B10A8	rsin,rcos,CompMatrix,MulMatrix0,ScaleMatrix,SetRotMatrix,SetTransMatrix,RotMatrixYXZ,rand,BattleEffectRegister,func_800D29D4,BattleSetBillboardMatrix,func_800D4D90	0x80062D98,g_BattleWorldView,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	hadoho,re_do,shaku
+F030	65	6	14	56	3640	1	5	1	3	0x54	0x801B0054			wpba,wpbi,wpcu,wpke,wpsi,wpyu
+F031	3	3	268	1072	3216	1	6	0	4	0x1E0	0x801B01E0	SetRotMatrix,SetTransMatrix,RotTransSV,RotMatrixYXZ,ratan2,rand,func_800BBA84,BattleEffectRegister,BattleGetPartPosition,0x800D5138,BattleFixedPointRampReconfigure,func_800D5774	0x80062D98,0x800F5B70,0x800F5B71,0x800F5B72,D_800F5B70,0x80150000,g_BattleEffectCursor,0x80151909,D_8015190B,g_BattleEffectSlots	hikari,hikari2,hikari3
+F032	2	2	343	1372	2744	1	19	0	11	0x290	0x801B0290	SetRotMatrix,SetTransMatrix,GetTPage,GetClut	0x80062D98,g_BattleWorldView,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	gesui,otsunami
+F033	13	13	51	204	2652	1	10	4	6	0x1418	0x801B1418	BattleEffectRegister,BattleSetLoadTimToVram	g_BattleEffectSlots	club1,club2,dia1,dia2,dise,heart1,...
+F034	2	2	330	1320	2640	1	5	0	5	0x17B8	0x801B17B8	BattleEffectRegister,BattleGetPartPosition	0x80150000,D_801518F2,D_8015190B,0x80151A46,g_BattleEffectSlots	joker2,stop
+F035	10	10	64	256	2560	1	20	10	10	0xE9C	0x801B0E9C	ApplyMatrixLV,RotMatrix,BattleGetPartPosition	0x80150000,D_80151915,0x80151A46	club1,club2,dia1,dia2,heart1,heart2,...
+F036	10	10	63	252	2520	1	5	1	3	0x131C	0x801B131C	BattleEffectRegister,BattleGetPartPosition	0x80150000,g_BattleEffectCursor,D_8015190B,0x80160000,g_BattleEffectSlots	club1,club2,dia1,dia2,heart1,heart2,...
+F037	60	59	10	40	2400	1	3	1	1	0x40	0x801B0040			alex,angermax,beat,blaver,boost,catastro,...
+F038	2	2	296	1184	2368	2	38	0	34	0x14A0	0x801B14A0	SetFarColor		hades,night
+F039	2	2	293	1172	2344	1	9	0	9	0x118	0x801B0118	rsin,rcos,rand,BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots,0x801AFFFC	chikasui,onsen
+F040	2	2	291	1164	2328	2	20	0	20	0x17C	0x801B017C	rsin,rcos,CompMatrix,ApplyRotMatrix,ScaleMatrix,SetRotMatrix,SetTransMatrix,RotTrans,RotMatrixYXZ,rand,BattleEffectRegister,func_800D29D4,BattleMatrixFromDirection	0x80062D98,g_BattleWorldView,0x80100004,0x80100006,0x80100008,0x8010000C,0x8010000E,0x80100010,0x80150070,g_BattleEffectCursor,g_cDb,0x80154078,g_BattleEffectSlots	comet,cometeo
+F041	23	23	25	100	2300	1	3	0	2	0x10C0	0x801B10C0	BattleEffectRegister	g_BattleEffectSlots	alex,antlion,catastro,choco0,deadsef,debucho,...
+F042	2	2	287	1148	2296	1	5	0	5	0x694	0x801B0694	BattleEffectRegister,BattleGetPartPosition,BattleCommandSend,BattlePositionToStereoPan,func_800D5774	0x80062D98,0x80150000,g_BattleEffectCursor,D_801518F2,D_8015190B,0x80151917,g_BattleEffectSlots	elecball,gravira
+F043	6	6	94	376	2256	2	9	4	5	0x1AC	0x801B01AC	MulMatrix,SetRotMatrix,SetTransMatrix,SetFarColor,RotTrans,RotMatrixYXZ,func_800D29D4	0x80062D98,g_BattleWorldView,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	daionpa,jammer,jammer2,sekika,toboe,triangle
+F044	2	2	279	1116	2232	2	1	0	1	0x13F4	0x801B13F4	SquareRoot0,rand,func_800BBA84,BattleEffectRegister,BattleFixedPointRampUpdateInit,func_800D5774	0x80062D98,g_BattleEffectCursor,g_BattleEffectSlots	energy,hado
+F045	9	9	60	240	2160	1	1	0	0	0xA4	0x801B00A4	rsin		ifleet,kujata,lasboss,phoenix,riva,siva,...
+F046	2	2	267	1068	2136	1	0	0	0	0x4B4	0x801B04B4	rsin,rcos,rand,BattleEffectRegister,BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	q_ketsu,q_shu
+F047	17	17	31	124	2108	12	4	0	4	0x19DC	0x801B19DC	func_800BBA84,BattleEffectRegister,BattleSetLoadTimToVram,MagicAnimationRegister		blaster,harrier,kafun,kama,kama2,kien,...
+F048	2	2	263	1052	2104	1	0	0	0	0x8E8	0x801B08E8	rsin,rcos,CompMatrix,ScaleMatrix,SetRotMatrix,SetTransMatrix,SetFarColor,RotMatrix,rand,BattleDetachedRegister,func_800D29D4	0x80062D98,g_BattleWorldView,0x80100000,0x801031EA,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleDetachedSlots,g_BattleEffectSlots	energy,hado
+F049	6	6	87	348	2088	2	9	3	6	0x116C	0x801B116C	CompMatrix,MulMatrix0,ScaleMatrix,SetRotMatrix,SetTransMatrix,SetFarColor,RotMatrixYXZ,func_800D29D4	0x80062D98,g_BattleWorldView,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	blaster,cho_kyu,cosmo,hadoho,re_do,shaku
+F050	2	2	255	1020	2040	1	4	0	4	0x7EC	0x801B07EC	rand,BattleEffectRegister,BattleGetPartPosition,BattleFixedPointRampUpdateInit,func_800D5774	0x80062D98,0x800F5B70,0x800F5B71,0x800F5B72,0x80150000,g_BattleEffectCursor,D_8015190B,g_BattleEffectSlots	gesui,otsunami
+F051	4	4	125	500	2000	1	11	0	11	0x11F4	0x801B11F4	CompMatrix,MulMatrix0,ScaleMatrix,SetRotMatrix,SetTransMatrix,SetFarColor,RotMatrixYXZ,func_800D29D4	0x80062D98,g_BattleWorldView,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	cho_kyu,hadoho,re_do,shaku
+F052	2	2	248	992	1984	2	8	0	8	0x1598	0x801B1598	SetRotMatrix,SetTransMatrix,RotTransSV,RotMatrixYXZ,rand,func_800BBA84,BattleEffectRegister,BattleDetachedRegister,BattleGetPartPosition,BattleFixedPointRampUpdateInit,func_800D5774	0x80062D98,0x80100000,0x801031EA,0x80150000,g_BattleEffectCursor,D_8015190B,g_BattleDetachedSlots,g_BattleEffectSlots	hadoho,shaku
+F053	4	4	122	488	1952	2	17	3	13	0x4FC	0x801B04FC	MulMatrix,SetRotMatrix,SetTransMatrix,RotTrans,RotMatrixYXZ,func_800D4D90	0x80062D98,g_BattleWorldView,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	daionpa,jammer,jammer2,saikyo
+F054	2	2	240	960	1920	2	2	0	2	0xAEC	0x801B0AEC	rand,func_800BBA84,BattleEffectRegister,BattleDetachedRegister,func_800D5774	0x80062D98,g_BattleEffectCursor,g_BattleDetachedSlots,g_BattleEffectSlots	gas,kaen
+F055	6	6	79	316	1896	1	5	0	2	0x31A0	0x801B31A0		0x80062D98,0x800FA666,g_BattleEffectCursor,g_BattleEffectSlots	knights,kujata,odin1,sting,vahamut,vahamut2
+F056	2	2	233	932	1864	1	2	0	2	0x3DC	0x801B03DC	SystemAkaoExecute,rsin,rcos,SquareRoot0,ratan2,rand,BattleEffectRegister,BattleGetPartPosition,func_800D5774	0x80062D98,g_AkaoCmd,0x8009A004,0x8009A008,0x80150000,g_BattleEffectCursor,D_8015190B,g_BattleEffectSlots	dokueki,dokufuki
+F057	3	3	150	600	1800	3	10	1	7	0x7B4	0x801B07B4	CompMatrix,ApplyMatrixLV,MulMatrix2,SetRotMatrix,SetTransMatrix,SetFarColor,RotMatrix,func_800D29D4	0x80062D98,g_BattleWorldView,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	wpcu,wpea,wpsi
+F058	2	2	224	896	1792	1	15	7	7	0x1438	0x801B1438	CompMatrix,ApplyMatrix,ScaleMatrix,SetRotMatrix,SetTransMatrix,SetFarColor,RotMatrix,func_800D29D4	0x80062D98,g_BattleWorldView,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	joker2,stop
+F059	2	2	223	892	1784	1	0	0	0	0x8E0	0x801B08E0	CompMatrix,ScaleMatrix,SetRotMatrix,SetTransMatrix,RotMatrixYXZ,rand,BattleEffectRegister,func_800D29D4	0x80062D98,g_BattleWorldView,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	q_ketsu,q_shu
+F060	2	2	223	892	1784	2	33	0	22	0x1B0	0x801B01B0	rsin,BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	koudan1,koudan2
+F061	4	2	110	440	1760	4	7	0	7	0x234	0x801B0234	CompMatrix,ScaleMatrix,SetRotMatrix,SetTransMatrix,RotMatrix,func_800D29D4	0x80062D98,g_BattleWorldView,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	flea,sflea
+F062	3	3	145	580	1740	1	1	0	1	0x15C	0x801B015C	rand,BattleEffectRegister,BattleGetPartPosition,func_800D5774	0x80062D98,0x80150000,g_BattleEffectCursor,D_801518F0,g_BattleEffectSlots	carel,heart1,spade2
+F063	4	4	108	432	1728	3	23	10	13	0xB04	0x801B0B04	CompMatrix,ScaleMatrix,SetRotMatrix,SetTransMatrix,RotMatrixYXZ,func_800D29D4	0x80062D98,g_BattleWorldView,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	awa,kafun,pink,suna
+F064	2	2	215	860	1720	2	5	0	5	0x490	0x801B0490	func_800BBA84,BattleEffectRegister,BattleGetPartPosition,BattleSpawnFloatingIconAtPart,BattleSpawnFloatingIconAt,func_800D5774	0x80062D98,0x80150000,g_BattleEffectCursor,0x80151915,0x80151916,g_BattleEffectSlots	punch,shield
+F065	2	2	209	836	1672	1	19	0	16	0x850	0x801B0850	CompMatrix,ScaleMatrix,SetRotMatrix,SetTransMatrix,SetFarColor,RotMatrixYXZ,func_800D29D4	0x80062D98,g_BattleWorldView,0x80150070,g_BattleEffectCursor,g_cDb,0x80154078,g_BattleEffectSlots	comet,cometeo
+F066	2	2	201	804	1608	1	27	12	15	0x5E0	0x801B05E0	rsin,rcos,SetRotMatrix,SetTransMatrix,RotTransSV,RotMatrixYXZ,BattleSetBillboardMatrix,func_800D4D90	0x80150070,g_cDb	awa,pink
+F067	3	3	132	528	1584	1	13	0	12	0x1C30	0x801B1C30	SetRotMatrix,SetTransMatrix,ReadGeomOffset,SetGeomOffset,SetDrawArea,SetDrawOffset,SetDrawEnv,AddPrim	g_dbIndex,g_db,0x80100001,g_cDb,0x80154084,D_80162098,0x80163C74	knights,tupon,vahamut2
+F068	2	2	193	772	1544	1	0	0	0	0x10F0	0x801B10F0	CompMatrix,MulMatrix0,ScaleMatrix,SetRotMatrix,SetTransMatrix,RotTransSV,RotMatrixYXZ,func_800D29D4,BattleSetBillboardMatrix,func_800D4D90	0x80062D98,g_BattleWorldView,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	energy,hado
+F069	2	2	192	768	1536	2	1	0	1	0xC5C	0x801B0C5C	rand,func_800BBA84,BattleEffectRegister,BattleGetPartPosition,func_800D5774	0x80062D98,0x80150000,g_BattleEffectCursor,D_801518F0,g_BattleEffectSlots	q_ketsu,q_shu
+F070	14	14	27	108	1512	1	3	0	3	0x1990	0x801B1990	BattleEffectRegister,BattleSetLoadTimToVram,MagicAnimationRegister		energy,gas,hado,hakugek1,hakugek2,ho_den,...
+F071	6	6	62	248	1488	1	1	0	0	0xD60	0x801B0D60	rsin		antlion,deadsef,hades,knights,satan,sting
+F072	2	2	184	736	1472	1	6	0	6	0x80C	0x801B080C	CompMatrix,MulMatrix0,ScaleMatrix,SetRotMatrix,SetTransMatrix,RotMatrixYXZ,rand,BattleDetachedRegister,func_800D29D4,BattleSetBillboardMatrix,BattleMatrixFromDirection,func_800D4D90	0x80062D98,g_BattleWorldView,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleDetachedSlots,g_BattleEffectSlots,0x80163C74	gas,kaen
+F073	6	6	61	244	1464	2	14	5	9	0x8C	0x801B008C	BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_cDb,g_BattleMovementCursor,g_BattleDetachedSlots,0x80163C74	geki1,jibasiri,seija,tail,thunder2,wlaser
+F074	2	2	181	724	1448	1	13	0	10	0xC8C	0x801B0C8C	rand,BattleEffectRegister,BattleFixedPointRampUpdateInit,func_800D5774	0x80062D98,0x800F5B70,0x800F5B71,0x800F5B72,g_BattleEffectCursor,g_BattleEffectSlots	tornado,whirl
+F075	24	24	15	60	1440	2	2	0	2	0x68	0x801B0068			alex,antlion,catastro,choco0,deadsef,debucho,...
+F076	2	2	177	708	1416	1	23	0	23	0x16C	0x801B016C	CompMatrix,ScaleMatrix,SetRotMatrix,SetTransMatrix,RotMatrix,func_800D29D4,BattleSetBillboardMatrix,func_800D4D90	0x80062D98,g_BattleWorldView,0x80100000,0x801031EA,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	netsu,reiki
+F077	4	4	88	352	1408	1	5	0	5	0x9F8	0x801B09F8	CompMatrix,ScaleMatrix,SetRotMatrix,SetTransMatrix,RotMatrix,func_800D29D4	0x80062D98,g_BattleWorldView,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	cho_kyu,hadoho,re_do,shaku
+F078	7	7	49	196	1372	2	5	1	4	0x650	0x801B0650	BattleEffectRegister,BattleGetPartPosition	0x80150000,D_8015190B,0x80151918,g_BattleEffectSlots	chikasui,geki1,jibasiri,kinzan,magma,onsen,...
+F079	3	3	114	456	1368	1	8	0	8	0x2028	0x801B2028	VectorNormal,BattleEffectRegister,BattleSetLoadTimToVram,BattleGetPartPosition,BattleMatrixFromDirection,BattleFixedPointRampUpdateInit	0x800F5B70,0x800F5B71,0x800F5B72,0x80150000,D_8015191A,g_BattleEffectSlots	cho_kyu,hadoho,shaku
+F080	2	2	170	680	1360	1	2	0	2	0x3A0	0x801B03A0	rand,BattleEffectRegister,BattleGetPartPosition,func_800D5774	0x80062D98,0x80150000,g_BattleEffectCursor,D_801518F0,g_BattleEffectSlots	carel,mdance
+F081	3	3	112	448	1344	1	3	0	3	0x9F4	0x801B09F4	MulMatrix,SetRotMatrix,SetTransMatrix,RotTrans,RotMatrixYXZ,func_800D4D90	0x80062D98,g_BattleWorldView,0x80150070,g_cDb,g_BattleMovementCursor,g_BattleDetachedSlots,0x80163C74	jibaku2,tail,thunder2
+F082	2	2	166	664	1328	1	0	0	0	0x190	0x801B0190	rand,BattleEffectRegister,func_800D5774	0x80062D98,g_BattleEffectCursor,g_BattleEffectSlots	ayasii,kusai
+F083	4	4	82	328	1312	1	6	2	4	0x7A0	0x801B07A0	CompMatrix,ScaleMatrix,SetRotMatrix,SetTransMatrix,SetFarColor,RotMatrix,func_800D29D4	0x80062D98,g_BattleWorldView,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	energy,hado,napalm,rocket
+F084	2	2	162	648	1296	1	1	0	0	0x590	0x801B0590	0x800B8E48	0x80062D98,0x80150000,g_BattleEffectCursor,D_801518E6,D_80151A48,0x80151A4E,0x80151A4F,D_80151A4C,0x80151A53,g_BattleEffectSlots	dejon,heart2
+F085	5	5	64	256	1280	4	18	6	12	0xAC	0x801B00AC	BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	gesui,northern,otsunami,shower,southern
+F086	4	4	79	316	1264	1	4	0	3	0x20	0x801B0020	BattleSetBillboardMatrix,BattleEffectSpriteAdd	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	carel,heart1,mdance,spade2
+F087	4	4	79	316	1264	3	31	15	16	0x24B4	0x801B24B4			gaisei,hyper,nonoshi,sekika
+F088	7	7	45	180	1260	1	5	0	5	0x14D8	0x801B14D8	BattleEffectRegister	g_BattleEffectSlots	wpba,wpbi,wpcu,wpea,wpke,wpsi,...
+F089	2	2	156	624	1248	1	16	0	12	0xA1C	0x801B0A1C	CompMatrix,ScaleMatrix,SetRotMatrix,SetTransMatrix,RotMatrixYXZ,func_800D29D4	0x80062D98,g_BattleWorldView,0x80100000,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	tornado,whirl
+F090	2	2	155	620	1240	1	7	3	3	0xF9C	0x801B0F9C	CompMatrix,ApplyMatrix,ScaleMatrix,SetRotMatrix,SetTransMatrix,RotMatrix,func_800D29D4,func_800D5774	0x80062D98,g_BattleWorldView,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	dia2,sailess
+F091	5	5	62	248	1240	5	10	3	6	0x2B80	0x801B2B80		g_BattleEffectCursor,g_BattleEffectCount,g_BattleEffectSlots	alex,fullcare,gospel,jaki,tupon
+F092	2	2	154	616	1232	1	3	0	3	0x5EC	0x801B05EC	rsin,rcos,rand,BattleEffectRegister	0x80062D98,g_BattleEffectCursor,g_BattleEffectSlots	geki1,jibasiri
+F093	6	6	51	204	1224	2	14	0	14	0x1E4	0x801B01E4	BattleEffectRegister,BattleGetPartPosition	0x80150000,D_8015190B,g_BattleEffectSlots	jinrai,kaen2,kien,q_ketsu,q_shu,rmissile
+F094	2	2	153	612	1224	1	7	3	3	0x11D4	0x801B11D4	CompMatrix,ApplyMatrix,ScaleMatrix,SetRotMatrix,SetTransMatrix,RotMatrix,func_800D29D4	0x80062D98,g_BattleWorldView,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	joker2,stop
+F095	5	5	61	244	1220	3	13	5	8	0x9C	0x801B009C	BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	kama,kama2,kien,koudan1,suna
+F096	4	4	76	304	1216	1	4	2	2	0x9EC	0x801B09EC	SetRotMatrix,SetTransMatrix,RotTransPers	g_BattleWorldView,g_cDb	death,lv4jibak,matra,reazer
+F097	20	3	15	60	1200	3	6	1	4	0x8C	0x801B008C			wpba,wpsi,wpyu
+F098	5	5	59	236	1180	3	10	3	7	0xE38	0x801B0E38	BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_cDb,g_BattleMovementCursor,g_BattleDetachedSlots,0x80163C74	cho_kyu,hadoho,re_do,shaku,tsurara
+F099	2	2	147	588	1176	1	5	0	5	0x62C	0x801B062C	MulMatrix,SetRotMatrix,SetTransMatrix,RotTrans,RotMatrixYXZ,func_800D4D90	0x80062D98,g_BattleWorldView,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots,0x80163C74	hakugek1,hakugek2
+F100	3	3	97	388	1164	1	5	0	5	0xB44	0x801B0B44	CompMatrix,MulMatrix0,ScaleMatrix,SetRotMatrix,SetTransMatrix,SetFarColor,RotMatrixYXZ,func_800D29D4	0x80062D98,g_BattleWorldView,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	hadoho,re_do,shaku
+F101	3	3	95	380	1140	1	11	1	10	0xC60	0x801B0C60	ApplyMatrixLV,RotMatrix,BattleEffectRegister,BattleGetPartPosition	0x80150000,g_BattleEffectCursor,D_8015190B,0x80151A46,g_BattleEffectSlots	wpbi,wpcu,wpke
+F102	3	2	95	380	1140	2	12	0	9	0x518	0x801B0518	BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	elecball,gravira
+F103	2	2	142	568	1136	1	6	3	3	0xF9C	0x801B0F9C	CompMatrix,ApplyMatrix,ScaleMatrix,SetRotMatrix,SetTransMatrix,RotMatrix,func_800D29D4,func_800D5774	0x80062D98,g_BattleWorldView,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	joker2,stop
+F104	3	3	94	376	1128	1	19	8	8	0x0	0x801B0000	BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots,0x801AFFF8	bio,bioga1,biora
+F105	3	3	94	376	1128	2	7	2	5	0x664	0x801B0664	MulMatrix,SetRotMatrix,SetTransMatrix,SetFarColor,RotTrans,RotMatrixYXZ,func_800D29D4	0x80062D98,g_BattleWorldView,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	cho_kyu,koudan1,koudan2
+F106	3	3	92	368	1104	2	10	2	8	0x4EC	0x801B04EC	CompMatrix,ScaleMatrix,SetRotMatrix,SetTransMatrix,RotMatrix,func_800D29D4	0x80062D98,g_BattleWorldView,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	reiki,saikyo,tbreath
+F107	2	2	135	540	1080	1	8	0	6	0x2FC	0x801B02FC	rsin,rcos,ApplyMatrixSV,RotMatrixYXZ,BattleSetBillboardMatrix,BattleEffectSpriteAdd	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	elecball,gravira
+F108	2	2	133	532	1064	1	3	0	3	0x4E8	0x801B04E8	rsin,rcos,CompMatrix,ScaleMatrix,SetRotMatrix,SetTransMatrix,SetFarColor,RotMatrixYXZ,BattleEffectRegister,func_800D29D4	0x80062D98,g_BattleWorldView,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	northern,southern
+F109	3	3	87	348	1044	1	12	6	6	0xBB4	0x801B0BB4	CompMatrix,ScaleMatrix,SetRotMatrix,SetTransMatrix,RotMatrixYXZ,func_800D29D4	0x80062D98,g_BattleWorldView,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	jibaku2,jibasiri,thunder2
+F110	3	3	87	348	1044	2	4	0	4	0x20	0x801B0020	SetRotMatrix,SetTransMatrix,RotTransPers,rand,AddPrim,SetTile1	0x80062D98,g_BattleWorldView,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	comet,cometeo,mrain
+F111	4	4	65	260	1040	1	4	2	2	0x2FCC	0x801B2FCC	SetRotMatrix,SetTransMatrix,RotTransPers	g_BattleWorldView,g_cDb	brizag2,sldfang,tifa,wpsi
+F112	2	2	129	516	1032	1	6	3	3	0x1F08	0x801B1F08	CompMatrix,ApplyMatrix,ScaleMatrix,SetRotMatrix,SetTransMatrix,RotMatrixYXZ,func_800D29D4	0x80062D98,g_BattleWorldView,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	brizag,brizag2
+F113	2	2	129	516	1032	1	25	12	12	0xB20	0x801B0B20	SetRotMatrix,SetTransMatrix,ReadGeomOffset,SetGeomOffset,SetDrawArea,SetDrawOffset,SetDrawEnv,AddPrim	g_dbIndex,g_db,0x80100001,g_cDb,0x80154084,D_80162098,0x80163C74	antlion,sting
+F114	2	2	129	516	1032	1	6	0	0	0xBCC	0x801B0BCC			brizag,queig
+F115	8	8	32	128	1024	3	3	0	3	0x634	0x801B0634	BattleEffectRegister,BattleGetPartPosition	0x80150000,D_8015190B,g_BattleEffectSlots	brizara,comet,daichi,fullcare,gospel,jaki,...
+F116	5	5	51	204	1020	5	7	2	5	0xA90	0x801B0A90	BattleEffectRegister,BattleSetLoadTimToVram,BattleCommandSend,BattleEntityGetStereoPan	g_BattleEffectSlots	dethfo,dragonn,flea,hatena,seald
+F117	2	2	127	508	1016	2	15	0	15	0x75C	0x801B075C	CompMatrix,MulMatrix0,ScaleMatrix,SetRotMatrix,SetTransMatrix,RotMatrix,func_800D4D90	0x80062D98,g_BattleWorldView,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots,0x80163C74	kakusan,quasar
+F118	2	2	126	504	1008	1	0	0	0	0xEF8	0x801B0EF8	CompMatrix,MulMatrix0,ScaleMatrix,SetRotMatrix,SetTransMatrix,SetFarColor,RotMatrixYXZ,func_800D29D4	0x80062D98,g_BattleWorldView,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	energy,hado
+F119	9	8	28	112	1008	1	3	0	3	0x730	0x801B0730	BattleEffectRegister,BattleSetLoadTimToVram,MagicAnimationRegister		blaver,echoes,flame,freeze,h_blow,hvshot,...
+F120	3	3	83	332	996	1	14	7	7	0x8C	0x801B008C	CompMatrix,MulMatrix0,ScaleMatrix,SetRotMatrix,SetTransMatrix,RotMatrixYXZ,func_800D4D90	0x80062D98,g_BattleWorldView,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	harrier,mgbeam,reito
+F121	8	8	31	124	992	8	4	0	4	0x1978	0x801B1978	func_800BBA84,BattleEffectRegister,BattleSetLoadTimToVram,MagicAnimationRegister		atomic,hakai,jibaku1,kaen,mizu,oil,...
+F122	7	7	35	140	980	1	8	3	5	0x226C	0x801B226C	BattleEffectRegister,BattleSetLoadTimToVram	g_BattleEffectSlots	erave,hmoon,lgirl,mrain,raise,spark,...
+F123	3	3	80	320	960	2	6	0	6	0x1850	0x801B1850	func_800BBA84,BattleEffectRegister,BattleGetPartPosition,BattleMatrixFromDirection,BattleFixedPointRampUpdateInit	0x800F5B70,0x800F5B71,0x800F5B72,0x80150000,D_8015190B,0x80151915,g_BattleEffectSlots	energy,hado,ho_den
+F124	10	10	24	96	960	1	4	2	2	0x20	0x801B0020		g_BattleEffectCursor,g_BattleEffectCount,g_BattleEffectSlots	blaster,chi,dive,freeze,grenade,magend,...
+F125	2	2	118	472	944	1	7	3	3	0xF9C	0x801B0F9C	CompMatrix,ScaleMatrix,SetRotMatrix,SetTransMatrix,RotMatrix,func_800D29D4,func_800D5774	0x80062D98,g_BattleWorldView,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	club1,queik
+F126	3	3	78	312	936	1	3	1	2	0xC20	0x801B0C20	BattleEffectRegister,BattleGetPartPosition,BattleMatrixFromDirection	0x80150000,D_8015190B,0x80151915,g_BattleEffectSlots	harrier,mgbeam,reito
+F127	4	4	58	232	928	2	9	4	5	0xE0	0x801B00E0	BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots,0x80163C74	boost,hyper,mizufuki,ranto
+F128	4	4	58	232	928	1	8	2	6	0x644	0x801B0644	BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	netsu,reiki,saikyo,tbreath
+F129	2	2	116	464	928	2	16	6	8	0x6E4	0x801B06E4	rand	0x80062D98,g_BattleEffectCursor,g_BattleEffectSlots	kafun,suna
+F130	7	7	33	132	924	1	5	2	2	0x1298	0x801B1298		0x80062D98,g_BattleEffectCursor,g_BattleEffectSlots	club1,dia1,dia2,heart1,joker1,joker2,...
+F131	2	2	115	460	920	1	6	3	3	0x1D3C	0x801B1D3C	CompMatrix,ApplyMatrix,ScaleMatrix,SetRotMatrix,SetTransMatrix,RotMatrixYXZ,func_800D29D4	0x80062D98,g_BattleWorldView,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	brizag,brizag2
+F132	4	4	56	224	896	2	7	0	7	0x4C8	0x801B04C8	func_800C4FC8	0x80062D98,g_BattleEffectCursor,g_BattleEffectSlots,0x80163C74	cho_kyu,re_do,reiki,tbreath
+F133	2	2	112	448	896	2	7	0	7	0x74	0x801B0074	CompMatrix,ScaleMatrix,SetRotMatrix,SetTransMatrix,RotMatrix,func_800D29D4	0x80062D98,g_BattleWorldView,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	flea,sflea
+F134	2	2	110	440	880	2	50	0	50	0x1C0	0x801B01C0	BattleEffectRegister,func_800D5774	0x80062D98,g_BattleEffectCursor,g_BattleEffectSlots	mabaria,wall
+F135	2	2	110	440	880	1	21	10	10	0x32C	0x801B032C	CompMatrix,MulMatrix0,ScaleMatrix,SetRotMatrix,SetTransMatrix,SetFarColor,RotMatrix,func_800D29D4,BattleMatrixFromDirection	0x80062D98,g_BattleWorldView,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	mizu,oil
+F136	2	2	109	436	872	1	3	0	3	0x334	0x801B0334	rsin,rcos,BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots,0x80163C74	northern,southern
+F137	3	3	72	288	864	2	9	2	7	0x8C	0x801B008C	BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	daionpa,jammer,sekika
+F138	2	2	108	432	864	1	6	0	6	0x1D8	0x801B01D8	CompMatrix,MulMatrix0,ScaleMatrix,SetRotMatrix,SetTransMatrix,SetFarColor,RotMatrixYXZ,func_800D29D4,BattleMatrixFromDirection	0x80062D98,g_BattleWorldView,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots,0x801AFFFC	punch,shield
+F139	6	6	36	144	864	1	22	10	10	0x2F38	0x801B2F38	CompMatrix		alex,antlion,knights,kujata,tupon,vahamut2
+F140	3	3	71	284	852	3	11	2	9	0x48C	0x801B048C	BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	kaeru,minimam,todo
+F141	2	2	106	424	848	1	10	0	10	0x18C	0x801B018C	CompMatrix,ScaleMatrix,SetRotMatrix,SetTransMatrix,RotMatrixYXZ,func_800D29D4	0x80062D98,g_BattleWorldView,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	northern,southern
+F142	2	2	104	416	832	1	5	0	5	0x74	0x801B0074	BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	heatbu,magikal
+F143	3	3	69	276	828	1	6	0	6	0x6B0	0x801B06B0	BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	jibaku2,tail,thunder2
+F144	2	2	103	412	824	1	14	1	11	0x133C	0x801B133C	ApplyMatrixLV,RotMatrix,BattleEffectRegister,BattleGetPartPosition	0x80150000,g_BattleEffectCursor,D_8015190B,0x80151A46,g_BattleEffectSlots	wpba,wpea
+F145	5	5	41	164	820	1	11	4	4	0xA8C	0x801B0A8C			brizag,debaria,dethfo,queig,queir
+F146	2	2	102	408	816	1	0	0	0	0x264	0x801B0264	rsin,rcos,BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	q_ketsu,q_shu
+F147	7	6	29	116	812	2	6	1	5	0x32DC	0x801B32DC	BattleEffectRegister	g_BattleEffectSlots	knights,kujata,odin1,sting,vahamut,vahamut2
+F148	2	2	101	404	808	2	10	3	7	0x1608	0x801B1608	CompMatrix,ScaleMatrix,SetRotMatrix,SetTransMatrix,SetFarColor,RotMatrix,func_800D29D4	0x80062D98,g_BattleWorldView,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	mrain,sdust
+F149	4	4	50	200	800	3	13	5	8	0x190	0x801B0190	BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	kama,kama2,nadare,nonoshi
+F150	7	7	28	112	784	5	4	0	4	0xB90	0x801B0B90	BattleEffectRegister,BattleSetLoadTimToVram,MagicAnimationRegister		biora,gravide,gravira,laser,thunder,tornado,...
+F151	2	2	98	392	784	2	9	0	9	0x6F8	0x801B06F8	CompMatrix,ScaleMatrix,SetRotMatrix,SetTransMatrix,RotMatrix,func_800D4D90	0x80062D98,g_BattleWorldView,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	flea,sflea
+F152	5	5	39	156	780	5	6	1	5	0xA40	0x801B0A40	BattleEffectRegister,BattleSetLoadTimToVram,MagicAnimationRegister,BattleCommandSend,BattleEntityGetStereoPan	g_BattleEffectSlots	mytyg,queik,sailess,slipl,stop
+F153	2	2	97	388	776	1	10	4	6	0x468	0x801B0468	CompMatrix,MulMatrix0,ScaleMatrix,SetRotMatrix,SetTransMatrix,RotMatrixYXZ,func_800D29D4,BattleMatrixFromDirection	0x80062D98,g_BattleWorldView,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	geki1,jibasiri
+F154	3	3	64	256	768	2	10	3	7	0x5CC	0x801B05CC	BattleEffectRegister,BattleGetPartPosition,BattleEntityGetCenter	0x80150000,g_BattleEffectCursor,0x80151917,0x80160000,g_BattleEffectSlots	heatbu,magikal,utagoe
+F155	2	2	96	384	768	1	9	0	8	0x94C	0x801B094C	BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	flea,sflea
+F156	2	2	95	380	760	2	5	0	5	0x4C0	0x801B04C0	MulMatrix,SetRotMatrix,SetTransMatrix,RotTrans,RotMatrixYXZ,func_800D4D90	0x80062D98,g_BattleWorldView,0x80150070,g_cDb,g_BattleMovementCursor,g_BattleDetachedSlots,0x80163C74	tbreath,triangle
+F157	2	2	95	380	760	1	0	0	0	0x184	0x801B0184	rsin,rcos		beam,wep3
+F158	5	5	38	152	760	5	8	2	6	0x1184	0x801B1184	BattleEffectRegister,BattleSetLoadTimToVram,BattleCommandSend,BattleEntityGetStereoPan	g_BattleEffectSlots	beata,faiga,faiga2,heist,trainn
+F159	4	4	47	188	752	3	7	1	6	0x5C4	0x801B05C4	BattleEffectRegister,BattleEntityGetCenter	g_BattleEffectCursor,0x80160000,g_BattleEffectSlots	aqua,ayasii,kusai,zenbaku
+F160	2	2	94	376	752	1	6	2	4	0x158	0x801B0158	CompMatrix,MulMatrix0,ScaleMatrix,SetRotMatrix,SetTransMatrix,SetFarColor,RotMatrixYXZ,func_800D29D4,BattleMatrixFromDirection	0x80062D98,g_BattleWorldView,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	onpa,toboe
+F161	2	2	93	372	744	1	11	5	5	0x4C0	0x801B04C0	BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	beam,wep3
+F162	2	2	89	356	712	1	4	0	4	0x4C8	0x801B04C8	MulMatrix,SetRotMatrix,SetTransMatrix,RotTrans,RotMatrixYXZ,func_800D4D90	0x80062D98,g_BattleWorldView,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	hakugek1,hakugek2
+F163	2	2	89	356	712	2	11	0	11	0x92C	0x801B092C	rsin,rcos,BattleEffectRegister,BattleGetPartPosition	0x80150000,D_801518F2,D_8015190B,0x80151A44,0x80151A46,0x80151A47,D_80151A44,0x80151A4B,g_BattleEffectSlots	barrier,mabaria
+F164	2	2	86	344	688	1	10	4	6	0x1AE0	0x801B1AE0	SetRotMatrix,SetTransMatrix,BattleModelAdvance,BattleEffectSpriteAdd	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	queig,queir
+F165	2	2	85	340	680	2	9	0	9	0x5A4	0x801B05A4	BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	flea,sflea
+F166	8	8	21	84	672	3	3	0	3	0x67C	0x801B067C	BattleEffectRegister	g_BattleEffectSlots	blaver,elecball,gravira,hakai,hvshot,laser,...
+F167	3	3	55	220	660	2	12	5	6	0x3388	0x801B3388		g_BattleEffectCursor,g_BattleEffectSlots	bushin2,kona,pink
+F168	3	3	55	220	660	2	3	0	3	0x11B4	0x801B11B4	func_800BBA84,BattleEffectRegister,BattleGetPartPosition	0x80150000,D_8015190B,g_BattleEffectSlots	hakugek1,hakugek2,jammer
+F169	2	2	82	328	656	1	12	6	6	0x294	0x801B0294	CompMatrix,MulMatrix0,ScaleMatrix,SetRotMatrix,SetTransMatrix,SetFarColor,RotMatrix,func_800D29D4	0x80062D98,g_BattleWorldView,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	mgbeam,reito
+F170	3	3	54	216	648	1	1	0	1	0xE8	0x801B00E8	BattleEffectRegister	0x80062D98,g_BattleEffectCursor,g_BattleEffectSlots	elecball,graviga1,gravira
+F171	5	5	32	128	640	1	9	4	4	0x560	0x801B0560			awa,cbreath,kafun,pink,suna
+F172	4	4	40	160	640	2	4	0	2	0x115C	0x801B115C			dethper,queig,queir,satan
+F173	4	4	40	160	640	3	9	3	6	0x680	0x801B0680	BattleEffectRegister,BattleSetLoadTimToVram,BattleCommandSend,BattleEntityGetStereoPan	g_BattleEffectSlots	aqua,ayasii,daisenp,kusai
+F174	2	2	78	312	624	1	1	0	1	0x2A4	0x801B02A4	rsin,ApplyMatrixSV,RotMatrixZYX,RotMatrixY,BattleEffectRegister	0x80062D98,g_BattleEffectCursor,g_BattleEffectSlots	dokueki,dokufuki
+F175	2	2	78	312	624	1	0	0	0	0xDC0	0x801B0DC0	BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	energy,hado
+F176	4	4	39	156	624	1	11	4	4	0xB30	0x801B0B30			brizag,debaria,queig,queir
+F177	3	3	51	204	612	2	8	3	5	0xA38	0x801B0A38	BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	faiga,goblinp,korosi
+F178	3	3	51	204	612	2	7	3	4	0x4A8	0x801B04A8	BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots,0x801AFFF8	lv4jibak,matra,reazer
+F179	2	2	76	304	608	2	12	2	10	0x149C	0x801B149C	rsin,rcos,BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	reito,sekika
+F180	3	3	50	200	600	1	0	0	0	0x1EB4	0x801B1EB4			alex,odin1,sting
+F181	5	5	30	120	600	5	12	4	7	0x2B08	0x801B2B08			alex,fullcare,gospel,jaki,tupon
+F182	6	2	25	100	600	5	3	0	3	0x954	0x801B0954	BattleEffectRegister	g_BattleEffectSlots	carel,spade2
+F183	2	2	75	300	600	1	0	0	0	0x138	0x801B0138	BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	q_ketsu,q_shu
+F184	4	4	37	148	592	2	5	0	5	0x698	0x801B0698	func_800BBA84,BattleEffectRegister,BattleSetLoadTimToVram,MagicAnimationRegister		hikari,hikari2,hikari3,tan
+F185	3	3	49	196	588	2	5	0	5	0xB94	0x801B0B94	BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	comet,cometeo,mrain
+F186	3	3	48	192	576	1	6	3	3	0x178	0x801B0178	BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots,0x801AFFF8	bio,bioga2,biora
+F187	3	3	48	192	576	2	4	0	4	0x714	0x801B0714	func_800BBA84,BattleEffectRegister,BattleSetLoadTimToVram,MagicAnimationRegister		chikasui,magma,onsen
+F188	2	2	72	288	576	2	11	0	11	0x858	0x801B0858	DpqColor	g_cDb	death,sldfang
+F189	2	2	71	284	568	1	4	0	4	0x11CC	0x801B11CC	BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	frog,sekika
+F190	2	2	71	284	568	1	0	0	0	0x74	0x801B0074	BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	ayasii,kusai
+F191	2	2	71	284	568	2	19	8	11	0x8C	0x801B008C	BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	dokueki,triangle
+F192	2	2	71	284	568	1	1	0	1	0x1208	0x801B1208	BattleEffectRegister,BattleGetPartPosition	0x80150000,D_801518F2,D_8015190B,0x80151A46,g_BattleEffectSlots	dia2,sailess
+F193	4	4	35	140	560	1	4	0	4	0x8C	0x801B008C			chikasui,magma,magma2,onsen
+F194	4	4	34	136	544	2	3	0	3	0x610	0x801B0610	BattleEffectRegister,BattleGetPartPosition	0x80150000,0x80151918,g_BattleEffectSlots	hikari,hikari2,hikari3,jibaku1
+F195	2	2	68	272	544	1	6	0	6	0xF60	0x801B0F60	BattleEffectRegister,BattleGetPartPosition,BattleCommandSend,BattlePositionToStereoPan	0x80150000,D_8015190B,g_BattleEffectSlots	tornado,whirl
+F196	2	2	68	272	544	1	3	0	1	0xFA4	0x801B0FA4	BattleEventQueuePush,BattleCommandSend,BattlePositionToStereoPan,func_800D5774	0x80062D98,g_BattleEffectCursor,g_BattleEffectSlots	joker1,sennkoku
+F197	4	4	34	136	544	4	12	0	12	0x640	0x801B0640	BattleEffectRegister,BattleSetLoadTimToVram,MagicAnimationRegister,BattleCommandSend,BattleEntityGetStereoPan		bio,break,daichi,faira
+F198	2	2	66	264	528	1	1	0	1	0x388	0x801B0388	BattleEffectRegister	0x80062D98,g_BattleEffectCursor,g_BattleEffectSlots	punch,shield
+F199	3	3	44	176	528	1	8	4	4	0x94	0x801B0094	ScaleMatrix,SetRotMatrix,SetTransMatrix,RotMatrixYXZ		bushin2,lasboss2,osen
+F200	2	2	65	260	520	2	2	0	2	0x3A8	0x801B03A8	rsin,rcos,BattleEffectRegister,BattleGetPartPosition	g_BattleModels,g_BattleEffectSlots	refrec,wall
+F201	2	2	65	260	520	1	4	0	4	0x4D8	0x801B04D8	BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_cDb,g_BattleMovementCursor,g_BattleDetachedSlots,0x80163C74	gas,kaen
+F202	2	2	65	260	520	2	4	1	3	0x18D8	0x801B18D8	BattleEffectRegister,BattleGetPartPosition,BattleMatrixFromDirection	0x80150000,D_8015190B,0x80151918,g_BattleEffectSlots	blaster,search
+F203	2	2	65	260	520	1	0	0	0	0xB1C	0x801B0B1C	MulMatrix0,ApplyMatrixSV,TransposeMatrix	0x800FA650,D_800FA650,D_800FA654,0x800FFFEC,0x80100000	death,tifa
+F204	2	2	64	256	512	1	3	0	3	0xDB4	0x801B0DB4	rsin,BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	hadoho,shaku
+F205	2	2	63	252	504	1	0	0	0	0x28	0x801B0028	VectorNormal		climb,odin2
+F206	3	3	42	168	504	3	9	3	6	0x6CC	0x801B06CC	BattleEffectRegister,BattleSetLoadTimToVram,BattleCommandSend,BattleEntityGetStereoPan	g_BattleEffectSlots	heatbu,magikal,utagoe
+F207	2	2	62	248	496	1	5	0	4	0x924	0x801B0924		0x80062D98,g_BattleEffectCursor,g_BattleEffectSlots	tornado,whirl
+F208	4	4	31	124	496	1	5	0	5	0x324C	0x801B324C	BattleEffectRegister,BattleSetLoadTimToVram	g_BattleEffectSlots	brizag,queig,queir,sdust
+F209	2	2	62	248	496	1	3	0	3	0xE10	0x801B0E10	func_800BBA84,BattleEffectRegister,BattleSetLoadTimToVram,BattleGetPartPosition,BattleFixedPointRampUpdateInit,BattleEntityGetCenter	0x800F5B70,0x800F5B71,0x800F5B72,0x80150000,0x80151918,g_BattleEffectSlots	northern,southern
+F210	2	2	61	244	488	2	6	0	6	0x1B6C	0x801B1B6C	BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	lasboss,sekika
+F211	2	2	60	240	480	2	13	5	8	0x178	0x801B0178	BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots,0x801AFFF8	ito,mizufuki
+F212	3	3	40	160	480	3	4	0	4	0xC00	0x801B0C00	BattleEffectRegister,BattleGetPartPosition	0x80150000,D_801518F2,D_8015190B,g_BattleEffectSlots	beat,brand,kyogiri
+F213	4	2	30	120	480	1	4	0	3	0x20	0x801B0020			tornado,whirl
+F214	2	2	60	240	480	1	3	0	3	0xCA8	0x801B0CA8	BattleEffectRegister,BattleGetPartPosition	0x80150000,D_8015190B,0x80151917,g_BattleEffectSlots	ito,laser2
+F215	2	2	60	240	480	1	1	0	0	0xE58	0x801B0E58	ApplyMatrixSV,TransposeMatrix,BattleGetPartPosition	D_80151A48,0x80151A4E,D_80151A4C	antlion,sting
+F216	2	2	59	236	472	1	1	0	0	0xB7C	0x801B0B7C	rsin		catastro,odin1
+F217	2	2	58	232	464	2	4	0	4	0x0	0x801B0000	BattleSetBillboardMatrix,BattleAddDrawModePrim,func_800D4D90	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	graviga1,gravira
+F218	2	2	57	228	456	1	5	0	5	0x60C	0x801B060C	BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_cDb,g_BattleMovementCursor,g_BattleDetachedSlots,0x80163C74	napalm,rocket
+F219	2	2	57	228	456	2	11	3	8	0x8E4	0x801B08E4	BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	atomic,tbreath
+F220	2	2	57	228	456	1	1	0	1	0x231C	0x801B231C	VectorNormal,SetRotMatrix,SetTransMatrix,RotTrans		odin2,riva
+F221	2	2	57	228	456	1	0	0	0	0x3DC	0x801B03DC			beam,wep3
+F222	2	2	57	228	456	1	1	0	1	0x1174	0x801B1174	BattleEffectRegister,BattleGetPartPosition	0x80150000,D_801518F2,D_8015190B,g_BattleEffectSlots	club1,queik
+F223	2	2	56	224	448	1	6	3	3	0x2B8	0x801B02B8	BattleSetBillboardMatrix,BattleEffectSpriteAdd	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots,0x801AFFFC	hanmmer,toybox
+F224	2	2	56	224	448	2	7	0	7	0x8C	0x801B008C	func_800C4FC8	0x80062D98,g_BattleEffectCursor,g_BattleEffectSlots,0x80163C74	netsu,shaku
+F225	2	2	55	220	440	1	0	0	0	0x300	0x801B0300			beam,wep3
+F226	2	2	55	220	440	2	8	2	6	0xC50	0x801B0C50	BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	hatena,toybox
+F227	2	2	55	220	440	1	0	0	0	0xA8	0x801B00A8	VectorNormal,SquareRoot12,OuterProduct12,ratan2		beam,wep3
+F228	2	2	54	216	432	2	3	0	3	0xEAC	0x801B0EAC	func_800BBA84,BattleEffectRegister,BattleGetPartPosition	0x80150000,D_8015190B,0x80151917,g_BattleEffectSlots	gas,shower
+F229	4	4	27	108	432	1	2	0	2	0x764	0x801B0764		g_BattleEffectCursor,g_BattleEffectCount,g_BattleEffectSlots	berserk,elecball,gravide,gravira
+F230	3	3	36	144	432	1	0	0	0	0x1E24	0x801B1E24			alex,odin1,sting
+F231	2	2	54	216	432	2	10	3	7	0x51C	0x801B051C	BattleEffectRegister,BattleSetLoadTimToVram,MagicAnimationRegister,BattleCountSetBits,BattleCommandSend,BattleEntityGetStereoPan		esna,resist
+F232	3	3	36	144	432	1	2	0	2	0x20	0x801B0020	BattleFixedPointRampUpdateInit	g_BattleEffectCursor,g_BattleEffectCount,g_BattleEffectSlots	thunder2,tsurara,yu_waku
+F233	2	2	53	212	424	2	6	0	6	0xE64	0x801B0E64	BattleEffectRegister,BattleSetLoadTimToVram,BattleCommandSend,BattleEntityGetStereoPan	g_BattleEffectSlots	goblinp,kaeru
+F234	3	3	35	140	420	1	1	0	1	0x554	0x801B0554	BattleEffectRegister,BattleGetPartPosition	0x80150000,D_8015190B,g_BattleEffectSlots	bio,graviga1,thundg1
+F235	3	3	35	140	420	1	4	1	3	0x12D8	0x801B12D8	BattleFixedPointRampUpdateInit	g_BattleEffectCursor,g_BattleEffectCount,g_BattleEffectSlots	comet,cometeo,graviga2
+F236	3	3	35	140	420	1	4	2	2	0x0	0x801B0000		g_BattleEffectCursor,g_BattleEffectCount,g_BattleEffectSlots	atomic,cbreath,kafun
+F237	2	2	51	204	408	2	7	2	5	0x490	0x801B0490	BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	thundg1,thundg2
+F238	2	2	51	204	408	1	2	0	2	0x858	0x801B0858		g_BattleEffectCursor,g_BattleEffectSlots	tornado,whirl
+F239	2	2	51	204	408	2	7	3	4	0x1988	0x801B1988	BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	club2,sdust
+F240	2	2	51	204	408	1	4	0	4	0x880	0x801B0880	BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	flea,sflea
+F241	3	3	33	132	396	1	8	3	5	0x58B4	0x801B58B4	BattleEffectRegister,BattleSetLoadTimToVram	g_BattleEffectSlots	brizag2,renbaku,zenbaku
+F242	2	2	49	196	392	1	3	0	2	0x3C0	0x801B03C0		g_BattleEffectCursor,g_BattleEffectCount,g_BattleEffectSlots	flame,rollfire
+F243	2	2	48	192	384	2	6	2	4	0x1E2C	0x801B1E2C	BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots,0x80163C74	lamu,titan
+F244	3	3	32	128	384	1	0	0	0	0x78	0x801B0078			lgirl,night,tifa
+F245	2	2	48	192	384	2	10	4	6	0x2BA4	0x801B2BA4	BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots,0x80163C74	catastro,daichi
+F246	4	2	24	96	384	3	2	0	2	0x874	0x801B0874	BattleEffectRegister	g_BattleEffectSlots	carel,heart1
+F247	2	2	48	192	384	2	10	4	6	0xB0	0x801B00B0	BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	angermax,climb
+F248	2	2	47	188	376	1	4	0	4	0x1D8	0x801B01D8	BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots,0x801AFFF8	mgbeam,seed
+F249	2	2	47	188	376	2	9	3	6	0x180	0x801B0180	BattleSetBillboardMatrix,func_800D4D90	0x80062D98,0x80150070,g_BattleEffectCursor,g_cDb,g_BattleEffectSlots	thunder,thundera
+F250	2	2	47	188	376	1	6	0	6	0x61C	0x801B061C	BattleEffectRegister,BattleSetLoadTimToVram,BattleFixedPointRampUpdateInit,BattleEntityGetCenter	0x800F5B70,0x800F5B71,0x800F5B72,0x80160000,0x80162996	chi,seija
+F251	2	2	46	184	368	2	4	1	3	0x404	0x801B0404	BattleEffectRegister,BattleGetPartPosition,BattleCommandSend,BattlePositionToStereoPan	0x80150000,D_8015190B,g_BattleEffectSlots	esna,resist
+F252	2	2	45	180	360	2	5	1	4	0x1128	0x801B1128	func_800BBA84,BattleEffectRegister,BattleSetLoadTimToVram,MagicAnimationRegister		awa,cbreath
+F253	3	3	29	116	348	2	2	0	2	0x978	0x801B0978	RotTransPers		death,sldfang,wpsi
+F254	3	3	29	116	348	2	4	0	4	0x43B0	0x801B43B0			satan,sldfang,wpsi
+F255	2	2	43	172	344	2	6	0	6	0xFC4	0x801B0FC4	func_800BBA84,BattleEffectRegister,BattleSetLoadTimToVram,MagicAnimationRegister		hari1000,seed
+F256	2	2	43	172	344	2	5	0	4	0xCA0	0x801B0CA0	BattleCommandSend,BattlePositionToStereoPan	0x80062D98,g_BattleEffectCursor,g_BattleEffectSlots	beat,brand
+F257	3	3	28	112	336	2	4	1	2	0x34BC	0x801B34BC	func_800BBA84		bushin2,kona,pink
+F258	2	2	41	164	328	1	4	0	4	0x514	0x801B0514	BattleEffectRegister,BattleSetLoadTimToVram,MagicAnimationRegister,BattleCommandSend,BattleEntityGetStereoPan	g_BattleEffectSlots	minimam,todo
+F259	10	2	8	32	320	7	2	0	1	0xB0	0x801B00B0			tifa,toybox
+F260	5	5	16	64	320	5	4	1	2	0x1258	0x801B1258	BattleCommandSend,BattleEntityGetStereoPan		club1,dia2,heart1,joker2,spade2
+F261	2	2	39	156	312	1	9	2	7	0x3780	0x801B3780	BattleEffectRegister	0x80160000,D_80162990	garyu,satan
+F262	2	2	39	156	312	2	5	0	3	0xB5C	0x801B0B5C			satan,tifa
+F263	3	3	26	104	312	1	4	1	3	0xC24	0x801B0C24		g_BattleEffectCursor,g_BattleEffectCount,g_BattleEffectSlots	bioga1,bioga2,thundg2
+F264	3	3	25	100	300	1	4	2	2	0x30	0x801B0030		g_BattleEffectCursor,g_BattleEffectCount,g_BattleEffectSlots	bushin2,lasboss,tbreath
+F265	2	2	37	148	296	1	4	0	4	0x94C	0x801B094C	BattleEffectRegister,BattleSetLoadTimToVram,BattleEntityGetCenter	0x80160000,0x80162996	gaishu,ranto
+F266	2	2	37	148	296	2	10	3	6	0x2420	0x801B2420			gaisei,nonoshi
+F267	2	2	37	148	296	1	1	0	1	0x3D8	0x801B03D8	BattleEffectRegister,BattleGetPartPosition	0x80150000,D_8015190B,g_BattleEffectSlots	boost,wlaser
+F268	2	2	37	148	296	1	2	0	2	0x1FC	0x801B01FC			gesui,otsunami
+F269	2	2	37	148	296	1	0	0	0	0x7EC	0x801B07EC	BattleEffectRegister,BattleGetPartPosition	0x80150000,D_8015190B,g_BattleEffectSlots	punch,shield
+F270	2	2	36	144	288	2	5	0	5	0xF20	0x801B0F20	BattleEffectRegister,BattleSetLoadTimToVram,BattleFixedPointRampUpdateInit,MagicAnimationRegister	0x800F5B70,0x800F5B71,0x800F5B72	fubuki,mizufuki
+F271	4	3	18	72	288	1	2	0	2	0x28C	0x801B028C	BattleEffectRegister	0x80160000,g_BattleEffectSlots	brizad,kujata,vahamut2
+F272	3	3	24	96	288	3	10	2	8	0x4350	0x801B4350			satan,sldfang,wpsi
+F273	2	2	36	144	288	1	0	0	0	0x574	0x801B0574	rsin,rcos		ito,laser2
+F274	2	2	35	140	280	2	10	4	5	0x268	0x801B0268			ito,laser2
+F275	2	2	35	140	280	2	6	0	3	0x6248	0x801B6248	0x800D5138,BattleFixedPointRampReconfigure	0x80062D98,g_BattleEffectCursor,g_BattleEffectSlots	knights,tupon
+F276	2	2	34	136	272	2	7	1	6	0xF94	0x801B0F94	func_800BBA84,BattleEffectRegister,BattleSetLoadTimToVram,MagicAnimationRegister		kafun,sumi
+F277	3	2	22	88	264	1	1	0	0	0x368	0x801B0368			brizag,debaria
+F278	3	3	22	88	264	3	1	0	1	0xCA8	0x801B0CA8			heist,queig,satan
+F279	2	2	33	132	264	1	2	0	2	0x1070	0x801B1070	BattleFixedPointRampUpdateInit	g_BattleEffectCursor,g_BattleEffectCount,g_BattleEffectSlots	tornado,whirl
+F280	3	3	22	88	264	2	4	1	3	0x3464	0x801B3464	BattleEffectRegister		bushin2,kona,pink
+F281	2	2	32	128	256	2	3	0	1	0x638	0x801B0638			queig,satan
+F282	3	2	21	84	252	1	1	0	1	0xA38	0x801B0A38	BattleEffectRegister	g_BattleEffectSlots	carel,mdance
+F283	7	7	9	36	252	4	3	1	2	0x2AE4	0x801B2AE4			alex,fullcare,gospel,jaki,odin1,siva,...
+F284	2	2	31	124	248	1	2	0	0	0x854	0x801B0854			dethper,queir
+F285	2	2	30	120	240	2	5	0	5	0x53C	0x801B053C	BattleEffectRegister,MagicAnimationRegister,BattleCommandSend		mabaria,refrec
+F286	2	2	30	120	240	1	7	2	5	0xB44	0x801B0B44	BattleEffectRegister,BattleSetLoadTimToVram		climb,rollfire
+F287	2	2	30	120	240	1	1	0	0	0xDD0	0x801B0DD0			brizag,debaria
+F288	2	2	29	116	232	1	1	0	0	0x1940	0x801B1940			hades,night
+F289	2	2	29	116	232	1	3	0	3	0x21F8	0x801B21F8	BattleEffectRegister,BattleEntityGetCenter	g_BattleEffectCursor,0x80160000,g_BattleEffectSlots,D_80162990	wep3,wep4
+F290	2	2	29	116	232	1	4	0	4	0x754	0x801B0754	BattleEffectRegister	g_BattleEffectSlots	mdance,tsol
+F291	3	3	19	76	228	3	3	1	2	0xC5C	0x801B0C5C			heist,queig,satan
+F292	3	3	19	76	228	2	6	1	4	0x55C	0x801B055C			aeroga,bacume,iyashi
+F293	2	2	28	112	224	1	1	0	0	0x83C	0x801B083C			mrain,night
+F294	2	2	27	108	216	2	3	0	3	0xFCC	0x801B0FCC	BattleEffectRegister,MagicAnimationRegister,BattleCommandSend,BattleEntityGetStereoPan		carel,tears
+F295	2	2	25	100	200	2	1	0	1	0x880	0x801B0880	func_800BBA84,BattleEffectRegister,MagicAnimationRegister		punch,shield
+F296	2	2	25	100	200	1	3	0	2	0x4B0	0x801B04B0			flame,rollfire
+F297	2	2	24	96	192	1	2	0	2	0x46C	0x801B046C	BattleSetLoadTimToVram,MagicAnimationRegister		boost,jinrai
+F298	5	4	9	36	180	1	1	0	0	0x54	0x801B0054			beast,lgirl,satan,spark
+F299	2	2	22	88	176	2	4	0	4	0x32FC	0x801B32FC			hades,tifa
+F300	2	2	20	80	160	1	1	0	0	0x1AC	0x801B01AC			gesui,otsunami
+F301	3	2	13	52	156	1	5	2	2	0xB4	0x801B00B4			raise,sennkoku
+F302	2	2	19	76	152	1	0	0	0	0xEB4	0x801B0EB4			conf,dise
+F303	3	2	12	48	144	1	5	2	2	0x54	0x801B0054			raise,sennkoku
+F304	3	3	11	44	132	1	3	1	1	0x7C	0x801B007C			beam,daisenp,flame
+F305	3	3	10	40	120	3	4	1	3	0x6644	0x801B6644			kujata,nanntoka,s_guard
+F306	2	2	14	56	112	1	2	0	2	0x10	0x801B0010			punch,shield
+F307	2	2	11	44	88	1	1	0	1	0x484	0x801B0484			flame,rollfire
+F308	2	2	11	44	88	1	1	0	1	0x48	0x801B0048			punch,shield
+F309	2	2	10	40	80	1	2	0	1	0x4C0	0x801B04C0			conf,sldfang
+F310	2	2	10	40	80	1	3	1	1	0x54	0x801B0054			beam,daisenp
+F311	2	2	10	40	80	1	2	0	1	0x498	0x801B0498			conf,sldfang

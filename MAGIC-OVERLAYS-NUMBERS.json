@@ -1,0 +1,689 @@
+{
+ "overlays": 287,
+ "overlays_sha1_ok": 287,
+ "functions": 3959,
+ "code_bytes": 1772452,
+ "data_bytes": 43743259,
+ "file_bytes": 45515711,
+ "bss_bytes_total": 557272,
+ "vram_values": [
+  "0x801B0000"
+ ],
+ "imports": {
+  "main+battle": 287
+ },
+ "functions_per_overlay": {
+  "min": 2,
+  "median": 11,
+  "max": 111
+ },
+ "code_bytes_per_overlay": {
+  "min": 448,
+  "median": 3984,
+  "max": 60156
+ },
+ "data_bytes_per_overlay": {
+  "min": 0,
+  "median": 152276,
+  "max": 273728
+ },
+ "code_share_of_file": 0.0389,
+ "examples": {
+  "smallest_code": [
+   [
+    "gattai",
+    448,
+    0
+   ],
+   [
+    "jinrai",
+    784,
+    20252
+   ],
+   [
+    "smkball",
+    784,
+    25640
+   ]
+  ],
+  "largest_code": [
+   [
+    "hades",
+    43452,
+    250320
+   ],
+   [
+    "tifa",
+    52992,
+    230592
+   ],
+   [
+    "knights",
+    60156,
+    189996
+   ]
+  ]
+ },
+ "split_check": {
+  "overlays_same_count": 285,
+  "functions_in_source": 3957,
+  "functions_split": 3959
+ },
+ "skeleton_families": {
+  "count": 311,
+  "functions": 1868,
+  "bytes": 511472,
+  "functions_share": 0.4718,
+  "bytes_share": 0.2886
+ },
+ "skeleton_families_ge10": {
+  "count": 307,
+  "functions": 1669,
+  "bytes": 505056
+ },
+ "clone_families": {
+  "count": 268,
+  "functions": 1616,
+  "bytes": 446904
+ },
+ "duplicate_copies": {
+  "bytes_beyond_first_copy": 393576,
+  "functions_beyond_first_copy": 1557
+ },
+ "overlay_groups_sharing_several_families": [
+  {
+   "overlays": 38,
+   "families": 4,
+   "bytes": 39824,
+   "first_members": [
+    "brizag2",
+    "club1",
+    "club2",
+    "conf",
+    "death"
+   ]
+  },
+  {
+   "overlays": 8,
+   "families": 2,
+   "bytes": 35264,
+   "first_members": [
+    "frog",
+    "gaisei",
+    "hyper",
+    "nadare",
+    "nonoshi"
+   ]
+  },
+  {
+   "overlays": 10,
+   "families": 6,
+   "bytes": 30840,
+   "first_members": [
+    "club1",
+    "club2",
+    "dia1",
+    "dia2",
+    "heart1"
+   ]
+  },
+  {
+   "overlays": 23,
+   "families": 2,
+   "bytes": 15088,
+   "first_members": [
+    "cho_kyu",
+    "dia",
+    "dynamite",
+    "energy",
+    "gaisei"
+   ]
+  },
+  {
+   "overlays": 6,
+   "families": 2,
+   "bytes": 2708,
+   "first_members": [
+    "knights",
+    "kujata",
+    "odin1",
+    "sting",
+    "vahamut"
+   ]
+  },
+  {
+   "overlays": 5,
+   "families": 2,
+   "bytes": 1840,
+   "first_members": [
+    "alex",
+    "fullcare",
+    "gospel",
+    "jaki",
+    "tupon"
+   ]
+  }
+ ],
+ "unique_functions": {
+  "count": 2091,
+  "bytes": 1260980
+ },
+ "unique_by_size": {
+  "lt10": 5,
+  "10to49": 306,
+  "50to199": 1334,
+  "ge200": 446
+ },
+ "max_family_overlays": 175,
+ "overlay_family_code_share": {
+  "min": 0.0,
+  "median": 0.253,
+  "max": 1.0
+ },
+ "overlays_with_ge_half_shared": 73,
+ "near_families": {
+  "count": 100,
+  "functions": 262,
+  "bytes": 154712,
+  "note": "functions >= 20 instructions not in an exact family whose masked sequences are >= 85 percent alike in another overlay"
+ },
+ "entry": {
+  "first_function_is_8_instruction_stub_calling_one_function": 124,
+  "stub_target_calls_BattleEffectRegister": 124,
+  "first_function_shapes": [
+   [
+    "18fccf8da19d",
+    8,
+    124
+   ],
+   [
+    "6ad4b3c2e203",
+    21,
+    76
+   ],
+   [
+    "a98be214886c",
+    10,
+    47
+   ],
+   [
+    "d3512219e1de",
+    27,
+    10
+   ],
+   [
+    "6d1497a5515d",
+    35,
+    3
+   ]
+  ],
+  "overlays_with_distinct_first_shape": 31
+ },
+ "register_calls_per_overlay": {
+  "1": 2,
+  "2": 7,
+  "3": 28,
+  "4": 31,
+  "5": 50,
+  "6": 38,
+  "7": 19,
+  "8": 31,
+  "9": 17,
+  "10": 14,
+  "11": 7,
+  "12": 11,
+  "13": 5,
+  "14": 1,
+  "15": 4,
+  "16": 3,
+  "17": 4,
+  "19": 5,
+  "20": 1,
+  "21": 1,
+  "23": 2,
+  "24": 1,
+  "31": 1,
+  "33": 1,
+  "37": 1,
+  "40": 1,
+  "55": 1
+ },
+ "register_calls": {
+  "total": 2242,
+  "median_per_overlay": 6,
+  "max": 55
+ },
+ "address_taken_functions_per_overlay": {
+  "min": 1,
+  "median": 7,
+  "max": 70
+ },
+ "overlays_calling_BattleEffectRegister": 287,
+ "function_addresses_taken_per_overlay": {
+  "1": 1,
+  "3": 13,
+  "4": 31,
+  "5": 39,
+  "6": 56,
+  "7": 26,
+  "8": 23,
+  "9": 29,
+  "10": 14,
+  "11": 16,
+  "12": 9,
+  "13": 4,
+  "14": 5,
+  "15": 3,
+  "16": 2,
+  "17": 3,
+  "18": 1,
+  "19": 2,
+  "20": 2,
+  "24": 1,
+  "26": 1,
+  "27": 1,
+  "32": 1,
+  "34": 1,
+  "35": 1,
+  "37": 1,
+  "70": 1
+ },
+ "entry_stub": {
+  "functions": 177,
+  "overlays": 175,
+  "instructions": 8,
+  "first_stub_offsets": [
+   [
+    "0x0",
+    105
+   ],
+   [
+    "0x54",
+    46
+   ],
+   [
+    "0x40",
+    4
+   ],
+   [
+    "0x10",
+    3
+   ],
+   [
+    "0x84",
+    2
+   ],
+   [
+    "0x8",
+    2
+   ],
+   [
+    "0x30",
+    2
+   ],
+   [
+    "0x70",
+    2
+   ]
+  ],
+  "distinct_offsets": 16
+ },
+ "entry_table_in_battle_exe": {
+  "file_offset": "0x4F9D8",
+  "vram": "0x800EF9D8",
+  "words": 513,
+  "overlay_entries": 496,
+  "distinct_entry_addresses": 123,
+  "most_common": [
+   [
+    "0x801B0000",
+    159
+   ],
+   [
+    "0x801B0054",
+    105
+   ],
+   [
+    "0x801B0364",
+    19
+   ],
+   [
+    "0x801B0010",
+    7
+   ],
+   [
+    "0x801B008C",
+    6
+   ],
+   [
+    "0x801B02EC",
+    5
+   ]
+  ]
+ },
+ "functions_with_free_slot_store": {
+  "count": 2041,
+  "overlays": 287
+ },
+ "functions_reading_effect_cursor": {
+  "count": 2049,
+  "overlays": 287,
+  "bytes": 1218240
+ },
+ "functions_using_slot_table": 2386,
+ "top_external_callees": [
+  [
+   "BattleEffectRegister",
+   "0x800BBEAC",
+   1153
+  ],
+  [
+   "SetTransMatrix",
+   "0x8003B51C",
+   912
+  ],
+  [
+   "SetRotMatrix",
+   "0x8003B48C",
+   911
+  ],
+  [
+   "CompMatrix",
+   "0x8003A63C",
+   581
+  ],
+  [
+   "rand",
+   "0x80042DA8",
+   574
+  ],
+  [
+   "func_800D29D4",
+   "0x800D29D4",
+   555
+  ],
+  [
+   "func_800D4D90",
+   "0x800D4D90",
+   526
+  ],
+  [
+   "ScaleMatrix",
+   "0x8003B35C",
+   506
+  ],
+  [
+   "RotMatrixYXZ",
+   "0x8003C21C",
+   488
+  ],
+  [
+   "BattleSetBillboardMatrix",
+   "0x800D4368",
+   443
+  ],
+  [
+   "rsin",
+   "0x80039A74",
+   434
+  ],
+  [
+   "BattleGetPartPosition",
+   "0x800D3994",
+   425
+  ],
+  [
+   "SetFarColor",
+   "0x8003B69C",
+   341
+  ],
+  [
+   "RotMatrix",
+   "0x8003BF8C",
+   333
+  ],
+  [
+   "rcos",
+   "0x80039B40",
+   301
+  ]
+ ],
+ "data": {
+  "bytes": 43743259,
+  "tim_images": 283,
+  "tim_bytes": 19678032,
+  "overlays_with_tim": 261,
+  "distinct_tim_images": 270,
+  "tim_images_that_occur_in_more_than_one_overlay": 25,
+  "zero_bytes_outside_tim": 20972620,
+  "pointer_words_into_own_range": 2134,
+  "other_bytes": 3092607,
+  "other_blocks_ge64": 405,
+  "other_blocks_bytes": 4316898,
+  "other_blocks_by_first_word": [
+   [
+    "23200000",
+    109,
+    108
+   ],
+   [
+    "d0000000",
+    17,
+    15
+   ],
+   [
+    "20000000",
+    16,
+    16
+   ],
+   [
+    "90010000",
+    14,
+    14
+   ],
+   [
+    "10000000",
+    8,
+    7
+   ]
+  ]
+ },
+ "compiler_setting_files": {
+  "PSYQ=3.3 CC1=2.6.3": 283,
+  "PSYQ=3.5": 1,
+  "PSYQ=3.5 CC1=2.6.3": 3
+ },
+ "compiler_setting_files_with_matched_c": {
+  "PSYQ=3.3 CC1=2.6.3": 268,
+  "PSYQ=3.5": 1,
+  "PSYQ=3.5 CC1=2.6.3": 3
+ },
+ "files_with_matched_c_functions": 272,
+ "functions_matched_in_c_in_staged_tree": 1765,
+ "functions_still_asm_in_staged_tree": 2192,
+ "data_kinds": {
+  "non_zero_non_image_bytes": 3092607,
+  "rows": [
+   {
+    "kind": "model blocks, address taken",
+    "bytes": 1205493,
+    "share": 0.3898,
+    "overlays": 187,
+    "items": 879
+   },
+   {
+    "kind": "model blocks, layout only",
+    "bytes": 850999,
+    "share": 0.2752,
+    "overlays": 34,
+    "items": 519
+   },
+   {
+    "kind": "other, no reference found",
+    "bytes": 436082,
+    "share": 0.141,
+    "overlays": 141,
+    "items": 221
+   },
+   {
+    "kind": "other, address built by code",
+    "bytes": 289815,
+    "share": 0.0937,
+    "overlays": 134,
+    "items": 162
+   },
+   {
+    "kind": "vertex-like arrays (s16 x, y, z, 0)",
+    "bytes": 200567,
+    "share": 0.0649,
+    "overlays": 41,
+    "items": 59
+   },
+   {
+    "kind": "sprite-quad tables (SpriteAnim)",
+    "bytes": 91247,
+    "share": 0.0295,
+    "overlays": 194,
+    "items": 725
+   },
+   {
+    "kind": "other, pointed to from data",
+    "bytes": 17594,
+    "share": 0.0057,
+    "overlays": 14,
+    "items": 14
+   },
+   {
+    "kind": "short runs (under 64 bytes)",
+    "bytes": 810,
+    "share": 0.0003,
+    "overlays": 39,
+    "items": 40
+   }
+  ],
+  "model_blocks_first_routine_called_after_address": [
+   [
+    "none",
+    118
+   ],
+   [
+    "func_800D29D4",
+    114
+   ],
+   [
+    "local",
+    92
+   ],
+   [
+    "rand",
+    11
+   ],
+   [
+    "BattleEffectRegister",
+    5
+   ]
+  ],
+  "sprite_tables_start_addressed": {
+   "layout only": 39,
+   "address taken": 686
+  },
+  "zero_fill": [
+   {
+    "kind": "two 0xC000-byte buffers; code builds some other address inside",
+    "bytes": 9180787,
+    "overlays": 93,
+    "runs": 93
+   },
+   {
+    "kind": "two 0xC000-byte buffers; code builds both bases",
+    "bytes": 6343945,
+    "overlays": 64,
+    "runs": 64
+   },
+   {
+    "kind": "other run of 16 KiB or more; code builds an address inside",
+    "bytes": 4007365,
+    "overlays": 42,
+    "runs": 42
+   },
+   {
+    "kind": "other run of 16 KiB or more; no address inside built by code",
+    "bytes": 100320,
+    "overlays": 2,
+    "runs": 2
+   },
+   {
+    "kind": "two 0xC000-byte buffers; no address inside built by code",
+    "bytes": 98314,
+    "overlays": 1,
+    "runs": 1
+   },
+   {
+    "kind": "run under 16 KiB (64 bytes or more)",
+    "bytes": 16292,
+    "overlays": 16,
+    "runs": 80
+   }
+  ],
+  "zero_run_sizes_most_common": [
+   [
+    "0x80",
+    28
+   ],
+   [
+    "0x18008",
+    11
+   ],
+   [
+    "0x1801c",
+    9
+   ],
+   [
+    "0x18004",
+    8
+   ],
+   [
+    "0x1800c",
+    7
+   ],
+   [
+    "0x1803c",
+    7
+   ],
+   [
+    "0x4d",
+    7
+   ],
+   [
+    "0x18010",
+    6
+   ]
+  ],
+  "two_buffer_run_sizes_most_common": [
+   [
+    "0x18df4",
+    4
+   ],
+   [
+    "0x1803c",
+    4
+   ],
+   [
+    "0x1804a",
+    4
+   ],
+   [
+    "0x18050",
+    4
+   ],
+   [
+    "0x1800c",
+    3
+   ],
+   [
+    "0x18010",
+    3
+   ]
+  ]
+ }
+}
